@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-08 19:42+0200\n"
-"PO-Revision-Date: 2008-04-08 19:42+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2008-04-25 18:40+0100\n"
+"Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,85 +15,85 @@ msgstr ""
 #. [campaign]
 #: The_Heist/scenarios/03_The_Heist.cfg:5 The_Heist/_main.cfg:8
 msgid "The Heist"
-msgstr ""
+msgstr "Il colpo"
 
 #. [campaign]
 #: The_Heist/_main.cfg:10
 msgid " (Version"
-msgstr ""
+msgstr " (versione "
 
 #. [campaign]
 #: The_Heist/_main.cfg:10
 msgid "A plot to steal a king's treasure goes awry."
-msgstr ""
+msgstr "Il piano per rubare il tesoro del re finisce male."
 
 #. [campaign]
 #: The_Heist/_main.cfg:14
 msgid "Easy"
-msgstr ""
+msgstr "Facile"
 
 #. [campaign]
 #: The_Heist/_main.cfg:15
 msgid "Normal"
-msgstr ""
+msgstr "Normale"
 
 #. [campaign]
 #: The_Heist/_main.cfg:16
 msgid "Hard"
-msgstr ""
+msgstr "Difficile"
 
 #. [scenario]
 #: The_Heist/scenarios/01_The_Plan.cfg:5
 msgid "The Plan"
-msgstr ""
+msgstr "Il piano"
 
 #. [event]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:81
 #: The_Heist/scenarios/01_The_Plan.cfg:41
 msgid "Zilead"
-msgstr ""
+msgstr "Zilead"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:42
 msgid "Xavier"
-msgstr ""
+msgstr "Xavier"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:43
 msgid "Baltizar"
-msgstr ""
+msgstr "Baltizar"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:44
 msgid "Judas"
-msgstr ""
+msgstr "Judas"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:47
 msgid "Ardella"
-msgstr ""
+msgstr "Ardella"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:48
 msgid "Rogan"
-msgstr ""
+msgstr "Rogan"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:49
 msgid "Leana"
-msgstr ""
+msgstr "Leana"
 
 #. [event]: (description=Judas) side 1}
 #. [event]
 #: The_Heist/scenarios/05_The_Collision.cfg:97
 #: The_Heist/scenarios/01_The_Plan.cfg:52
 msgid "Bill"
-msgstr ""
+msgstr "Bill"
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:65
 msgid "Why don't you tell us why you brought us all here?"
-msgstr ""
+msgstr "Perché non cominci a dirci il motivo per cui ci hai convocato?"
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:66
@@ -102,13 +102,17 @@ msgid ""
 "escalating. According to my sources, Theomund aims to overthrow the "
 "tyrannous king tomorrow night."
 msgstr ""
+"Be', come sapete, le ostilità tra re Gerald e re Teomundo stanno aumentando. "
+"Secondo le mie fonti, Theomund mira a rovesciare il re tiranno domani notte."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:67
+#, fuzzy
 msgid ""
 "Good for him. It's about time someone removed that poor excuse for a king "
 "from power."
 msgstr ""
+"Be', è quasi ora che qualcuno eliminasse quel pagliaccio di un re dal potere."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:68
@@ -116,6 +120,8 @@ msgid ""
 "I agree. However, it will not be Theomund. In fact, we are going to help "
 "Gerald defeat Theomund's army."
 msgstr ""
+"Sono d'accordo. Comunque non sarà Teomundo. In realtà, aiuteremo Gerald a "
+"sconfiggere l'esercito di Theomund."
 
 #. [event]: (description=Zilead) no}
 #. [event]: (description=Talika) 20 35}
@@ -124,7 +130,7 @@ msgstr ""
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:133
 #: The_Heist/scenarios/01_The_Plan.cfg:69
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:70
@@ -132,11 +138,14 @@ msgid ""
 "After our victory, we will accompany Gerald and his men back to the castle. "
 "Then we'll wait for an opportune moment to ask for a personal tour."
 msgstr ""
+"Dopo la nostra vittoria, accompagneremo Gerald e i suoi uomini di ritorno al "
+"castello. Quindi aspetteremo il momento opportuno per chiedere di "
+"accompagnarci a fare un giro di persona."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:71
 msgid "Zilead..."
-msgstr ""
+msgstr "Zilead..."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:72
@@ -147,6 +156,12 @@ msgid ""
 "back up to the main level, have a drink with Gerald's men, and then head out "
 "the castle's main gate."
 msgstr ""
+"Dopo che ci avrà portato nella camera sotterranea del castello, uccideremo "
+"le sue guardie, costringeremo Gerald a dirci dove tiene il suo tesoro, poi "
+"uccideremo il re, nasconderemo il cadavere, troveremo il tesoro, prenderemo "
+"quello che riusciremo a nasconderci addosso, torneremo al livello superiore, "
+"berremo assieme agli uomini di Gerald e usciremo dal castello attraverso il "
+"cancello principale."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:75
@@ -154,6 +169,9 @@ msgid ""
 "Ardella, my father is attempting a siege of King Gerald's castle tomorrow "
 "evening. Rogan has informed me that Gerald is well aware of my father's plan."
 msgstr ""
+"Ardelia, domani sera mio padre cingerà l'assedio al castello di re Gerald. "
+"Rogan mi ha informato che Gerald è perfettamente al corrente dei piani di "
+"mio padre."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:76
@@ -161,6 +179,8 @@ msgid ""
 "King Gerald has foolishly decided not to defend his castle. Instead, he will "
 "confront Theomund's army in the field. It will be a massacre."
 msgstr ""
+"Stupidamente re Gerald ha deciso di non difendersi nel castello. Piuttosto, "
+"si scontrerà sul campo con l'esercito di Teomundo. Sarà un massacro."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:77
@@ -169,95 +189,102 @@ msgid ""
 "little known island far west of Wesnoth where we can start a new life "
 "together."
 msgstr ""
+"Ardelia, mi serve il tuo aiuto. Rogan e io dobbiamo lasciare queste terre. "
+"C'è un'isola lontana e poco conosciuta a occidente di Wesnoth  dove potremo "
+"cominciare insieme una nuova vita."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:78
 msgid "How can I help?"
-msgstr ""
+msgstr "Come posso aiutarti?"
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:79
+#, fuzzy
 msgid ""
 "If we are to start a new life, we'll need gold. More specifically, King "
 "Gerald's gold."
 msgstr ""
+"Se stiamo per cominciare una nuova vita, avremo bisogno di oro. Per essere "
+"precisi, ci serve l'oro di re Gerald."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:82
 msgid "Good night, men."
-msgstr ""
+msgstr "Buona notte, signori."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:98
 msgid "Hello, old friend. What have you got for me?"
-msgstr ""
+msgstr "Ben trovato, vecchio mio. Cosa hai per me?"
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:99
 msgid "You're not going to believe this."
-msgstr ""
+msgstr "Non ci crederai."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:100
 msgid "I'm all ears."
-msgstr ""
+msgstr "Sono tutto orecchi."
 
 #: The_Heist/scenarios/02_The_Battle.cfg:5
 msgid "The Battle"
-msgstr ""
+msgstr "La battaglia"
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:64
+#, fuzzy
 msgid "You did not kill at least $needed_kills| units"
-msgstr ""
+msgstr "Non hai eliminato almeno tre unità."
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/02_The_Battle.cfg:68
 msgid "Gerald has twice as many men as Theomund"
-msgstr ""
+msgstr "Quando Gerald aveva il doppio degli uomini di Teomundo"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/02_The_Battle.cfg:72
 msgid "$desc_lose"
-msgstr ""
+msgstr "$desc_lose"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/02_The_Battle.cfg:76
 msgid "Death of Gerald"
-msgstr ""
+msgstr "Morte di Gerald"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/02_The_Battle.cfg:80
 msgid "Death of Zilead or any of his men"
-msgstr ""
+msgstr "Morte di Zilead o di uno qualunque dei suoi uomini."
 
 #. [event]
 #. [scenario]
 #: The_Heist/scenarios/02_The_Battle.cfg:90
 #: The_Heist/scenarios/15_The_Breakout.cfg:134
 msgid "Fagan"
-msgstr ""
+msgstr "Fagan"
 
 #. [event]
 #. [scenario]
 #: The_Heist/scenarios/02_The_Battle.cfg:91
 #: The_Heist/scenarios/15_The_Breakout.cfg:135
 msgid "Uscias"
-msgstr ""
+msgstr "Uscias"
 
 #. [event]
 #. [scenario]
 #: The_Heist/scenarios/02_The_Battle.cfg:92
 #: The_Heist/scenarios/15_The_Breakout.cfg:136
 msgid "Conri"
-msgstr ""
+msgstr "Conri"
 
 #. [event]
 #. [scenario]
 #: The_Heist/scenarios/02_The_Battle.cfg:93
 #: The_Heist/scenarios/15_The_Breakout.cfg:137
 msgid "Keegan"
-msgstr ""
+msgstr "Keegan"
 
 #. [event]
 #. [event]: (description=Zilead)}, (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}, (description=Leana)}, (description=Rogan)}, (description=Ardella)}
@@ -269,7 +296,7 @@ msgstr ""
 #: The_Heist/scenarios/15_The_Breakout.cfg:265
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:794
 msgid "King Gerald"
-msgstr ""
+msgstr "Re Gerald"
 
 #. [else]
 #. [event]: (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}
@@ -279,12 +306,14 @@ msgstr ""
 #: The_Heist/scenarios/02_The_Battle.cfg:107
 #: The_Heist/scenarios/10_The_Persuasion.cfg:35
 msgid "King Theomund"
-msgstr ""
+msgstr "Re Teomundo"
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:119
 msgid "Surrender now, Gerald, and I will send you and your men into exile."
 msgstr ""
+"Arrenditi adesso, Gerald, e io ti permetterò di andare in esilio assieme ai "
+"tuoi uomini."
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:120
@@ -292,6 +321,8 @@ msgid ""
 "What insolence! You'll receive no such offer from me. The reign of Theomund "
 "is over! Men, kill every last one of them!"
 msgstr ""
+"Che insolente! NOn avrai una offerta simile da parte mia. Il regno di "
+"Teomundo è finito! Uomini, uccideteli tutti fino all'ultimo!"
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:171
@@ -299,31 +330,33 @@ msgid ""
 "Would anyone care for a drink? I've got a bottle of the finest liquor this "
 "side of Wesnoth."
 msgstr ""
+"Volete bere qualcosa? Ho una bottiglia del miglior liquore di questa regione "
+"di Wesnoth."
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:172
 msgid "Stolen from King Gerald's liquor cabinet, no doubt."
-msgstr ""
+msgstr "Rubato dall'armadio dei liquori del re Gerald, senza dubbio."
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:173
 msgid "Right you are, sir."
-msgstr ""
+msgstr "Avete ragione, sire."
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:174
 msgid "I'll take a swig."
-msgstr ""
+msgstr "Ne prenderò un sorso."
 
 #. [then]
 #: The_Heist/scenarios/02_The_Battle.cfg:255
 msgid "Theomund's men are retreating."
-msgstr ""
+msgstr "Gli uomini di Teomundo si stanno ritirando."
 
 #. [then]
 #: The_Heist/scenarios/02_The_Battle.cfg:256
 msgid "Well done, King Gerald."
-msgstr ""
+msgstr "Ben fatto, re Gerald."
 
 #. [then]
 #: The_Heist/scenarios/02_The_Battle.cfg:264
@@ -331,6 +364,9 @@ msgid ""
 "Zilead, you assured me that you and your friends would help me defeat "
 "Theomund. Instead, you fought like cowards. Get out of my sight!"
 msgstr ""
+"Zilead, mi avevi assicurato che tu e i tuoi amici mi avreste aiutato per "
+"sconfiggere Teomundo. Invece, avete combattuto come dei vigliacchi. Non ti "
+"voglio più vedere!"
 
 #. [else]
 #: The_Heist/scenarios/02_The_Battle.cfg:270
@@ -338,6 +374,8 @@ msgid ""
 "Thank you, Zilead. It would not have been a victory without your help. I am "
 "eternally grateful to you."
 msgstr ""
+"Grazie, Zilead. Non avremmo potuto vincere senza il tuo aiuto. Ti sarò grato "
+"per sempre."
 
 #: The_Heist/scenarios/02_The_Battle.cfg:316
 msgid "King Theomund is wounded! Get him off the battlefield!"
@@ -345,52 +383,54 @@ msgstr ""
 
 #: The_Heist/scenarios/02_The_Battle.cfg:362
 msgid "King Gerald has been slain. We have failed."
-msgstr ""
+msgstr "Re Gerald è stato ucciso. Abbiamo fallito."
 
 #: The_Heist/scenarios/02_The_Battle.cfg:383
+#, fuzzy
 msgid "$store.user_description| has been slain!"
-msgstr ""
+msgstr "La regina Edina è stata uccisa!"
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:399
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:776
 msgid "We have lost this battle. Retreat!"
-msgstr ""
+msgstr "Questa battaglia è persa. Ritiriamoci!"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:54
 msgid "Sudry"
-msgstr ""
+msgstr "Sudry"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:55
 msgid "Rhaedyn"
-msgstr ""
+msgstr "Rhaedyn"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:58
 msgid "Brodin"
-msgstr ""
+msgstr "Brodin"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:59
 msgid "Lenvan"
-msgstr ""
+msgstr "Lenvan"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:60
 msgid "Demyr"
-msgstr ""
+msgstr "Demyr"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:61
 msgid "Addredry"
-msgstr ""
+msgstr "Addredry"
 
 #. [event]: (description=Sudry) 13 10}, (description=Rhaedyn) 17 12}, (description=Sudry) side 1}, (description=Rhaedyn) side 1}
 #: The_Heist/scenarios/03_The_Heist.cfg:68
+#, fuzzy
 msgid "It is time."
-msgstr ""
+msgstr "Ecco."
 
 #. [event]: (description=Sudry) 13 10}, (description=Rhaedyn) 17 12}, (description=Sudry) side 1}, (description=Rhaedyn) side 1}
 #: The_Heist/scenarios/03_The_Heist.cfg:73
@@ -399,13 +439,14 @@ msgstr ""
 
 #. [event]: (description=Sudry) 13 10}, (description=Rhaedyn) 17 12}, (description=Sudry) side 1}, (description=Rhaedyn) side 1}
 #: The_Heist/scenarios/03_The_Heist.cfg:74
+#, fuzzy
 msgid "It's nothing personal, Brodin."
-msgstr ""
+msgstr "Non è niente... non è niente... Solo che... io non riesco..."
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/03_The_Heist.cfg:95
 msgid "Find the treasure"
-msgstr ""
+msgstr "Trova il tesoro."
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:56
@@ -414,92 +455,93 @@ msgstr ""
 #: The_Heist/scenarios/11_The_Statues.cfg:1064
 #: The_Heist/scenarios/03_The_Heist.cfg:99
 msgid "Turns run out"
-msgstr ""
+msgstr "Fine dei turni a disposizione."
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/03_The_Heist.cfg:103
 msgid "Death of Ardella, Leana or Rogan"
-msgstr ""
+msgstr "Morte di Ardelia, Leana o Rogan"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:140
 msgid "Varcyn"
-msgstr ""
+msgstr "Varcyn"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:144
 msgid "Aethun"
-msgstr ""
+msgstr "Aethun"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:148
 msgid "Cadry"
-msgstr ""
+msgstr "Cadry"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:152
 msgid "Tarcyn"
-msgstr ""
+msgstr "Tarcyn"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:156
 msgid "Gwadoc"
-msgstr ""
+msgstr "Gwadoc"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:160
 msgid "Iago"
-msgstr ""
+msgstr "Iago"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:166
 msgid "Claudius"
-msgstr ""
+msgstr "Claudio"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:178
+#, fuzzy
 msgid "I found the treasure!"
-msgstr ""
+msgstr "L'ho trovata! L'ho trovata! L'Oracolo!"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:187
 msgid "Gleran"
-msgstr ""
+msgstr "Gleran"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:188
 msgid "Aethunry"
-msgstr ""
+msgstr "Aethunry"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:192
 msgid "Owidry"
-msgstr ""
+msgstr "Owidry"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:193
 msgid "Taemyr"
-msgstr ""
+msgstr "Taemyr"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:197
 msgid "Modd"
-msgstr ""
+msgstr "Modd"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:198
 msgid "Lurraent"
-msgstr ""
+msgstr "Lurraent"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:202
 msgid "Saercyn"
-msgstr ""
+msgstr "Saercyn"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:203
 msgid "Dadoc"
-msgstr ""
+msgstr "Dadoc"
 
 #. [event]
 #. [scenario]
@@ -508,7 +550,7 @@ msgstr ""
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:765
 #: The_Heist/scenarios/03_The_Heist.cfg:206
 msgid "Ardella!"
-msgstr ""
+msgstr "Ardella!"
 
 #. [event]
 #. [scenario]
@@ -516,7 +558,7 @@ msgstr ""
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:772
 #: The_Heist/scenarios/03_The_Heist.cfg:207
 msgid "Rogan!"
-msgstr ""
+msgstr "Rogan!"
 
 #. [event]
 #. [scenario]
@@ -524,7 +566,7 @@ msgstr ""
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:771
 #: The_Heist/scenarios/03_The_Heist.cfg:208
 msgid "Leana!"
-msgstr ""
+msgstr "Leana!"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:212
@@ -534,57 +576,57 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/04_The_Tour.cfg:5
 msgid "The Tour"
-msgstr ""
+msgstr "Il giro"
 
 #. [event]
 #: The_Heist/scenarios/04_The_Tour.cfg:42
 msgid "Gareth"
-msgstr ""
+msgstr "Gareth"
 
 #. [event]
 #: The_Heist/scenarios/04_The_Tour.cfg:43
 msgid "Hale"
-msgstr ""
+msgstr "Hale"
 
 #. [event]
 #: The_Heist/scenarios/04_The_Tour.cfg:44
 msgid "Titus"
-msgstr ""
+msgstr "Tito"
 
 #. [event]
 #: The_Heist/scenarios/04_The_Tour.cfg:45
 msgid "Hammond"
-msgstr ""
+msgstr "Hammond"
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:74
 msgid "And this is the dungeon where my enemies are left to rot."
-msgstr ""
+msgstr "E questo è la segreta dove i miei nemici vengono rinchiusi a marcire."
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:75
 msgid "That explains the smell."
-msgstr ""
+msgstr "Questo spiega la puzza."
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:76
 msgid "Aye, let us not linger here any longer."
-msgstr ""
+msgstr "Sissignore, non rimaniamo qua a perdere altro tempo."
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:77
 msgid "Where are the guards?"
-msgstr ""
+msgstr "Dove sono le guardie?"
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:78
 msgid "Oh no!"
-msgstr ""
+msgstr "Oh no!"
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:81
 msgid "My treasure has been stolen!"
-msgstr ""
+msgstr "Il mio tesoro è stato rubato!"
 
 #. [scenario]
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
@@ -596,12 +638,13 @@ msgstr ""
 #: The_Heist/scenarios/15_The_Breakout.cfg:255
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:760
 msgid "Zilead!"
-msgstr ""
+msgstr "Zilead!"
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:84
+#, fuzzy
 msgid "Find my treasure and bring me the heads of those responsible!"
-msgstr ""
+msgstr "Uomini, trovate il mio tesoro e portatemi le teste dei responsabili!"
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:85
@@ -614,27 +657,29 @@ msgid ""
 "Aye, you've proven your allegiance to me on the battlefield. Now hurry, "
 "before the culprits get too far!"
 msgstr ""
+"Sissignore, hai dimostrato sul campo la tua devozione. Ora sbrighiamoci, "
+"prima che i colpevoli vadano troppo lontano!"
 
 #. [scenario]
 #: The_Heist/scenarios/05_The_Collision.cfg:5
 msgid "The Collision"
-msgstr ""
+msgstr "Lo scontro"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/05_The_Collision.cfg:54
 msgid "Kill everyone but Zilead"
-msgstr ""
+msgstr "Uccidi tutti tranne Zilead."
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/05_The_Collision.cfg:58
 msgid "Death of Bill"
-msgstr ""
+msgstr "Morte di Bill"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/05_The_Collision.cfg:62
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:69
 msgid "Death of Zilead"
-msgstr ""
+msgstr "Morte di Zilead"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:81
@@ -642,6 +687,8 @@ msgid ""
 "I don't think the thieves would be so foolish as to venture through such a "
 "populated area."
 msgstr ""
+"Non credo che dei ladri sarebbero così sciocchi da avventurarsi attraverso "
+"un'area cosi' popolata."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:82
@@ -649,51 +696,57 @@ msgid ""
 "This is the town nearest King Gerald's castle. We will question the "
 "residents to see if they've witnessed any suspicious activity."
 msgstr ""
+"Questa città è la èiù vicina dal castello di re Gerald. Interrogheremo gli "
+"abitanti per sapere se hanno notato qualche attività sospetta."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:83
 msgid "But..."
-msgstr ""
+msgstr "Ma..."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:84
+#, fuzzy
 msgid "Gareth is right, Judas. Someone must have seen something."
 msgstr ""
+"Se ne occupano gli uomini di re Gerald. Inoltre, hanno ragione. Qualcuno "
+"deve aver visto qualcosa."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:99
 msgid "Well, well, Zilead, we meet at last!"
-msgstr ""
+msgstr "Bene, bene, Zilead, finalmente ci incontriamo!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:100
 msgid "Bill, wait..."
-msgstr ""
+msgstr "Bill, aspetta..."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:101
 msgid "Come on out, men! Gerald's gold is ripe for the taking!"
-msgstr ""
+msgstr "Venite uomini! L'oro di Gerald è pronto per essere raccolto!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:111
+#, fuzzy
 msgid "Are you going to hand it over, Zilead? I haven't got all night!"
-msgstr ""
+msgstr "Pensi di potercela fare, Zilead? Non abbiamo tutto il giorno!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:112
 msgid "Bill, you don't understand..."
-msgstr ""
+msgstr "Bill, tu non capisci..."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:113
 msgid "What's going on, Judas?"
-msgstr ""
+msgstr "Cosa sta succedendo, Judas?"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:114
 msgid "I'm so sorry. Bill's an old friend..."
-msgstr ""
+msgstr "Mi spiace. Bill è un vecchio amico..."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:115
@@ -701,11 +754,13 @@ msgid ""
 "I loved you like a son! After what we've been through together, you betray "
 "us for this scalawag!"
 msgstr ""
+"Ti ho amato come un figlio! Dopo tutto quello che abbiamo passato assieme, "
+"ci tradisci per questo canaglia!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:116
 msgid "What did you call me?"
-msgstr ""
+msgstr "Come mi hai chiamato?"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:117
@@ -713,6 +768,8 @@ msgid ""
 "Gentlemen, I'm afraid there's been some sort of misunderstanding. We are "
 "King Gerald's men. We do not..."
 msgstr ""
+"Signori, penso che ci sia stato un equivoco. Noi siamo gli uomini di re "
+"Gerald. Noi non..."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:118
@@ -720,46 +777,51 @@ msgid ""
 "Silence! I know all about Zilead's scheme to steal Gerald's treasure. Do I "
 "look like a dolt to you?"
 msgstr ""
+"Silenzio! So tutto dei piani di Zilead per rubare il tesoreo di Gerald. Ti "
+"sembro uno stupido?"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:119
 msgid "Zilead?"
-msgstr ""
+msgstr "Zilead?"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:120
 msgid "We did not steal the treasure!"
-msgstr ""
+msgstr "Non ruberai il tesoro!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:121
 msgid "Aye, the treasure was already gone before we could get our hands on it."
 msgstr ""
+"Sissignore, il tesoro era già scomparso prima che potessimo metterci le mani "
+"sopra."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:122
 msgid "Baltizar!"
-msgstr ""
+msgstr "Baltizar!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:123
 msgid "You scoundrels! You are all under arrest! Seize them!"
-msgstr ""
+msgstr "Voi altri, canaglie! Siete tutti in arresto! Prendeteli!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:124
 msgid "I have a better idea. You can all go straight to hell!"
-msgstr ""
+msgstr "Ho un'idea migliore. Te ne puoi anadre direttamente all'inferno!"
 
 #. [message]
 #: The_Heist/scenarios/05_The_Collision.cfg:314
 msgid "You must help us!"
-msgstr ""
+msgstr "Dovete aiutarci!"
 
 #. [message]
 #: The_Heist/scenarios/05_The_Collision.cfg:332
+#, fuzzy
 msgid "Please help us!"
-msgstr ""
+msgstr "Kaleh, Nym, aiutateci!"
 
 #. [event]
 #: The_Heist/scenarios/05_The_Collision.cfg:410
@@ -767,43 +829,47 @@ msgid ""
 "Well, Zilead, it looks like neither of us will get our hands on Gerald's "
 "treasure."
 msgstr ""
+"Be', Zilead, sembra che nessuno di noi due abbia messo le mani sul tesoto di "
+"gerald."
 
 #. [scenario]
 #. [event]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:252
 #: The_Heist/scenarios/05_The_Collision.cfg:422
 msgid "Damn!"
-msgstr ""
+msgstr "Merda!"
 
 #. [event]
 #: The_Heist/scenarios/05_The_Collision.cfg:442
 msgid "I am wasting my time here. You fools can fight amongst yourselves."
 msgstr ""
+"Sto sprecando il mio tempo qua. Voi sciocchi continuate pure a combattervi "
+"tra di voi."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/05_The_Collision.cfg:466
 msgid "If you kill me, you'll never see Gerald's treasure."
-msgstr ""
+msgstr "Se mi uccidi, non vedrai mai il tesoro di Gerald."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/05_The_Collision.cfg:467
 msgid "Where is it?"
-msgstr ""
+msgstr "Dov'è?"
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/05_The_Collision.cfg:468
 msgid "I will show you the way."
-msgstr ""
+msgstr "Ti mostrerò la strada."
 
 #. [scenario]
 #: The_Heist/scenarios/06_The_Hideout.cfg:5
 msgid "The Hideout"
-msgstr ""
+msgstr "Il nascondiglio"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/06_The_Hideout.cfg:101
 msgid "Kill all orcs"
-msgstr ""
+msgstr "Uccidi tutti gli orchi"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:60
@@ -811,118 +877,118 @@ msgstr ""
 #: The_Heist/scenarios/15_The_Breakout.cfg:45
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:98
 msgid "Death of"
-msgstr ""
+msgstr "Morte di"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/06_The_Hideout.cfg:109
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:110
 msgid "  Ardella, Leana, Rogan,"
-msgstr ""
+msgstr "  Ardella, Leana, Rogan,"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/06_The_Hideout.cfg:113
 msgid "  a parent, or a child"
-msgstr ""
+msgstr " un genitore o un bambino"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:138
 msgid "Bastian"
-msgstr ""
+msgstr "Bastian"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:139
 msgid "Irving"
-msgstr ""
+msgstr "Irving"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:140
 msgid "Reuben"
-msgstr ""
+msgstr "Reuben"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:154
 msgid "Ug"
-msgstr ""
+msgstr "Ug"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:157
 msgid "Ugakh"
-msgstr ""
+msgstr "Ugakh"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:158
 msgid "Khalag"
-msgstr ""
+msgstr "Khalag"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:161
 msgid "Erang"
-msgstr ""
+msgstr "Erang"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:162
 msgid "Bugdish"
-msgstr ""
+msgstr "Bugdish"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:163
 msgid "Eradash"
-msgstr ""
+msgstr "Eradash"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:164
 msgid "Vrigor"
-msgstr ""
+msgstr "Vrigor"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:165
 msgid "Gruol"
-msgstr ""
+msgstr "Gruol"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:166
 msgid "Gugdush"
-msgstr ""
+msgstr "Gugdush"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:167
 msgid "Gort"
-msgstr ""
+msgstr "Gort"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:168
 msgid "Grunk"
-msgstr ""
+msgstr "Grunk"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:169
 msgid "Rurag"
-msgstr ""
+msgstr "Rurag"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:170
 msgid "Poshnak"
-msgstr ""
+msgstr "Poshnak"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:174
 msgid "Goshnak"
-msgstr ""
+msgstr "Goshnak"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:175
 msgid "Rarbag"
-msgstr ""
+msgstr "Rarbag"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:198
 msgid "Dad"
-msgstr ""
+msgstr "Mamma"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:199
 msgid "Mom"
-msgstr ""
+msgstr "Papà"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:205
@@ -930,6 +996,8 @@ msgid ""
 "I can't believe my eyes. Princess Leana about to board a galleon with one of "
 "King Gerald's guards. This is just too good."
 msgstr ""
+"Non credo ai miei occhi. La principessa Leana sta per salire a bordo del "
+"galeone con una delle guardie di re Gerald. Perfetto."
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:206
@@ -937,31 +1005,35 @@ msgid ""
 "Stay out of sight. This is enemy territory. If we are seen, King Gerald's "
 "men will come and slaughter us all."
 msgstr ""
+"Non farti vedere. Questo è territorio nemico. Se gli uomini di re Gerald ci "
+"vedono, verranno in forze per massacrarci tutti."
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:208
 msgid "All right, let's board this galleon."
-msgstr ""
+msgstr "Benissimo, saliamo a obrdo di questo galeone."
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:210
 msgid "Help us! Help us!"
-msgstr ""
+msgstr "Aiutateci! Aiutateci!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:211
 msgid "Our mommy and daddy are in that cave! They were taken by orcs!"
 msgstr ""
+"La nostra mamma e il nostro papà sono in quella caverna! Sono stati rapiti "
+"dagli orchi!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:212
 msgid "Please save them!"
-msgstr ""
+msgstr "Per favore salvateli!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:214
 msgid "We have to help them."
-msgstr ""
+msgstr "Dobbiamo aiutarli."
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:215
@@ -974,16 +1046,18 @@ msgstr ""
 msgid ""
 "Children, head south to King Gerald's castle! He will rescue your parents!"
 msgstr ""
+"Bambini, andate verso sud al castello di re Gerald! Egli salverà i vostri "
+"genitori!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:218
 msgid "But they said they were going to eat them!"
-msgstr ""
+msgstr "Ma hanno detto che li avrebbero mangiati!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:219
 msgid "Don't let them eat my mommy and daddy!"
-msgstr ""
+msgstr "Non lasciare che si mangino mamma e papà!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:220
@@ -991,75 +1065,77 @@ msgid ""
 "Forget it! They won't help us! We don't need their help! Let's go men, we "
 "have orcs to kill!"
 msgstr ""
+"Lasciate perdere! Non ci aiuteranno! Non ci serve il loro aiuto! Andiamo "
+"uomini, abbiamo degli orchi da uccidere!"
 
 #. [event]
 #. [else]
 #: The_Heist/scenarios/06_The_Hideout.cfg:251
 #: The_Heist/scenarios/06_The_Hideout.cfg:422
 msgid "Zeke"
-msgstr ""
+msgstr "Zeke"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:258
 msgid "Thanks."
-msgstr ""
+msgstr "Grazie."
 
 #. [event]
 #. [else]
 #: The_Heist/scenarios/06_The_Hideout.cfg:268
 #: The_Heist/scenarios/06_The_Hideout.cfg:414
 msgid "Anna"
-msgstr ""
+msgstr "Anna"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:275
 msgid "Where are my children?"
-msgstr ""
+msgstr "Dove sono i miei bambini?"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:276
 msgid "We're right here, mommy!"
-msgstr ""
+msgstr "Siamo qua, mamma!"
 
 #. [scenario]
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:229
 #: The_Heist/scenarios/06_The_Hideout.cfg:336
 msgid "Mommy!"
-msgstr ""
+msgstr "Mamma!"
 
 #. [scenario]
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:230
 #: The_Heist/scenarios/06_The_Hideout.cfg:347
 msgid "Daddy!"
-msgstr ""
+msgstr "Papà!"
 
 #. [then]
 #: The_Heist/scenarios/06_The_Hideout.cfg:364
 msgid "No! Not my baby!"
-msgstr ""
+msgstr "No! Non il mio bambino!"
 
 #. [then]
 #: The_Heist/scenarios/06_The_Hideout.cfg:372
 msgid "No! Not my son!"
-msgstr ""
+msgstr "No! Non mio filgio!"
 
 #. [else]
 #: The_Heist/scenarios/06_The_Hideout.cfg:375
 msgid "How could we let that poor child die?"
-msgstr ""
+msgstr "Come abbiamo potuto permettere che quel povero bambino morisse?"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:392
 #: The_Heist/scenarios/07_The_Orc.cfg:36
 msgid "Kurtal"
-msgstr ""
+msgstr "Kurtal"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:393
 msgid "Heflin"
-msgstr ""
+msgstr "Heflin"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:395
@@ -1067,50 +1143,57 @@ msgid ""
 "Heflin, go and tell King Gerald that we found the thieves. I will stay here "
 "to ensure that Princess Leana and Rogan do not escape."
 msgstr ""
+"Heflin, va' a dire al re Gerald che abbiamo trovato i ladri. Rimarrò qui per "
+"assicurarmi che la principessa Leana e Rogan non fuggano."
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/06_The_Hideout.cfg:429
+#, fuzzy
 msgid "You have saved us from those evil creatures. How can we ever repay you?"
-msgstr ""
+msgstr "Ci hai salvato da queste creature malvage. Come possiamo ringraziarti?"
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/06_The_Hideout.cfg:430
+#, fuzzy
 msgid "Well, we do need a place to stay for the night."
-msgstr ""
+msgstr "Be', abbiamo bisogno di un posto dove passare la notte."
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/06_The_Hideout.cfg:431
 msgid "You'll always be welcome here, your highness."
-msgstr ""
+msgstr "Sarete sempre benvenuta qua, vostra altezza."
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:433
 #: The_Heist/scenarios/07_The_Orc.cfg:35
 msgid "Allak"
-msgstr ""
+msgstr "Allak"
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/06_The_Hideout.cfg:434
 msgid "Kalog"
-msgstr ""
+msgstr "Kalog"
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/06_The_Hideout.cfg:436
+#, fuzzy
 msgid ""
 "So, Princess Leana thinks she can get away with killing my orcs! We'll be "
 "back, princess. You will all suffer our wrath!"
 msgstr ""
+"Dunque, la principessa Leana pensa di poter uccidere i nostri orchi e "
+"andarsene così! Torneremo, principessa. Voi tutti patirete la nostra ira!"
 
 #. [scenario]
 #: The_Heist/scenarios/07_The_Orc.cfg:5
 msgid "The Orc"
-msgstr ""
+msgstr "L'orco"
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:47
 msgid "Why have you brought this hideous creature to my castle?"
-msgstr ""
+msgstr "Perché hai portato questa schifosa creatura nel mio castello?"
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:48
@@ -1119,11 +1202,14 @@ msgid ""
 "intended to slay them both, but this one said he had some information that "
 "would interest you."
 msgstr ""
+"Mio signore, abbiamo individuato due orchi mentre pattugliavamo nei dintorni "
+"della riva. Avevamo l'intenzione di ucciderli entrambi, ma questo ha detto "
+"di avere alcune informazioni che ti avrebbero interessato."
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:49
 msgid "What kind of information? Speak, orc!"
-msgstr ""
+msgstr "Che tipo di informazioni? Parla, orco!"
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:50
@@ -1131,16 +1217,19 @@ msgid ""
 "If you promise to spare my life, I will tell you everything I know about "
 "your missing treasure."
 msgstr ""
+"Se prometti di risparmiare la mia vita, io ti dirò tutto quello che so sul "
+"tuo tesoro scomparso."
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:51
 msgid "We make no deals with orcs here! Where is my treasure? Answer me!"
 msgstr ""
+"Noi non veniamo a patti con questi orchi! Dov'è il mio tesoro? Rispondimi!"
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:52
 msgid "My liege, let us torture this orc. We will make him talk."
-msgstr ""
+msgstr "Mio signore, lasciami torturare questo orco. Lo faremo parlare."
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:53
@@ -1148,36 +1237,39 @@ msgid ""
 "Torture me if you must, but you'd better make me talk soon. The thieves will "
 "not be at their present location much longer."
 msgstr ""
+"Torturatemi se volete, ma faerste meglio a farmi parlare al più  presto. I "
+"ladri non rimarranno nello stesso posto ancora a lungo."
 
 #. [scenario]
 #: The_Heist/scenarios/08_The_Family.cfg:5
 msgid "The Family"
-msgstr ""
+msgstr "La famiglia"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/08_The_Family.cfg:49
 msgid "Survive until end of turns"
-msgstr ""
+msgstr "Sopravvivi fino alla fine dei turni"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/08_The_Family.cfg:53
 msgid "Death of Anna, Zeke, or a child"
-msgstr ""
+msgstr "Morte di Anna, Zeke o un bambino"
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:65
 msgid "Norbert"
-msgstr ""
+msgstr "Norbert"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:76
 msgid "Zeke! Anna! Wake up!"
-msgstr ""
+msgstr "Zeke! Anna! Svegliatevi!"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:83
+#, fuzzy
 msgid "Who are you, stranger? And what brings you here at this early hour?"
-msgstr ""
+msgstr "Chi sei tu, straniero? E cosa ti porta qua a quest'ora di notte?"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:84
@@ -1185,11 +1277,13 @@ msgid ""
 "Princess Leana? So, you're the one they're after. I don't know what you've "
 "done, but Gerald's men are headed this way."
 msgstr ""
+"Principessa Leana? Allora siete voi quella che stanno cercando. Non so cosa "
+"avete fatto, ma gli uomini di Gerald sono diretti da questa parte."
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:98
 msgid "What's going on?"
-msgstr ""
+msgstr "Cosa sta succedendo?"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:99
@@ -1197,11 +1291,13 @@ msgid ""
 "It seems your guests have put you and your family in jeopardy. The princess "
 "and her cohorts must leave before it's too late."
 msgstr ""
+"Pare che i tuoi ospiti abbiano messo a repentaglio te e la tua famiglia . La "
+"principessa e la sua corte se ne devono andare prima che sia troppo tardi."
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:100
 msgid "Is there something you haven't told us, your highness?"
-msgstr ""
+msgstr "C'è qualcosa che ci dovete ancora dire, vostra altezza?"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:101
@@ -1209,6 +1305,8 @@ msgid ""
 "It's a long story and it seems we are short on time. If King Gerald's men "
 "arrive, you must tell them everything you know."
 msgstr ""
+"È una lunga storia e mi sembra che non abbiamo tempo. Se arrivano gli uomini "
+"di re Gerald, gli dovrai dire tutto quello che sai."
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:102
@@ -1216,6 +1314,8 @@ msgid ""
 "Princess Leana, you cannot leave. You and your friends will follow us to the "
 "cave. Together, we can defeat King Gerald's army!"
 msgstr ""
+"Principessa Leana, non potete andare. Voi e i vostri amici vi nasconderete "
+"con noi in cantina. Insieme possiamo sconfiggere l'esercito di re Gerald!"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:103
@@ -1223,6 +1323,9 @@ msgid ""
 "Although I am certain you could single-handedly defeat Gerald's army, young "
 "Reuben, we really must be off. Goodbye and thanks for the hospitality."
 msgstr ""
+"Anche se sono sicuro che potresti sconfiggere l'esercito di Gerald con una "
+"mano sola, giovane Reuben, dobbiamo davvero andare. Arrivederci e grazie per "
+"l'ospitalità."
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:114
@@ -1232,17 +1335,17 @@ msgstr ""
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:115
 msgid "Bye!"
-msgstr ""
+msgstr "Ciao!"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:137
 msgid "Anna, take the children to the cave. I will deal with Gerald's men."
-msgstr ""
+msgstr "Anna, porta i bambini in cantina. Parlo io con gli uomini di Gerald."
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:213
 msgid "Farold"
-msgstr ""
+msgstr "Farold"
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:218
@@ -1250,6 +1353,8 @@ msgid ""
 "Princess Leana and Rogan, we know you're here! King Gerald requests that you "
 "accompany us back to his castle! He'd like to have a few words with you!"
 msgstr ""
+"Principessa Leana e Rogan, sappiamo che siete qua! Re Gerald ci ordina di ri-"
+"accompagnarvi al suo castello! Vorrei scambiare un paio di parole con voi!"
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:219
@@ -1257,16 +1362,18 @@ msgid ""
 "Perhaps you've mistaken my home for King Theomund's castle. That is where "
 "you'll likely find the princess."
 msgstr ""
+"Forse hai scambiato casa mia per il castello di re Teomundo. È là che "
+"probabilmente troverai la principessa."
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:220
 msgid "Perhaps I should slit the throats of your children!"
-msgstr ""
+msgstr "E forse io potrei tagliare la gola dei tuoi bambini!"
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:221
 msgid "Zeke, just tell them!"
-msgstr ""
+msgstr "Zeke, diglielo!"
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:222
@@ -1274,33 +1381,39 @@ msgid ""
 "All right, they visited my home last night, but they left after we fell "
 "asleep. I am sorry, but I do not know which way they went."
 msgstr ""
+"D'accordo, erano qui ieri sera, ma se ne sono andati dopo che ci siamo "
+"addormentati. Mi spiace, ma non so il motivo della loro visita."
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:223
+#, fuzzy
 msgid "I too am sorry. Kill them all!"
-msgstr ""
+msgstr "Anche a me spiace. Uomini, uccideteli tutti fino all'ultimo!"
 
 #. [scenario]
 #: The_Heist/scenarios/08_The_Family.cfg:231
 msgid "No! Not my little Bastian!"
-msgstr ""
+msgstr "No! Non il mio piccolo Bastian!"
 
 #. [scenario]
 #: The_Heist/scenarios/08_The_Family.cfg:232
 msgid "No! Not my little Reuben!"
-msgstr ""
+msgstr "No! Non il mio piccolo Reuben!"
 
 #. [scenario]
 #: The_Heist/scenarios/08_The_Family.cfg:233
 msgid "No! Not my little Irving!"
-msgstr ""
+msgstr "No! Non il mio piccolo Irving!"
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/08_The_Family.cfg:255
+#, fuzzy
 msgid ""
 "You malevolent scoundrels! These people had nothing to do with the theft of "
 "Gerald's treasure!"
 msgstr ""
+"Voi, malvagie canaglie! Questa gente non ha nulla a che fare con il furto "
+"del tesoro di re Gerald!"
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/08_The_Family.cfg:256
@@ -1308,85 +1421,96 @@ msgid ""
 "The treasure is in the galleon. Now, take us to King Gerald's castle. We "
 "surrender willingly. No more innocent blood shall be spilt today."
 msgstr ""
+"Il tesoro è sul galeone. Adesso portaci al castello di re Gerald.Ci "
+"arrendiamo di nostra volontà. Oggi non deve essere versato altro sangue "
+"innocente."
 
 #. [scenario]: (description=Talika) ({X0}) ({Y0})}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:5
 msgid "The Labyrinth"
-msgstr ""
+msgstr "Il labirinto"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:57
+#, fuzzy
 msgid "Move to the castle at the heart of the labyrinth"
-msgstr ""
+msgstr "Spostati al castello al centro del labirinto."
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:61
+#, fuzzy
 msgid "One of Bill's units gets there first"
-msgstr ""
+msgstr "Uno degli uomini di Bill ci arriva per primo."
 
 #. [event]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:81
 #: The_Heist/scenarios/11_The_Statues.cfg:1069
 msgid "Randalf"
-msgstr ""
+msgstr "Randalf"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #. [event]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:117
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:93
 msgid "Talika"
-msgstr ""
+msgstr "Talika"
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:115
 msgid "We've travelled a long way, Zilead. You'd better not be deceiving me."
 msgstr ""
+"Abbiamo già fatto un bel po' di strada, Zilead. Fai meglio a non cercare di "
+"ingannarmi"
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:116
 msgid "As I told you, the treasure lies at the heart of that labyrinth."
-msgstr ""
+msgstr "Come ti ho detto, il tesoro è nel cuore di questo labirinto."
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:117
 msgid "But you did not tell me how it got there."
-msgstr ""
+msgstr "Ma non mi hai detto come arrivarci."
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:118
 msgid "You'll just have to trust me, Bill."
-msgstr ""
+msgstr "Devi solo aver fiducia in me, Bill."
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:122
 msgid "Ahh!"
-msgstr ""
+msgstr "Ahh!"
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:123
 msgid "Relax, she's harmless."
-msgstr ""
+msgstr "Tranquilo, è innocua."
 
 #. [message]: description=Randalf
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:129
 msgid ""
 "She will pave the way for those she knows, but block the path with her foes."
 msgstr ""
+"Stenderà il tappeto rosso per quelli che conosce, ma sbarrerà la strada ai "
+"suoi nemici."
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:132
 msgid "Who said that?"
-msgstr ""
+msgstr "E chi lo dice?"
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:134
+#, fuzzy
 msgid "I heard a voice in the distance!"
-msgstr ""
+msgstr "Vedo una casa in lontananza!"
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:135
+#, fuzzy
 msgid "It's just the rustling of the wind."
-msgstr ""
+msgstr "Non è niente... non è niente... Solo che... io non riesco..."
 
 #. [then]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:318
@@ -1398,11 +1522,13 @@ msgstr ""
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:373
 msgid "Why have you shown these lowlifes the way to my castle, Zilead?"
 msgstr ""
+"Perché hai mostrato la strada al mio castello a questi essere inferiori, "
+"Zilead?"
 
 #. [event]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:374
 msgid "I am sorry, Randalf."
-msgstr ""
+msgstr "Sono spiacente, Randalf"
 
 #. [event]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:375
@@ -1410,6 +1536,8 @@ msgid ""
 "You have failed me for the last time! Get off my land before I add you to my "
 "collection of statues!"
 msgstr ""
+"Hai commesso il tuo ultimo errore! Lascia la mia terra prima che ti aggiunga "
+"alla mia collezione di statue!"
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:404
@@ -1417,6 +1545,9 @@ msgid ""
 "I am sorry Randalf, I have failed in my mission. I could not retrieve the "
 "stone of Kahandari from Gerald's castle. His treasure was..."
 msgstr ""
+"Sono desolato, Randalf, ho fallito la mia missione. Non sono riuscito a "
+"recuperare la pietra di Kahandari dal castello di Gerald. Il suo tesoro "
+"era..."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:405
@@ -1424,11 +1555,14 @@ msgid ""
 "My birds have already told me what transpired at the castle. You are not to "
 "blame. Princess Leana was behind the heist."
 msgstr ""
+"Un uccellino mi aveva già informato di quello che è stato scoperto al "
+"castello. Non è colpa tua. C'è la principessa Leana dietro al colpo."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:406
+#, fuzzy
 msgid "Princess Leana? Where is she? I will get your stone from her."
-msgstr ""
+msgstr "Dove si trova? Recupererò la pietra dalle sue mani."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:407
@@ -1437,6 +1571,9 @@ msgid ""
 "incompetent team of bandits were captured before they left Gerald's "
 "territory."
 msgstr ""
+"Temo che la pietra non sia più nelle sue mani. Leana è stata catturata "
+"assieme e alla sua incompetente squadra di banditi prima che lasciassero il "
+"territorio di Gerald."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:408
@@ -1444,13 +1581,18 @@ msgid ""
 "I will find a way back inside the castle, Randalf. I will not disappoint you "
 "again."
 msgstr ""
+"Troverò un modo per tornare nel castello, Randalf. Non ti deluderò di nuovo."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:409
+#, fuzzy
 msgid ""
 "How? King Gerald knows you betrayed him. If you are found, you will be "
 "arrested for treason."
 msgstr ""
+"Re Gerald ho scoperto che lo hai tradito, Zilead. Se ti trovano, sarai "
+"arrestato per tradimento. Adesso, come farai a entrare nel castello di "
+"Gerald?"
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:410
@@ -1458,16 +1600,17 @@ msgid ""
 "I will persuade King Theomund to launch another siege. This time he will be "
 "victorious."
 msgstr ""
+"Convincerò re Teomundo a stringere un altro assedio. Questa volta vincerà."
 
 #. [event]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:420
 msgid "Talika, my castle is surrounded. Turn them all into stone!"
-msgstr ""
+msgstr "Talika, il mio castello è circondato. Trasformali tutti in pietra!"
 
 #. [scenario]
 #: The_Heist/scenarios/10_The_Persuasion.cfg:5
 msgid "The Persuasion"
-msgstr ""
+msgstr "La persuasione"
 
 #. [else]
 #. [event]: (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}
@@ -1476,31 +1619,33 @@ msgstr ""
 #: The_Heist/scenarios/12_The_Guillotine.cfg:305
 #: The_Heist/scenarios/10_The_Persuasion.cfg:36
 msgid "Queen Edina"
-msgstr ""
+msgstr "Queen Edina"
 
 #. [event]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:80
 #: The_Heist/scenarios/10_The_Persuasion.cfg:37
 msgid "Horomir"
-msgstr ""
+msgstr "Horomir"
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #. [event]
 #: The_Heist/scenarios/13_The_Informant.cfg:65
 #: The_Heist/scenarios/10_The_Persuasion.cfg:38
 msgid "Hadwin"
-msgstr ""
+msgstr "Hadwin"
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:52
 msgid ""
 "My liege, this gentleman says he has some information about your daughter."
 msgstr ""
+"Mio signore, questo gentiluomo afferma di possedere delle informazioni su "
+"vostra figlia."
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:53
 msgid "Leana? What about her?"
-msgstr ""
+msgstr "Leana? Cosa ne è stato di lei?"
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:54
@@ -1508,12 +1653,17 @@ msgid ""
 "King Theomund, I regret to inform you that Princess Leana has been captured "
 "by King Gerald."
 msgstr ""
+"Re Teomundo, mi spiace doverla informare che la principessa Leana è stata "
+"fatta prigioniera dagli uomini di re Gerald."
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:55
+#, fuzzy
 msgid ""
 "Nonsense. My daughter left Wesnoth last night with one of Gerald's guards."
 msgstr ""
+"Non ha senso. Mia moglie mi ha appena detto che mia figlia ha lasciato "
+"Wesnoth due giorni fa con una delle guardie di Gerald."
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:56
@@ -1521,6 +1671,8 @@ msgid ""
 "That is right. She confided everything to me before she left. I'm afraid "
 "you've been misinformed, stranger."
 msgstr ""
+"È vero. Mi ha confidato tutto prima di partire. Mi spiace che tu sia male "
+"informato, straniero."
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:57
@@ -1528,13 +1680,19 @@ msgid ""
 "He is no stranger. Tell me, why does Gerald want me to launch another attack "
 "on his castle?"
 msgstr ""
+"Non è straniero. Dimmi, perché Gerald vuole che io porti un altro attacco al "
+"suo castello?"
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:59
+#, fuzzy
 msgid ""
 "I remember you from the battlefield. You're one of Gerald's men. Obviously, "
 "you were sent here to try to lure me into a trap."
 msgstr ""
+"Mi ricordo di te sul campo di battaglia. Sei uno degli uomini di Gerald. "
+"Naturalmente ti hanno mandato qua per cercare di attirarmi in una trappola, "
+"vero?"
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:60
@@ -1542,11 +1700,13 @@ msgid ""
 "Wait... Let me explain. Princess Leana tried to leave Wesnoth with Gerald's "
 "treasure..."
 msgstr ""
+"Aspetta... lasciami spiegare. La prinicpessa Leana ha cercato di lasciare "
+"Wesnoth con il tesoro di Gerald..."
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:61
 msgid "Did you just call my daughter a thief? How dare you!"
-msgstr ""
+msgstr "Dici che mio figlia è una ladra? Ma come ti permetti!"
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:62
@@ -1554,38 +1714,40 @@ msgid ""
 "Gerald was a fool to send you here! Hadwin, take this piece of filth to the "
 "dungeon! He has an appointment with the guillotine at dawn!"
 msgstr ""
+"Gerald è stato uno sciocco a mandarti qua! Hadwin, porta questo pezzo di "
+"merda nelle segrete! Ha un appuntamento con la ghigliottina all'alba!"
 
 #. [scenario]
 #: The_Heist/scenarios/11_The_Statues.cfg:5
 msgid "The Statues"
-msgstr ""
+msgstr "Le statue"
 
 #. [then]
 #. [else]
 #: The_Heist/scenarios/11_The_Statues.cfg:582
 #: The_Heist/scenarios/11_The_Statues.cfg:586
 msgid "Rodollio Fortossia!"
-msgstr ""
+msgstr "Rodollio Fortossia!"
 
 #. [scenario]
 #: The_Heist/scenarios/11_The_Statues.cfg:668
 msgid "Platu! Verata! Bichtu!"
-msgstr ""
+msgstr "Platu! Verata! Bichtu!"
 
 #. [scenario]
 #: The_Heist/scenarios/11_The_Statues.cfg:671
 msgid "Folgana! Padrona! Sempara!"
-msgstr ""
+msgstr "Folgana! Padrona! Sempara!"
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:791
 msgid "I cannot believe I lost!"
-msgstr ""
+msgstr "Non posso credere di aver perso!"
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:792
 msgid "Unstone the statues, Randalf."
-msgstr ""
+msgstr "Togli l'incantesimo alle statue, Randalf."
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:794
@@ -1593,6 +1755,8 @@ msgid ""
 "You must all obey me now. Bring me the stone of Kahandari from King Gerald's "
 "dungeon. Kill all who stand in your way!"
 msgstr ""
+"Mi dovete tutti obbedienza adesso. Portatemi la pietra di Kahandari dalle "
+"segrete del re Gerald. Uccidete tutti quelli che vi sbarrano il passo!"
 
 #. [then]
 #. [event]: (description=Randalf) no}
@@ -1600,12 +1764,12 @@ msgstr ""
 #: The_Heist/scenarios/11_The_Statues.cfg:795
 #: The_Heist/scenarios/11_The_Statues.cfg:1225
 msgid "Yes, Master!"
-msgstr ""
+msgstr "Sì, padrone!"
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:796
 msgid "What about Zilead?"
-msgstr ""
+msgstr "Cosa e' successo a Zilead?"
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:797
@@ -1613,31 +1777,33 @@ msgid ""
 "Forget about your friend, Randalf. My army is not strong enough to defeat "
 "two kings. Zilead's fate is no longer in your hands."
 msgstr ""
+"Dimentica il tuo amico, Randalf. Il mio esercito non è abbastanza potente "
+"per sconfiggere due re. Il destino di Zilead non è più nelle nostre mani."
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/11_The_Statues.cfg:1056
 msgid "Beat Ursula"
-msgstr ""
+msgstr "Sconfiggi Ursula."
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/11_The_Statues.cfg:1060
 msgid "Ursula wins"
-msgstr ""
+msgstr "Ursula vince."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1137
 msgid "Ursula"
-msgstr ""
+msgstr "Ursula"
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1141
 msgid "Welcome, Master."
-msgstr ""
+msgstr "Benvenuto, padrone."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1142
 msgid "Why have you summoned me, Randalf?"
-msgstr ""
+msgstr "Perché mi avete convocato, Randalf?"
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1143
@@ -1645,6 +1811,8 @@ msgid ""
 "A friend of mine has gotten himself into a most unfortunate predicament. I "
 "must rescue him, but I'm afraid I cannot do it alone."
 msgstr ""
+"Un mio amico si è messo nei pasticci. Devo salvarlo, ma temo di non "
+"potercela fare da solo."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1144
@@ -1652,6 +1820,8 @@ msgid ""
 "Randalf, you know that my presence in Wesnoth must be kept secret. Besides, "
 "I will not help you save that fool you call a friend."
 msgstr ""
+"Randalf, tu sai che la mia presenza a Wesnoth deve rimanere segreta. "
+"Inoltre, io non aiuterò quello sciocco di un tuo amico."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1145
@@ -1659,6 +1829,8 @@ msgid ""
 "All I ask is that you put a spell on my statues. They will not obey me "
 "otherwise."
 msgstr ""
+"Tutto quello che ti chiedo è di lanciare un incantesimo sulle statue, "
+"altrimenti non mi obbediranno."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1146
@@ -1666,6 +1838,8 @@ msgid ""
 "Let me see if I understand. You wish to lead an army composed of men, elves, "
 "dwarves, and orcs to rescue a useless mortal?"
 msgstr ""
+"Vediamo se ho capito. Vorresti guidare un esercito composto di uomini, elfi, "
+"nani e orchi per salvare un inutile mortale?"
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1147
@@ -1673,33 +1847,38 @@ msgid ""
 "And after he is rescued, I shall lead that army to King Gerald's castle to "
 "retrieve the stone of Kahandari from his dungeon."
 msgstr ""
+"E quando sarà in salvo, guiderò questo esercito al castello di re Gerald per "
+"recuperare la pietra di Jahandari dalle sue segrete."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1148
 msgid "The stone of Kahandari? Are you certain it is in Gerald's possession?"
-msgstr ""
+msgstr "La pietra di Kandahari? Sei certo che sia nelle mani di Gerald?"
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1149
 msgid "Positive."
-msgstr ""
+msgstr "Certo."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1150
 msgid "Fine, I will put a spell on your statues if you bring me the stone."
-msgstr ""
+msgstr "Bene, io farò un incantesimo alle tue statue se mi porterai la pietra."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1151
+#, fuzzy
 msgid ""
 "That's not quite what I had in mind. I have been searching for that stone "
 "for over fifty years. I cannot just hand it over to you."
 msgstr ""
+"Non è proprio quello che avevo in mente. Ho cercato questa pietra per quasi "
+"trecento anni. Non posso semplicemente cedertela."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1152
 msgid "What do you have in mind, Randalf?"
-msgstr ""
+msgstr "Cosa hai in mente, randalf?"
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1153
@@ -1707,16 +1886,18 @@ msgid ""
 "You will put a spell on my statues. But first, we will play a quick game of "
 "Ifranjiah to determine the stone's new possessor."
 msgstr ""
+"Farai un incantesimo sulle mie statue. Ma prima, faremo una veloce partita a "
+"Ifranjiah per decidere chi sarà il nuovo possessore della pietra."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1154
 msgid "Fine."
-msgstr ""
+msgstr "Bene."
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:1198
 msgid "It is still your turn, Randalf."
-msgstr ""
+msgstr "È ancora il tuo turno, Randalf."
 
 #. [event]
 #: The_Heist/scenarios/11_The_Statues.cfg:1211
@@ -1724,6 +1905,8 @@ msgid ""
 "This game has taken longer than anticipated. I will be unable to reach "
 "Theomund's castle in time. Zilead will be executed."
 msgstr ""
+"Questa partita è durata più di quello che pensavo. Non ho più tempo "
+"sufficiente per raggiungere il castello di Teomundo. Zilead sarà giustiziato."
 
 #. [event]: (description=Randalf) no}
 #: The_Heist/scenarios/11_The_Statues.cfg:1221
@@ -1733,51 +1916,56 @@ msgid ""
 "defeat two kings. The stone is of far more significance than that friend of "
 "yours."
 msgstr ""
+"Ben giocato, Randalf. Metterò un incantesimo sulle tue statue, ma ti imploro "
+"di riconsiderare la tua missione di soccorso. Il tuo nuovo esercito non "
+"abbastanza potente da sconfiggere due re. La pietra è di gran lunga più "
+"importante dei tuoi amici."
 
 #. [event]: (description=Randalf) no}
 #: The_Heist/scenarios/11_The_Statues.cfg:1222
+#, fuzzy
 msgid "Do not worry, Master. I will retrieve the stone."
-msgstr ""
+msgstr "Non preoccupatevi, padrone. Recupererò la pietra."
 
 #. [event]: (description=Randalf) no}
 #: The_Heist/scenarios/11_The_Statues.cfg:1224
 msgid "You must all obey me now."
-msgstr ""
+msgstr "Obbedirete tutti a me adesso."
 
 #. [scenario]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:5
 msgid "The Guillotine"
-msgstr ""
+msgstr "La ghigliottina"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/12_The_Guillotine.cfg:63
 msgid "Free Zilead and survive until end of turns"
-msgstr ""
+msgstr "Libera Zilead e sopravvivi fino al termine dei turni."
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/12_The_Guillotine.cfg:67
 msgid "Or, stone/kill all of Theomund's men"
-msgstr ""
+msgstr "Pietrifica o uccidi tutti gli uomini di Teomundo."
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/12_The_Guillotine.cfg:71
 msgid "Death of Horomir"
-msgstr ""
+msgstr "Morte di Horomir"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/12_The_Guillotine.cfg:75
 msgid "Death of a Randalf, Zilead or Bill"
-msgstr ""
+msgstr "Morte di Randalf, Zilead o Bill"
 
 #. [event]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:82
 msgid "Peregorn"
-msgstr ""
+msgstr "Peregorn"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:87
 msgid "Arion"
-msgstr ""
+msgstr "Arion"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:90
@@ -1786,11 +1974,14 @@ msgid ""
 "an army of orcs, dwarves, elves, and men. Our entire battalion has been "
 "slaughtered!"
 msgstr ""
+"Horomir, devo assolutamente parlare con mio padre! Le nostre posizioni sono "
+"state sovrastate da un esercito di orchi, nani, elfi e uomini. L'intero "
+"battaglione è stato massacrato!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:91
 msgid "Surely you jest! Such an army could not possibly exist!"
-msgstr ""
+msgstr "Stai scherzando! Non può esistere un esercito del genere!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:92
@@ -1798,16 +1989,19 @@ msgid ""
 "Listen, we do not have much time. The army will be here shortly. Where is "
 "King Theomund?"
 msgstr ""
+"Ascolta, non c'è molto tempo. L'esercito sarà qui tra poco. Dov'è re "
+"Teomundo?"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:93
 msgid "He and my mother are still at the other castle. They will..."
-msgstr ""
+msgstr "Egli e mia madre sono ancora nell'altro castello. Loro..."
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:94
 msgid "Horomir, the army is coming to rescue Zilead. You must release him!"
 msgstr ""
+"Horomir, l'esercito sta arrivando per salvare Zilead. Lo devi liberare!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:95
@@ -1815,50 +2009,54 @@ msgid ""
 "Zilead will be executed when my parents arrive. Peregorn, create a perimeter "
 "around the prisoner!"
 msgstr ""
+"Zilead verrà giustiziato all'arrivo dei miei genitori. Peregorn, create un "
+"perimetro attorno al prigioniero!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:96
 msgid "Yes sir!"
-msgstr ""
+msgstr "Sissignore!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:97
 msgid "You're making a mistake, Horomir. We cannot defeat the wizard's army."
 msgstr ""
+"Abbiamo commesso un errore, Horomir. Non possiamo sconfiggere l'esercito del "
+"mago."
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:98
 msgid "Wizard?"
-msgstr ""
+msgstr "Mago?"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:114
 msgid "Release Zilead at once!"
-msgstr ""
+msgstr "Lascia libero Zilead adesso!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:115
 msgid "Prepare for battle!"
-msgstr ""
+msgstr "Preparatevi per la battaglia!"
 
 #. [scenario]
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:251
 #: The_Heist/scenarios/13_The_Informant.cfg:108
 msgid "Randalf!"
-msgstr ""
+msgstr "Randalf!"
 
 #. [scenario]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:253
 msgid "It was unwise to kill the son of Theomund."
-msgstr ""
+msgstr "È stato stupido uccidere l'unico figlio di re Teomundo."
 
 #. [else]
 #. [event]: (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:273
 #: The_Heist/scenarios/12_The_Guillotine.cfg:307
 msgid "What is going on here?"
-msgstr ""
+msgstr "Cosa sta succedendo qua?"
 
 #. [else]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:274
@@ -1868,33 +2066,35 @@ msgstr ""
 #. [else]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:275
 msgid "Wait!"
-msgstr ""
+msgstr "Aspetta!"
 
 #. [event]: (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:308
 msgid "Randalf? I thought you were dead."
-msgstr ""
+msgstr "Randalf? Pensavo che fossi morto."
 
 #. [scenario]
 #: The_Heist/scenarios/13_The_Informant.cfg:5
 msgid "The Informant"
-msgstr ""
+msgstr "L'informatoer"
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:88
 #: The_Heist/scenarios/13_The_Informant.cfg:35
 msgid "Elgareth"
-msgstr ""
+msgstr "Elgareth"
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:59
 msgid "Princess Leana, I'd like to introduce you to a dear friend of mine."
 msgstr ""
+"Principessa Leana, sono orgoglioso di presentarvi uno dei miei più cari "
+"amici."
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:60
 msgid "What are you up to, Gerald? Why is Elgareth here?"
-msgstr ""
+msgstr "Che ci fai qua, Gerald? Perché Elgareth è qua?"
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:61
@@ -1902,11 +2102,13 @@ msgid ""
 "I am here to ensure that you and the princess live the rest of your short "
 "lives in agonizing pain."
 msgstr ""
+"Sono venuto per assicurarmi che tu e la principessa viviate quel poco che "
+"rimane della vostra vita nel dolore dell'agonia."
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:104
 msgid "What brings you here, Hadwin?"
-msgstr ""
+msgstr "Cosa ti porta da queste parti, Hadwin?"
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:105
@@ -1914,11 +2116,13 @@ msgid ""
 "I've some bad news. King Theomund is going to attempt another siege on your "
 "castle."
 msgstr ""
+"Cattive notizie. Re Teomundo sta per tentare un altro assedio al vostro "
+"castello prima del tramonto."
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:106
 msgid "When?"
-msgstr ""
+msgstr "Quando?"
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:107
@@ -1930,7 +2134,7 @@ msgstr ""
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:109
 msgid "Right."
-msgstr ""
+msgstr "Bene."
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:110
@@ -1943,7 +2147,7 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:5
 msgid "The Siege Part I"
-msgstr ""
+msgstr "L'assedio - prima parte"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:52
@@ -1954,7 +2158,7 @@ msgstr ""
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:64
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:102
 msgid "  Randalf, Zilead, Bill,"
-msgstr ""
+msgstr " Randalf, Zilead, Bill"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:68
@@ -1964,7 +2168,7 @@ msgstr ""
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:100
 msgid "Welcome, Randalf. I've been expecting you."
-msgstr ""
+msgstr "Ben arrivato, Randalf. Ti stavo aspettando."
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:101
@@ -1989,8 +2193,9 @@ msgstr ""
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:105
+#, fuzzy
 msgid "I do."
-msgstr ""
+msgstr "Nemmeno io."
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:106
@@ -2006,8 +2211,9 @@ msgstr ""
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:108
+#, fuzzy
 msgid "All right, men! We have two castles to conquer! Move out!"
-msgstr ""
+msgstr "Bene, uomini. Abbiamo due castelli da conquistare. Muoviamoci!"
 
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:452
@@ -2016,71 +2222,73 @@ msgid ""
 "My heart tells me that Bill had some part to play yet, for good or ill. He "
 "should not have died here today."
 msgstr ""
+"Il mio cuore mi dice che Bill aveva ancora un ruolo da recitare, per il bene "
+"o per il male. NOn sarebbe dovuto morire qua oggi."
 
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:454
 msgid "We cannot rescue Leana without Randalf's help."
-msgstr ""
+msgstr "Non possiamo salvare Leana senza l'aiuto di Randalf."
 
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:455
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:762
 msgid "Queen Edina has been slain!"
-msgstr ""
+msgstr "La regina Edina è stata uccisa!"
 
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:456
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:763
 msgid "Theomund!"
-msgstr ""
+msgstr "Teomundo!"
 
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:457
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:764
 msgid "Horomir!"
-msgstr ""
+msgstr "Horomir!"
 
 #. [event]: description=Randalf no}
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:477
 msgid "The power of Kahandari is finally mine!"
-msgstr ""
+msgstr "Il potere di Kahandari è finalmente mio!"
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:505
 msgid "Gerald's army is approaching! We are vastly outnumbered! Retreat!"
-msgstr ""
+msgstr "L'esercito di Gerald si avvicina! Sono molti più di noi! Ritirata!"
 
 #. [event]: (description=Zilead) no}, (description=Zilead) no}
 #. [event]: (description=Zilead) 20 15}
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:510
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:159
 msgid "Hurry, Zilead!"
-msgstr ""
+msgstr "Datti una mossa, Zilead!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:5
 msgid "The Breakout"
-msgstr ""
+msgstr "L'evasione"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/15_The_Breakout.cfg:41
 msgid "Rescue all prisoners"
-msgstr ""
+msgstr "Salva tutti i prigionieri."
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/15_The_Breakout.cfg:49
 msgid "  Zilead, Ardella, Anna,"
-msgstr ""
+msgstr "  Zilead, Ardella, Anna,"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/15_The_Breakout.cfg:53
 msgid "  Zeke, or a child"
-msgstr ""
+msgstr " Zeke o un bambino"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:128
 msgid "Who are you?"
-msgstr ""
+msgstr "Chi sei?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:129
@@ -2108,17 +2316,17 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:162
 msgid "Please tell me, have you seen our three boys?"
-msgstr ""
+msgstr "Per favore dimmi, hai visto i nostri tre bambini?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:165
 msgid "No, I am sorry."
-msgstr ""
+msgstr "No, mi spiace."
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:166
 msgid "Come on, Zeke! We must find them!"
-msgstr ""
+msgstr "Andiamo Zeke! Dobbiamo trovarli!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:179
@@ -2126,66 +2334,69 @@ msgid ""
 "Thank goodness you've arrived! Please, slay me now! Sharing a cell with "
 "these brats has been the worst torture I've ever experienced!"
 msgstr ""
+"Grazie agli dei, siete arrivati! Per favore, uccidetemi ora! Dividere la "
+"cella con questi scalmanati è stata la peggiore tortura che ho mai provato!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:180
 msgid "Quiet, foul orc, or you will suffer the same fate as your friends!"
-msgstr ""
+msgstr "Taci, lurico orco, o patirai lo stesso destino dei tuoi amici!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:181
 msgid "Are you all right, children?"
-msgstr ""
+msgstr "State bene, bambini?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:182
 msgid "We're fine, mother!"
-msgstr ""
+msgstr "Stiamo bene, mamma!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:183
 msgid "Just a little nauseous from this foul smelling orc!"
 msgstr ""
+"Abbiamo solo un po' di nausea a causa di questo orco lurido e puzzolente."
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:198
 msgid "Princess Leana!"
-msgstr ""
+msgstr "Principessa Leana!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:243
 msgid "Turdon"
-msgstr ""
+msgstr "Turdon"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:244
 msgid "Belanor"
-msgstr ""
+msgstr "Belanor"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:245
 msgid "Forlin"
-msgstr ""
+msgstr "Forlin"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:246
 msgid "Hamrod"
-msgstr ""
+msgstr "Hamrod"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:247
 msgid "Borondir"
-msgstr ""
+msgstr "Borondir"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:248
 msgid "Hagas"
-msgstr ""
+msgstr "Hagas"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:249
 msgid "Agrahil"
-msgstr ""
+msgstr "Agrahil"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:252
@@ -2196,13 +2407,13 @@ msgstr ""
 #: The_Heist/scenarios/15_The_Breakout.cfg:257
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:766
 msgid "Anna!"
-msgstr ""
+msgstr "Anna!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:258
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:767
 msgid "Zeke!"
-msgstr ""
+msgstr "Zeke!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:259
@@ -2212,38 +2423,40 @@ msgstr ""
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:769
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:770
 msgid "My baby!"
-msgstr ""
+msgstr "Il mio bambino!"
 
 #. [event]
 #: The_Heist/scenarios/15_The_Breakout.cfg:269
 msgid ""
 "Fools! The wizard is dead and the castle is surrounded. Now, drop your arms!"
 msgstr ""
+"Sciocchi! Il mago è morto e il castello è circondato. Adesso deponente le "
+"armi!"
 
 #. [scenario]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:5
 msgid "The Siege Part II"
-msgstr ""
+msgstr "L'assedio - parte seconda"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:90
 msgid "Kill all enemies"
-msgstr ""
+msgstr "Uccidi tutti i nemici"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:106
 msgid "  Theomund, Edina, Horomir,"
-msgstr ""
+msgstr "  Teomundo, Edina, Horomir,"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:114
 msgid "  Anna, Zeke, or a child"
-msgstr ""
+msgstr "  Anna, Zeke o un bambino"
 
 #. [event]: (description=Zilead) 20 15}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:192
 msgid "Gerald's army approaches from the north!"
-msgstr ""
+msgstr "L'esercito di Gerald si avvicina da nord!"
 
 #. [event]: (description=Zilead) 20 15}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:193
@@ -2253,7 +2466,7 @@ msgstr ""
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:267
 msgid "Bertha"
-msgstr ""
+msgstr "Bertha"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:268
@@ -2263,7 +2476,7 @@ msgstr ""
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:277
 msgid "What is it?"
-msgstr ""
+msgstr "Cos'è?"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:278
@@ -2290,23 +2503,25 @@ msgstr ""
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:437
 msgid "Burton"
-msgstr ""
+msgstr "Burton"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:439
 msgid "Have no fear, brother! We will save you from the dark wizard!"
-msgstr ""
+msgstr "Non aver paura, fratello! Ti salveremo dallo stregone oscuro!"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:440
 msgid ""
 "I do not wish to be saved, Burton. I must help my master defend the castle."
 msgstr ""
+"Non voglio essere salvato, Burton. Devo aiutare il mio maestro a difendere "
+"il castello."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:441
 msgid "Master?"
-msgstr ""
+msgstr "Maestro?"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:442
@@ -2314,11 +2529,13 @@ msgid ""
 "Bill is under my spell. If you help us defeat Gerald's army, then I will "
 "release him to you."
 msgstr ""
+"Bill è sotto l'effetto del mio incantesimo. Se ci aiuterete a sconfiggere "
+"l'esercito di Gerald, allora io ve lo restituirò."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:443
 msgid "You will release him now, wizard! Bill, we're coming to get you!"
-msgstr ""
+msgstr "Lo liberereai adesso, mago! Bill, stiamo arrivando a prenderti!"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:444
@@ -2328,22 +2545,22 @@ msgstr ""
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:445
 msgid "Yes, Master."
-msgstr ""
+msgstr "Sì, padrone."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:451
 msgid "Ulgak"
-msgstr ""
+msgstr "Ulgak"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:453
 msgid "It looks like you could use some assistance, Randalf."
-msgstr ""
+msgstr "Sembra che un po' di aiuto di farebbe comodo, Randalf."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:454
 msgid "Yes, it appears I've underestimated the strength of Gerald's army."
-msgstr ""
+msgstr "Sì, credo di aver sottovalutato la forza dell'esercito di Gerald."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:460
@@ -2351,6 +2568,8 @@ msgid ""
 "There's only one stipulation. After the battle, you must give Master the "
 "stone."
 msgstr ""
+"C'è solo una condizione. Dopo la battaglia, dovrete dare la pietra al "
+"Maestro."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:461
@@ -2370,12 +2589,13 @@ msgstr ""
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:490
 msgid "Randalf, help us!"
-msgstr ""
+msgstr "Randalf, aiutaci!"
 
 #. [then]: description=Randalf no}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:506
+#, fuzzy
 msgid "What happened? How did I get here?"
-msgstr ""
+msgstr "Che cosa...? Ma com'è arrivato là?"
 
 #. [then]: description=Randalf no}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:507
@@ -2397,7 +2617,7 @@ msgstr ""
 #. [then]: description=Randalf no}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:514
 msgid "With pleasure!"
-msgstr ""
+msgstr "Con piacere!"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:523
@@ -2407,7 +2627,7 @@ msgstr ""
 #. [then]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:703
 msgid "Kill him!"
-msgstr ""
+msgstr "Uccidetelo."
 
 #. [then]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:705
@@ -2432,22 +2652,24 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:761
 msgid "We cannot win this battle without Randalf's help."
-msgstr ""
+msgstr "NOn possiamo vincere questa battaglia senza l'aiuto di Randalf."
 
 #. [event]: (description=Zilead)}, (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}, (description=Leana)}, (description=Rogan)}, (description=Ardella)}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:795
 msgid "I surrender! I surrender! Theomund, I beg you to have mercy on me!"
 msgstr ""
+"Mi arrendo! Mi arrendo! Teomundo, faccio appello alla tua misericordia!"
 
 #. [scenario]
 #: The_Heist/scenarios/17_The_End.cfg:5
 msgid "The End"
-msgstr ""
+msgstr "Epilogo"
 
 #. [unit]: race=undead
 #: The_Heist/units/Bat_Mauler.cfg:4
+#, fuzzy
 msgid "Bat Mauler"
-msgstr ""
+msgstr "Pipistrelli terrificanti"
 
 #. [unit]: race=undead
 #: The_Heist/units/Bat_Mauler.cfg:18
@@ -2457,46 +2679,52 @@ msgstr ""
 #. [attack]: type=impact
 #: The_Heist/units/Bat_Mauler.cfg:32 The_Heist/units/Warrior_King.cfg:29
 msgid "mace"
-msgstr ""
+msgstr "mazza"
 
 #. [variation]: race=human
 #. [unit]: race=human
 #: The_Heist/units/Battle_Princess.cfg:5
 #: The_Heist/units/Battle_Princess.cfg:58
 msgid "female^Battle Princess"
-msgstr ""
+msgstr "Principessa guerriera"
 
 #. [variation]: race=human
 #. [unit]: race=human
 #: The_Heist/units/Battle_Princess.cfg:32
 #: The_Heist/units/Battle_Princess.cfg:84
+#, fuzzy
 msgid ""
 "A noble by birth, the Princess has learnt swordplay with the greatest "
 "generals, and battle tactics with the greatest sages, making her both a "
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
+"Nobile di nascita, la principessa ha imparato la scherma con i migliori "
+"generali e tattiche di guerra con i più grandi saggi, facendo di lei una "
+"grande combattente e condottiera. Grazie alla sua abilità nel comando, le "
+"unità di livello inferiore che si schiereranno nelle sue vicinanze "
+"combatteranno meglio."
 
 #. [attack]: type=blade
 #: The_Heist/units/Battle_Princess.cfg:36
 #: The_Heist/units/Battle_Princess.cfg:88
 msgid "sabre"
-msgstr ""
+msgstr "sciabola"
 
 #. [attack]: type=fire
 #: The_Heist/units/Battle_Princess.cfg:97
 msgid "scepter of fire"
-msgstr ""
+msgstr "scettro di fuoco"
 
 #. [unit]: race=human
 #: The_Heist/units/Beheading_Knight.cfg:4
 msgid "Grand Knight"
-msgstr ""
+msgstr "Gran cavaliere"
 
 #. [unit]: race=human
 #: The_Heist/units/Blonde_Kid.cfg:4
 msgid "Blonde Kid"
-msgstr ""
+msgstr "Ragazzo biondo"
 
 #. [attack]: type=impact
 #: The_Heist/units/Brunette_Kid.cfg:34 The_Heist/units/Redheaded_Kid.cfg:33
@@ -2507,7 +2735,7 @@ msgstr ""
 #. [unit]: race=human
 #: The_Heist/units/Brunette_Kid.cfg:4
 msgid "Brunette Kid"
-msgstr ""
+msgstr "Ragazzo bruno"
 
 #. [unit]
 #: The_Heist/units/Cell_Door.cfg:4
@@ -2517,20 +2745,24 @@ msgstr ""
 #. [unit]: race=monster
 #: The_Heist/units/Flying_Cockatrice.cfg:4 The_Heist/units/Cockatrice.cfg:4
 msgid "Cockatrice"
-msgstr ""
+msgstr "Cockatrice"
 
 #. [unit]: race=monster
 #: The_Heist/units/Flying_Cockatrice.cfg:18 The_Heist/units/Cockatrice.cfg:18
+#, fuzzy
 msgid ""
 "Sometimes known as 'basilisks', these mystical creatures are said to be able "
 "to turn the living to stone. Needless to say, this makes them extremely "
 "dangerous."
 msgstr ""
+"Note anche come «basilischi», sembra che queste mitiche creature siano in "
+"grado di tramutare i vivi in pietra. Non c'è bisogno di aggiungere che ciò "
+"le rende molto pericolose."
 
 #. [attack]: type=cold
 #: The_Heist/units/Flying_Cockatrice.cfg:37 The_Heist/units/Cockatrice.cfg:22
 msgid "gaze"
-msgstr ""
+msgstr "sguardo"
 
 #. [unit]
 #: The_Heist/units/Corridor_Door.cfg:4
@@ -2540,12 +2772,12 @@ msgstr ""
 #. [unit]
 #: The_Heist/units/Crate.cfg:4
 msgid "Crate"
-msgstr ""
+msgstr "Cassa"
 
 #. [unit]: race=human
 #: The_Heist/units/Dark_Queen.cfg:5
 msgid "female^Dark Queen"
-msgstr ""
+msgstr "Regina oscura"
 
 #. [unit]: race=human
 #: The_Heist/units/Dark_Queen.cfg:20
@@ -2558,41 +2790,45 @@ msgstr ""
 #. [attack]: type=impact
 #: The_Heist/units/Dark_Queen.cfg:25
 msgid "scepter"
-msgstr ""
+msgstr "scettro"
 
 #. [attack]: type=cold
 #: The_Heist/units/Dark_Queen.cfg:34
 msgid "cold"
-msgstr ""
+msgstr "freddo"
 
 #. [unit]: race=human
 #: The_Heist/units/Elder_Mage.cfg:5
 msgid "Elder Mage"
-msgstr ""
+msgstr "Mago anziano"
 
 #. [unit]: race=human
 #: The_Heist/units/Elder_Mage.cfg:24
+#, fuzzy
 msgid ""
 "Once great, Elder Magi have seen their power a little diminished from "
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
 "on account of their powerful lightning bolts."
 msgstr ""
+"I maghi anziani, un tempo molto potenti, hanno visto il loro potere "
+"affievolirsi dopo anni passati in battaglia. Nonostate ciò sono ancora "
+"temibili nel campo di battaglia a causa delle loro potenti saette fulminanti."
 
 #. [attack]: type=impact
 #: The_Heist/units/Outlaw_Queen2.cfg:53 The_Heist/units/Elder_Mage.cfg:28
 #: The_Heist/units/Outlaw_Queen.cfg:96
 msgid "staff"
-msgstr ""
+msgstr "bastone"
 
 #. [attack]: type=fire
 #: The_Heist/units/Elder_Mage.cfg:37
 msgid "lightning"
-msgstr ""
+msgstr "fulmine"
 
 #. [unit]: race=human
 #: The_Heist/units/Female_Peasant.cfg:4
 msgid "Female Peasant"
-msgstr ""
+msgstr "Contadina"
 
 #. [unit]: race=human
 #: The_Heist/units/Female_Peasant.cfg:20
@@ -2611,54 +2847,61 @@ msgstr ""
 #. [unit]: race=human
 #: The_Heist/units/Hurt_King_Knight.cfg:4
 msgid "Knight"
-msgstr ""
+msgstr "Cavaliere"
 
 #. [unit]
 #: The_Heist/units/King_Guillotine.cfg:4
 msgid "King Guillotine"
-msgstr ""
+msgstr "Re Ghigliottina"
 
 #. [unit]
 #: The_Heist/units/Movable_Rock.cfg:4
 msgid "Movable Rock"
-msgstr ""
+msgstr "Roccia mobile"
 
 #. [unit]: race=human
 #: The_Heist/units/Noble_Lord.cfg:4
 msgid "Noble Lord"
-msgstr ""
+msgstr "Nobile signore"
 
 #. [unit]: race=human
 #: The_Heist/units/Noble_Lord.cfg:25
+#, fuzzy
 msgid ""
 "The noble leaders of many troops, Lords are especially strong in melee "
 "combat, and also possess skill with the bow. Like Commanders, Lords possess "
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
 msgstr ""
+"Nobili condottieri di diverse truppe, i signori sono particolarmente forti "
+"negli attacchi ravvicinati ma possiedono anche una certa abilità con gli "
+"archi. Come i comandanti, i signori possiedono l'abilità di comando e "
+"forniscono un incremento negli attacchi di tutte le unità di livello "
+"inferiore posizionate negli esagoni adiacenti."
 
 #. [attack]: type=blade
 #: The_Heist/units/Noble_Lord.cfg:30 The_Heist/units/Royal_Guard_Hero.cfg:30
 msgid "sword"
-msgstr ""
+msgstr "spada"
 
 #. [attack]: type=pierce
 #: The_Heist/units/Noble_Lord.cfg:39
 msgid "bow"
-msgstr ""
+msgstr "arco"
 
 #. [unit]
 #: The_Heist/units/Outlaw_Guillotine.cfg:4
 msgid "Outlaw Guillotine"
-msgstr ""
+msgstr "Fuorilegge sulla ghigliottina"
 
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen.cfg:4
 msgid "female^Outlaw Queen"
-msgstr ""
+msgstr "Regina fuorilegge"
 
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen.cfg:26
+#, fuzzy
 msgid ""
 "A noble by birth, the Outlaw Queen has learnt swordplay with the greatest "
 "generals and battle tactics with the greatest sages, making her both a great "
@@ -2667,31 +2910,37 @@ msgid ""
 "Queendom with the plunder she finds on the road, and she is ever so close to "
 "that goal."
 msgstr ""
+"La regina fuorilegge è nobile di nascita e ha imparato a utilizzare la spada "
+"dai migliori generali, mentre i più saggi del regno le insegnavano le "
+"tattiche migliori rendendola una micidiale combattente e un'ottima "
+"condottiera. È il prodotto di una aristocrazia fallita e ha preferito vivere "
+"come fuorilegge. Sogna di fondare un proprio regno con l'aiuto degli amici "
+"incontrati lungo la strada e il suo obiettivo è sempre più vicino."
 
 #. [attack]: type=impact
 #: The_Heist/units/Outlaw_Queen2.cfg:62 The_Heist/units/Outlaw_Queen.cfg:105
 msgid "sling"
-msgstr ""
+msgstr "fionda"
 
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen2.cfg:4
 msgid "female^Outlaw Queen2"
-msgstr ""
+msgstr "female^Regina fuorilegge2"
 
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen2.cfg:22
 msgid "An Outlaw Queen with a different hairdo."
-msgstr ""
+msgstr "Una regina fuorilegge con un taglio di capelli diverso."
 
 #. [unit]: race=human
 #: The_Heist/units/Redheaded_Kid.cfg:4
 msgid "Redheaded Kid"
-msgstr ""
+msgstr "Ragazzo dai capelli rossi"
 
 #. [unit]: race=human
 #: The_Heist/units/Royal_Guard_Hero.cfg:4
 msgid "Royal Guard"
-msgstr ""
+msgstr "Guardia reale"
 
 #. [unit]: race=human
 #: The_Heist/units/Royal_Guard_Hero.cfg:20
@@ -2709,7 +2958,7 @@ msgstr ""
 #. [unit]: race=human
 #: The_Heist/units/Warrior_King.cfg:5
 msgid "Warrior King"
-msgstr ""
+msgstr "Re guerriero"
 
 #. [unit]: race=human
 #: The_Heist/units/Warrior_King.cfg:24
@@ -2722,7 +2971,7 @@ msgstr ""
 #. [unit]: race=undead
 #: The_Heist/units/Witch.cfg:4
 msgid "Witch"
-msgstr ""
+msgstr "Strega"
 
 #. [then]
 #: The_Heist/utils/special-powers.cfg:73
