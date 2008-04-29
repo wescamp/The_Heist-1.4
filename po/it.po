@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-08 19:42+0200\n"
-"PO-Revision-Date: 2008-04-25 18:40+0100\n"
+"PO-Revision-Date: 2008-04-29 10:38+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -1432,13 +1432,11 @@ msgstr "Il labirinto"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:57
-#, fuzzy
 msgid "Move to the castle at the heart of the labyrinth"
 msgstr "Spostati al castello al centro del labirinto."
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:61
-#, fuzzy
 msgid "One of Bill's units gets there first"
 msgstr "Uno degli uomini di Bill ci arriva per primo."
 
@@ -1560,9 +1558,9 @@ msgstr ""
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:406
-#, fuzzy
 msgid "Princess Leana? Where is she? I will get your stone from her."
-msgstr "Dove si trova? Recupererò la pietra dalle sue mani."
+msgstr ""
+"La principessa Leana? Dove si trova? Recupererò la pietra dalle sue mani."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:407
@@ -2652,7 +2650,7 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:761
 msgid "We cannot win this battle without Randalf's help."
-msgstr "NOn possiamo vincere questa battaglia senza l'aiuto di Randalf."
+msgstr "Non possiamo vincere questa battaglia senza l'aiuto di Randalf."
 
 #. [event]: (description=Zilead)}, (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}, (description=Leana)}, (description=Rogan)}, (description=Ardella)}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:795
@@ -2667,9 +2665,8 @@ msgstr "Epilogo"
 
 #. [unit]: race=undead
 #: The_Heist/units/Bat_Mauler.cfg:4
-#, fuzzy
 msgid "Bat Mauler"
-msgstr "Pipistrelli terrificanti"
+msgstr ""
 
 #. [unit]: race=undead
 #: The_Heist/units/Bat_Mauler.cfg:18
@@ -2892,7 +2889,7 @@ msgstr "arco"
 #. [unit]
 #: The_Heist/units/Outlaw_Guillotine.cfg:4
 msgid "Outlaw Guillotine"
-msgstr "Fuorilegge sulla ghigliottina"
+msgstr "Fuorilegge Ghigliottina"
 
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen.cfg:4
@@ -2976,4 +2973,4 @@ msgstr "Strega"
 #. [then]
 #: The_Heist/utils/special-powers.cfg:73
 msgid "Arachahl, Kahara!"
-msgstr ""
+msgstr "Arachahl, Kahara!"
