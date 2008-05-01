@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-05-01 16:24+0200\n"
-"PO-Revision-Date: 2008-04-20 00:22+0100\n"
+"PO-Revision-Date: 2008-05-02 00:25+0100\n"
 "Last-Translator: Damien J <guydelatourATgloireetpouvoirPTcom>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr "Fric-frac"
 #. [campaign]
 #: The_Heist/_main.cfg:9
 msgid "HEIST"
-msgstr ""
+msgstr "FF"
 
 #. [campaign]
 #: The_Heist/_main.cfg:10
@@ -50,7 +50,7 @@ msgstr "Difficile"
 #. [about]
 #: The_Heist/_main.cfg:18
 msgid "Campaign Design"
-msgstr ""
+msgstr "Conception de la campagne"
 
 #. [scenario]
 #: The_Heist/scenarios/01_The_Plan.cfg:5
@@ -673,7 +673,7 @@ msgstr "Le Choc"
 #. [objectives]
 #: The_Heist/scenarios/05_The_Collision.cfg:52
 msgid "Hint: Your actions determine which side enemies will attack"
-msgstr ""
+msgstr "Astuce : vos actions déterminent quel camp l'ennemi va attaquer."
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/05_The_Collision.cfg:54
@@ -1444,7 +1444,7 @@ msgstr "Le Labyrinthe"
 #. [objectives]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:55
 msgid "Hint: Don't let Bill attack the cockatrice"
-msgstr ""
+msgstr "Astuce : ne laissez pas Bill attaquer la cocatris"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:57
@@ -1505,7 +1505,7 @@ msgstr "Du calme, elle est inoffensive."
 #. [message]: description=Randalf
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:129
 msgid "Mysterious Voice"
-msgstr ""
+msgstr "Voix mystérieuse"
 
 #. [message]: description=Randalf
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:132
@@ -1799,12 +1799,12 @@ msgstr ""
 #. [objectives]
 #: The_Heist/scenarios/11_The_Statues.cfg:1053
 msgid "Play a game of backgammon"
-msgstr ""
+msgstr "Jouer une partir de backgammon"
 
 #. [objectives]
 #: The_Heist/scenarios/11_The_Statues.cfg:1054
 msgid "Press 'End Turn' to begin"
-msgstr ""
+msgstr "Appuyer sur « Fin du tour » pour commencer"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/11_The_Statues.cfg:1056
@@ -1966,9 +1966,8 @@ msgstr "La Guillotine"
 
 #. [objectives]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:61
-#, fuzzy
 msgid "Hint: try not to kill too many of Theomund's men"
-msgstr "Ou pétrifier/tuer tous les hommes de Theomund"
+msgstr "Astuce : essayez de ne pas tuer trop d'hommes de Theomund"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/12_The_Guillotine.cfg:63
@@ -2192,6 +2191,10 @@ msgid ""
 "   (2) It can only be pushed onto flat terrain \n"
 "       or into deep water"
 msgstr ""
+"Attaquer un rocher pour le pousser.\n"
+"   (1) 2 unités ou plus doivent être adjacentes\n"
+"   (2) il ne peut être poussé que sur terrain plat \n"
+"        ou dans de l'eau profonde."
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:53
@@ -2200,9 +2203,8 @@ msgstr "Pousser un rocher dans chaque douve et tuer Elgareth"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:61
-#, fuzzy
 msgid "Death of a leader"
-msgstr "Mort de Zilead"
+msgstr "Mort d'un chef"
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:96
@@ -2354,28 +2356,26 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:140
 msgid "You're Gerald's men! What are you doing in here?"
-msgstr ""
+msgstr "Vous êtes des hommes de Gerald ! Que faites-vous ici ?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:141
 msgid "We fell asleep while on guard duty..."
-msgstr ""
+msgstr "Nous nous sommes endormis alors que nous étions de garde..."
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:144
-#, fuzzy
 msgid ""
 "King Theomund has taken over this castle. Will you help us free the other "
 "prisoners?"
 msgstr ""
-"Le roi Theomund a conquis cette place-forte. Aidez-nous à libérer les autres "
-"prisonniers."
+"Le roi Theomund a conquis cette place-forte. Vous aiderez-nous à libérer les "
+"autres prisonniers ?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:145
-#, fuzzy
 msgid "Gladly!"
-msgstr "Papa !"
+msgstr "Volontiers !"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:165
@@ -2436,7 +2436,7 @@ msgstr "Princesse Leana !"
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:229
 msgid "No guards? That's odd..."
-msgstr ""
+msgstr "Pas de gardes ? C'est bizarre..."
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:252
