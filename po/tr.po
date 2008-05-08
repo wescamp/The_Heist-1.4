@@ -1,15 +1,21 @@
+# Turkish translations for Battle for Wesnoth package.
+# Copyright (C) 2008 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: wesnoth-The_Heist\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-05-01 16:24+0200\n"
-"PO-Revision-Date: 2008-04-08 19:42+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2008-05-07 12:58+0300\n"
+"Last-Translator: Nilgün Belma Bugüner <nilgun@belgeler.gen.tr>\n"
+"Language-Team: Turkish <wesnoth-tr@googlegroups.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #. [scenario]
 #. [campaign]
@@ -35,17 +41,17 @@ msgstr ""
 #. [campaign]
 #: The_Heist/_main.cfg:14
 msgid "Easy"
-msgstr ""
+msgstr "Kolay"
 
 #. [campaign]
 #: The_Heist/_main.cfg:15
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #. [campaign]
 #: The_Heist/_main.cfg:16
 msgid "Hard"
-msgstr ""
+msgstr "Zor"
 
 #. [about]
 #: The_Heist/_main.cfg:18
@@ -55,7 +61,7 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/01_The_Plan.cfg:5
 msgid "The Plan"
-msgstr ""
+msgstr "Plan"
 
 #. [event]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:81
@@ -134,7 +140,7 @@ msgstr ""
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:136
 #: The_Heist/scenarios/01_The_Plan.cfg:69
 msgid "What?"
-msgstr ""
+msgstr "Ne?"
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:70
@@ -425,7 +431,7 @@ msgstr ""
 #: The_Heist/scenarios/11_The_Statues.cfg:1064
 #: The_Heist/scenarios/03_The_Heist.cfg:99
 msgid "Turns run out"
-msgstr ""
+msgstr "Ellerin bitmesi"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/03_The_Heist.cfg:103
@@ -440,7 +446,7 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:144
 msgid "Aethun"
-msgstr ""
+msgstr "Agetun"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:148
@@ -450,7 +456,7 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:152
 msgid "Tarcyn"
-msgstr ""
+msgstr "Tarsin"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:156
@@ -475,7 +481,7 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:187
 msgid "Gleran"
-msgstr ""
+msgstr "Gleran"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:188
@@ -669,7 +675,7 @@ msgstr ""
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:86
 msgid "But..."
-msgstr ""
+msgstr "Fakat..."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:87
@@ -1172,7 +1178,7 @@ msgstr ""
 #. [objective]: condition=win
 #: The_Heist/scenarios/08_The_Family.cfg:49
 msgid "Survive until end of turns"
-msgstr ""
+msgstr "Ellerin bitimine kadar dayan"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/08_The_Family.cfg:53
@@ -1861,7 +1867,7 @@ msgstr ""
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:96
 msgid "Yes sir!"
-msgstr ""
+msgstr "Peki efendim!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:97
@@ -1910,7 +1916,7 @@ msgstr ""
 #. [else]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:275
 msgid "Wait!"
-msgstr ""
+msgstr "Bekle!"
 
 #. [event]: (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:308
@@ -1972,7 +1978,7 @@ msgstr ""
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:109
 msgid "Right."
-msgstr ""
+msgstr "Tamam."
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:110
@@ -2125,7 +2131,7 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:127
 msgid "Who are you?"
-msgstr ""
+msgstr "Kimsin?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:128
@@ -2334,7 +2340,7 @@ msgstr ""
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:277
 msgid "What is it?"
-msgstr ""
+msgstr "O nedir?"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:278
@@ -2513,7 +2519,7 @@ msgstr ""
 #. [scenario]
 #: The_Heist/scenarios/17_The_End.cfg:5
 msgid "The End"
-msgstr ""
+msgstr "Son"
 
 #. [unit]: race=undead
 #: The_Heist/units/Bat_Mauler.cfg:4
@@ -2528,14 +2534,14 @@ msgstr ""
 #. [attack]: type=impact
 #: The_Heist/units/Bat_Mauler.cfg:32 The_Heist/units/Warrior_King.cfg:29
 msgid "mace"
-msgstr ""
+msgstr "topuz"
 
 #. [variation]: race=human
 #. [unit]: race=human
 #: The_Heist/units/Battle_Princess.cfg:5
 #: The_Heist/units/Battle_Princess.cfg:58
 msgid "female^Battle Princess"
-msgstr ""
+msgstr "Savaş Prensesi"
 
 #. [variation]: race=human
 #. [unit]: race=human
@@ -2547,22 +2553,26 @@ msgid ""
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
+"Doğuştan soylu biri olan prenses en büyük generallerden kılıç kullanmayı, en "
+"büyük bilgelerden savaş taktiklerini öğrenmiş bu özellikler onu hem büyük "
+"bir savaşçı hem de lider yapmıştır. Savaş tecrübesine sahip ve hevesli "
+"olarak artık çarpışmada etrafındakilere destek olabilir."
 
 #. [attack]: type=blade
 #: The_Heist/units/Battle_Princess.cfg:36
 #: The_Heist/units/Battle_Princess.cfg:88
 msgid "sabre"
-msgstr ""
+msgstr "eskrim kılıcı"
 
 #. [attack]: type=fire
 #: The_Heist/units/Battle_Princess.cfg:97
 msgid "scepter of fire"
-msgstr ""
+msgstr "ateş asası"
 
 #. [unit]: race=human
 #: The_Heist/units/Beheading_Knight.cfg:4
 msgid "Grand Knight"
-msgstr ""
+msgstr "Büyük Şövalye"
 
 #. [unit]: race=human
 #: The_Heist/units/Blonde_Kid.cfg:4
@@ -2601,7 +2611,7 @@ msgstr ""
 #. [attack]: type=cold
 #: The_Heist/units/Flying_Cockatrice.cfg:37 The_Heist/units/Cockatrice.cfg:22
 msgid "gaze"
-msgstr ""
+msgstr "dikbakış"
 
 #. [unit]
 #: The_Heist/units/Corridor_Door.cfg:4
@@ -2616,7 +2626,7 @@ msgstr ""
 #. [unit]: race=human
 #: The_Heist/units/Dark_Queen.cfg:5
 msgid "female^Dark Queen"
-msgstr ""
+msgstr "Kara Kraliçe"
 
 #. [unit]: race=human
 #: The_Heist/units/Dark_Queen.cfg:20
@@ -2625,21 +2635,24 @@ msgid ""
 "knowledge of magic makes her a worthy foe in combat, although her power is "
 "mostly derived from those she commands."
 msgstr ""
+"Kötü kraliçe anne Aşivye, Wesnoth’ta uzun yıllar terör estirdi. Sihir "
+"konusundaki bilgisi onu çarpışmada kayda değer bir düşman yapar, ama gücünün "
+"çoğu komutası altındakilerden gelmiştir."
 
 #. [attack]: type=impact
 #: The_Heist/units/Dark_Queen.cfg:25
 msgid "scepter"
-msgstr ""
+msgstr "asa"
 
 #. [attack]: type=cold
 #: The_Heist/units/Dark_Queen.cfg:34
 msgid "cold"
-msgstr ""
+msgstr "soğuk"
 
 #. [unit]: race=human
 #: The_Heist/units/Elder_Mage.cfg:5
 msgid "Elder Mage"
-msgstr ""
+msgstr "Yaşlı Büyücü"
 
 #. [unit]: race=human
 #: The_Heist/units/Elder_Mage.cfg:24
@@ -2648,17 +2661,20 @@ msgid ""
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
 "on account of their powerful lightning bolts."
 msgstr ""
+"Bir zamanlar harika olan yaşlı büyücüler güçlerinin yılllarca süren savaş "
+"bıkkınlığı yüzünden azaldığını gördüler. Mamafih güçlü yıldırım toplarının "
+"hürmetine savaş alanlarında korkulan kişiler olarak kaldılar."
 
 #. [attack]: type=impact
 #: The_Heist/units/Outlaw_Queen2.cfg:53 The_Heist/units/Elder_Mage.cfg:28
 #: The_Heist/units/Outlaw_Queen.cfg:96
 msgid "staff"
-msgstr ""
+msgstr "asa"
 
 #. [attack]: type=fire
 #: The_Heist/units/Elder_Mage.cfg:37
 msgid "lightning"
-msgstr ""
+msgstr "yıldırım"
 
 #. [unit]: race=human
 #: The_Heist/units/Female_Peasant.cfg:4
@@ -2677,12 +2693,12 @@ msgstr ""
 #. [attack]: type=pierce
 #: The_Heist/units/Female_Peasant.cfg:26 The_Heist/units/Female_Peasant.cfg:35
 msgid "pitchfork"
-msgstr ""
+msgstr "yaba"
 
 #. [unit]: race=human
 #: The_Heist/units/Hurt_King_Knight.cfg:4
 msgid "Knight"
-msgstr ""
+msgstr "Şövalye"
 
 #. [unit]
 #: The_Heist/units/King_Guillotine.cfg:4
@@ -2697,7 +2713,7 @@ msgstr ""
 #. [unit]: race=human
 #: The_Heist/units/Noble_Lord.cfg:4
 msgid "Noble Lord"
-msgstr ""
+msgstr "Asil Lord"
 
 #. [unit]: race=human
 #: The_Heist/units/Noble_Lord.cfg:25
@@ -2707,16 +2723,19 @@ msgid ""
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
 msgstr ""
+"Bir çok birliğin asil Liderleri, özellikle yakın savaşta güçlüdürler ve ok "
+"kullanmada da maharetlidirler. Komutanlar gibi, Liderler de yakındaki tüm "
+"alt seviye birimlerin savaş becerisini geliştirirler."
 
 #. [attack]: type=blade
 #: The_Heist/units/Noble_Lord.cfg:30 The_Heist/units/Royal_Guard_Hero.cfg:30
 msgid "sword"
-msgstr ""
+msgstr "kılıç"
 
 #. [attack]: type=pierce
 #: The_Heist/units/Noble_Lord.cfg:39
 msgid "bow"
-msgstr ""
+msgstr "yay"
 
 #. [unit]
 #: The_Heist/units/Outlaw_Guillotine.cfg:4
@@ -2726,7 +2745,7 @@ msgstr ""
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen.cfg:4
 msgid "female^Outlaw Queen"
-msgstr ""
+msgstr "Batılı Kraliçe"
 
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen.cfg:26
@@ -2738,11 +2757,16 @@ msgid ""
 "Queendom with the plunder she finds on the road, and she is ever so close to "
 "that goal."
 msgstr ""
+"Doğuştan soylu olan Batılı Kraliçe kılıç kullanmayı büyük generallerden "
+"savaş taktiklerini ise bilge kişilerden öğrenmiştir, bu onu hem büyük bir "
+"savaşçı hemde büyük bir lider yapar. Ama o kanun kaçaklığını seçen "
+"aristokratlığın sonucudur. O yollalarda yağmaladığı altınlarla kendi "
+"Kraliçeliğinin hayel ediyor, ve bu hedefini başarmayada çok da yakındır."
 
 #. [attack]: type=impact
 #: The_Heist/units/Outlaw_Queen2.cfg:62 The_Heist/units/Outlaw_Queen.cfg:105
 msgid "sling"
-msgstr ""
+msgstr "sapan"
 
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen2.cfg:4
@@ -2762,7 +2786,7 @@ msgstr ""
 #. [unit]: race=human
 #: The_Heist/units/Royal_Guard_Hero.cfg:4
 msgid "Royal Guard"
-msgstr ""
+msgstr "Kraliyet Muhafızı"
 
 #. [unit]: race=human
 #: The_Heist/units/Royal_Guard_Hero.cfg:20
@@ -2776,11 +2800,18 @@ msgid ""
 "reliability and mastery of close combat are their best assets, for which "
 "they are well-renowned."
 msgstr ""
+"Kraliyet Muhafızları Wesnoth'taki en iyi kılıç ustalarından seçilir. "
+"Herhangi bir üst soylunun altında koruyucu olarak hizmet ederler ve biraz da "
+"işverenlerinin ofis işlerini hallederler. Kraliyet muhafızlarının özel bir "
+"bölümü başkentte bulunur ve sarayı ve kral ailesini korurlar. Üstlerine olan "
+"bağlılıklarından dolayı önem taşıyan göreylere paralı askerlerden ziyade "
+"onlar gönderilirler. Güvenilirlikleri ve yakın savaştaki ustalıkları ile iyi "
+"bir üne sahiptirler."
 
 #. [unit]: race=human
 #: The_Heist/units/Warrior_King.cfg:5
 msgid "Warrior King"
-msgstr ""
+msgstr "Cengaver Kral"
 
 #. [unit]: race=human
 #: The_Heist/units/Warrior_King.cfg:24
@@ -2789,6 +2820,9 @@ msgid ""
 "protecting their subjects. Kings can coordinate the attacks of level 1 and 2 "
 "units, thereby increasing their fighting efficiency."
 msgstr ""
+"İnsan Krallıklarının liderleri, Krallar kendi alanlarının koruyucu ve "
+"yöneticileridirler. Krallar seviye 1 ve seviye 2 birimlerin saldırılarını "
+"koordine edereler, ve böylece dövüş etkilerini arttırırlar."
 
 #. [unit]: race=undead
 #: The_Heist/units/Witch.cfg:4
