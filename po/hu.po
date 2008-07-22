@@ -1,109 +1,113 @@
+# translation of hu-th.po to Hungarian
+# Gabor Udvari <gabor.udvari@gmail.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: hu-th\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-05-01 16:24+0200\n"
-"PO-Revision-Date: 2008-04-08 19:42+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2008-07-21 12:09+0200\n"
+"Last-Translator: Gabor Udvari <gabor.udvari@gmail.com>\n"
+"Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #. [scenario]
 #. [campaign]
 #: The_Heist/scenarios/03_The_Heist.cfg:5 The_Heist/_main.cfg:8
 msgid "The Heist"
-msgstr ""
+msgstr "Az Ármány"
 
 #. [campaign]
 #: The_Heist/_main.cfg:9
 msgid "HEIST"
-msgstr ""
+msgstr "ÁRMÁNY"
 
 #. [campaign]
 #: The_Heist/_main.cfg:10
 msgid " (Version"
-msgstr ""
+msgstr " (Verzió"
 
 #. [campaign]
 #: The_Heist/_main.cfg:10
 msgid "A plot to steal a king's treasure goes awry."
-msgstr ""
+msgstr "A király kincstára elleni merénylet balul sül el."
 
 #. [campaign]
 #: The_Heist/_main.cfg:14
 msgid "Easy"
-msgstr ""
+msgstr "Könnyű"
 
 #. [campaign]
 #: The_Heist/_main.cfg:15
 msgid "Normal"
-msgstr ""
+msgstr "Közepes"
 
 #. [campaign]
 #: The_Heist/_main.cfg:16
 msgid "Hard"
-msgstr ""
+msgstr "Nehéz"
 
 #. [about]
 #: The_Heist/_main.cfg:18
 msgid "Campaign Design"
-msgstr ""
+msgstr "Küldetés tervezés"
 
 #. [scenario]
 #: The_Heist/scenarios/01_The_Plan.cfg:5
 msgid "The Plan"
-msgstr ""
+msgstr "A terv"
 
 #. [event]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:81
 #: The_Heist/scenarios/01_The_Plan.cfg:41
 msgid "Zilead"
-msgstr ""
+msgstr "Zilead"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:42
 msgid "Xavier"
-msgstr ""
+msgstr "Xavier"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:43
 msgid "Baltizar"
-msgstr ""
+msgstr "Baltizar"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:44
 msgid "Judas"
-msgstr ""
+msgstr "Judas"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:47
 msgid "Ardella"
-msgstr ""
+msgstr "Ardella"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:48
 msgid "Rogan"
-msgstr ""
+msgstr "Rogan"
 
 #. [event]
 #: The_Heist/scenarios/01_The_Plan.cfg:49
 msgid "Leana"
-msgstr ""
+msgstr "Leana"
 
 #. [event]: (description=Judas) side 1}
 #. [event]
 #: The_Heist/scenarios/05_The_Collision.cfg:100
 #: The_Heist/scenarios/01_The_Plan.cfg:52
 msgid "Bill"
-msgstr ""
+msgstr "Bill"
 
+# HU: why-why szóismétlés, ezt el akartam kerülni
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:65
 msgid "Why don't you tell us why you brought us all here?"
-msgstr ""
+msgstr "Elárulnád, hogy miért hoztál ide mindannyiunkat?"
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:66
@@ -112,6 +116,9 @@ msgid ""
 "escalating. According to my sources, Theomund aims to overthrow the "
 "tyrannous king tomorrow night."
 msgstr ""
+"Nos, ahogy mindnyájan tudjátok, a viszály Gerald király és Theomund király "
+"között egyre csak fokozódik. Forrásaim szerint, Theomund holnap éjjelre "
+"tervezi megbuktatja a zsarnok királyt."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:67
@@ -119,6 +126,8 @@ msgid ""
 "Good for him. It's about time someone removed that poor excuse for a king "
 "from power."
 msgstr ""
+"Örülünk neki. Már ideje volt valakinek elmozdítani a hatalomból azt a "
+"szerencsétlen király utánzatot."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:68
@@ -126,6 +135,8 @@ msgid ""
 "I agree. However, it will not be Theomund. In fact, we are going to help "
 "Gerald defeat Theomund's army."
 msgstr ""
+"Egyetértek. Azonban, nem Theomund lesz az. Tulajdonképpen mi Geraldnak "
+"fogunk segíteni legyőzni Thoumund seregét."
 
 #. [event]: (description=Zilead) no}
 #. [event]: (description=Talika) 20 35}
@@ -134,7 +145,7 @@ msgstr ""
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:136
 #: The_Heist/scenarios/01_The_Plan.cfg:69
 msgid "What?"
-msgstr ""
+msgstr "Micsoda?"
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:70
@@ -142,11 +153,13 @@ msgid ""
 "After our victory, we will accompany Gerald and his men back to the castle. "
 "Then we'll wait for an opportune moment to ask for a personal tour."
 msgstr ""
+"Győzelmünk után, visszakísérjük Geraldot és embereit a kastélyba. Akkor majd "
+"kivárjuk a megfelelő pillanatot, hogy egy személyes sétára kérjük."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:71
 msgid "Zilead..."
-msgstr ""
+msgstr "Zilead..."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:72
@@ -157,6 +170,11 @@ msgid ""
 "back up to the main level, have a drink with Gerald's men, and then head out "
 "the castle's main gate."
 msgstr ""
+"Miután levezetnek minket a kastély földalatti termeibe, lemészároljuk az "
+"őreit, rákényszerítjük Geraldot, árulja el hol tartja kincsét, utána "
+"megöljük a királyt, elrejtjük a tetemeket, elvesszük, amit el tudunk "
+"rejteni, visszatérünk a fő szintre, iszunk egyet Gerald embereivel, aztán "
+"kisietünk a kastély főkapuján."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:75
@@ -164,6 +182,8 @@ msgid ""
 "Ardella, my father is attempting a siege of King Gerald's castle tomorrow "
 "evening. Rogan has informed me that Gerald is well aware of my father's plan."
 msgstr ""
+"Ardella, apám holnap este megpróbálja megostromolni Gerald király kastélyát. "
+"Rogan tudomásomra hozta, hogy Gerald nagyon is tisztában van apám tervével."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:76
@@ -171,6 +191,8 @@ msgid ""
 "King Gerald has foolishly decided not to defend his castle. Instead, he will "
 "confront Theomund's army in the field. It will be a massacre."
 msgstr ""
+"Gerald király ostoba módon nem szándékozik megvédeni kastélyát. Ellenben "
+"nyílt terepen fog megütközni Thoumunddal. Mészárlás lesz."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:77
@@ -179,11 +201,14 @@ msgid ""
 "little known island far west of Wesnoth where we can start a new life "
 "together."
 msgstr ""
+"Ardella, szükségünk van a segítségedre. Rogannak és nekem el kell menekülnöm "
+"erről a földről. Van egy kevésbé ismert sziget messze Wesnothtól nyugatra, "
+"ahol együtt új életet kezdhetünk."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:78
 msgid "How can I help?"
-msgstr ""
+msgstr "Hogyan lehetek segítségetekre?"
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:79
@@ -191,83 +216,87 @@ msgid ""
 "If we are to start a new life, we'll need gold. More specifically, King "
 "Gerald's gold."
 msgstr ""
+"Ha új életet akarunk kezdeni, akkor aranyra lesz szükségünk. Pontosabban "
+"Gerald király aranyára."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:82
 msgid "Good night, men."
-msgstr ""
+msgstr "Jó éjszakát, emberek!"
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:98
 msgid "Hello, old friend. What have you got for me?"
-msgstr ""
+msgstr "Üdvözöllek, öreg barátom. Mid van számomra?"
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:99
 msgid "You're not going to believe this."
-msgstr ""
+msgstr "Nem fogod elhinni."
 
 #. [event]: (description=Bill) no}, (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zilead) 40 1}, (description=Baltizar) 40 1}, (description=Xavier) 40 1}, (description=Judas) 22 20}
 #: The_Heist/scenarios/01_The_Plan.cfg:100
 msgid "I'm all ears."
-msgstr ""
+msgstr "Csupa fül vagyok."
 
 #: The_Heist/scenarios/02_The_Battle.cfg:5
 msgid "The Battle"
-msgstr ""
+msgstr "A csata"
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:64
 msgid "You did not kill at least $needed_kills| units"
-msgstr ""
+msgstr "Nem öltél meg legalább $needed_kills| egységet."
 
+# HU: Győzől ha,...
 #. [objective]: condition=win
 #: The_Heist/scenarios/02_The_Battle.cfg:68
 msgid "Gerald has twice as many men as Theomund"
-msgstr ""
+msgstr "Geraldnak kétszer annyi embere marad, mint Theomundnak."
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/02_The_Battle.cfg:72
 msgid "$desc_lose"
-msgstr ""
+msgstr "$desc_lose"
 
+# HU: veszítesz ha
 #. [objective]: condition=lose
 #: The_Heist/scenarios/02_The_Battle.cfg:76
 msgid "Death of Gerald"
-msgstr ""
+msgstr "Gerald meghal"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/02_The_Battle.cfg:80
 msgid "Death of Zilead or any of his men"
-msgstr ""
+msgstr "Zilead, vagy bármelyik embere elesik"
 
 #. [event]
 #. [scenario]
 #: The_Heist/scenarios/02_The_Battle.cfg:90
 #: The_Heist/scenarios/15_The_Breakout.cfg:133
 msgid "Fagan"
-msgstr ""
+msgstr "Fagan"
 
 #. [event]
 #. [scenario]
 #: The_Heist/scenarios/02_The_Battle.cfg:91
 #: The_Heist/scenarios/15_The_Breakout.cfg:134
 msgid "Uscias"
-msgstr ""
+msgstr "Uscias"
 
 #. [event]
 #. [scenario]
 #: The_Heist/scenarios/02_The_Battle.cfg:92
 #: The_Heist/scenarios/15_The_Breakout.cfg:135
 msgid "Conri"
-msgstr ""
+msgstr "Conri"
 
 #. [event]
 #. [scenario]
 #: The_Heist/scenarios/02_The_Battle.cfg:93
 #: The_Heist/scenarios/15_The_Breakout.cfg:136
 msgid "Keegan"
-msgstr ""
+msgstr "Keegan"
 
 #. [event]
 #. [event]: (description=Zilead)}, (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}, (description=Leana)}, (description=Rogan)}, (description=Ardella)}
@@ -279,7 +308,7 @@ msgstr ""
 #: The_Heist/scenarios/15_The_Breakout.cfg:274
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:794
 msgid "King Gerald"
-msgstr ""
+msgstr "Gerald király"
 
 #. [else]
 #. [event]: (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}
@@ -290,12 +319,13 @@ msgstr ""
 #: The_Heist/scenarios/02_The_Battle.cfg:107
 #: The_Heist/scenarios/10_The_Persuasion.cfg:38
 msgid "King Theomund"
-msgstr ""
+msgstr "Theomund király"
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:119
 msgid "Surrender now, Gerald, and I will send you and your men into exile."
 msgstr ""
+"Add meg magad most, Gerald, és téged valamint embereidet száműzetésbe küldöm."
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:120
@@ -303,6 +333,8 @@ msgid ""
 "What insolence! You'll receive no such offer from me. The reign of Theomund "
 "is over! Men, kill every last one of them!"
 msgstr ""
+"Mily arcátlanság! Te nem kapsz ilyen ajánlatot tőlem. Theomund uralkodásának "
+"vége! Emberek, mind egy szálig megölni őket!"
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:171
@@ -310,31 +342,33 @@ msgid ""
 "Would anyone care for a drink? I've got a bottle of the finest liquor this "
 "side of Wesnoth."
 msgstr ""
+"Valaki akar egy italt? Van egy üvegem Wesnoth ezen felének legjobb "
+"likőrjéből."
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:172
 msgid "Stolen from King Gerald's liquor cabinet, no doubt."
-msgstr ""
+msgstr "Gerald király likőrös szekrényéből loptad, nincs kétség."
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:173
 msgid "Right you are, sir."
-msgstr ""
+msgstr "Igaza van, uram."
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:174
 msgid "I'll take a swig."
-msgstr ""
+msgstr "Adj egy kortyot!"
 
 #. [then]
 #: The_Heist/scenarios/02_The_Battle.cfg:255
 msgid "Theomund's men are retreating."
-msgstr ""
+msgstr "Theomund emberei visszavonulnak."
 
 #. [then]
 #: The_Heist/scenarios/02_The_Battle.cfg:256
 msgid "Well done, King Gerald."
-msgstr ""
+msgstr "Szép munka volt Gerald király."
 
 #. [then]
 #: The_Heist/scenarios/02_The_Battle.cfg:264
@@ -342,6 +376,8 @@ msgid ""
 "Zilead, you assured me that you and your friends would help me defeat "
 "Theomund. Instead, you fought like cowards. Get out of my sight!"
 msgstr ""
+"Zilead, biztosítottál róla, hogy te és barátaid segítetek legyőzni "
+"Theomundot. Ennek ellenére gyáván küzdöttetek. Takarodj a szemem elől!"
 
 #. [else]
 #: The_Heist/scenarios/02_The_Battle.cfg:270
@@ -349,74 +385,77 @@ msgid ""
 "Thank you, Zilead. It would not have been a victory without your help. I am "
 "eternally grateful to you."
 msgstr ""
+"Köszönöm neked, Zilead. Nem győztünk volna segítséged nélkül. Végtelenül "
+"hálás vagyok neked."
 
 #: The_Heist/scenarios/02_The_Battle.cfg:316
 msgid "King Theomund is wounded! Get him off the battlefield!"
-msgstr ""
+msgstr "Theomund király megsebesült! Menekítsétek ki a csatamezőről!"
 
 #: The_Heist/scenarios/02_The_Battle.cfg:362
 msgid "King Gerald has been slain. We have failed."
-msgstr ""
+msgstr "Gerald királyt megölték. Elbuktunk."
 
+# HU: - alanyesetű igét kell használni, mert nehézkes lenne a tárgyeset -t ragját a névhez illeszteni
 #: The_Heist/scenarios/02_The_Battle.cfg:383
 msgid "$store.user_description| has been slain!"
-msgstr ""
+msgstr "$store.user_description| elesett!"
 
 #. [event]
 #: The_Heist/scenarios/02_The_Battle.cfg:399
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:776
 msgid "We have lost this battle. Retreat!"
-msgstr ""
+msgstr "Elvesztettük ezt a csatát. Visszavonulás!"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:54
 msgid "Sudry"
-msgstr ""
+msgstr "Sudry"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:55
 msgid "Rhaedyn"
-msgstr ""
+msgstr "Rhaedyn"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:58
 msgid "Brodin"
-msgstr ""
+msgstr "Brodin"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:59
 msgid "Lenvan"
-msgstr ""
+msgstr "Lenvan"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:60
 msgid "Demyr"
-msgstr ""
+msgstr "Demyr"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:61
 msgid "Addredry"
-msgstr ""
+msgstr "Addredry"
 
 #. [event]: (description=Sudry) 13 10}, (description=Rhaedyn) 17 12}, (description=Sudry) side 1}, (description=Rhaedyn) side 1}
 #: The_Heist/scenarios/03_The_Heist.cfg:68
 msgid "It is time."
-msgstr ""
+msgstr "Itt az idő."
 
 #. [event]: (description=Sudry) 13 10}, (description=Rhaedyn) 17 12}, (description=Sudry) side 1}, (description=Rhaedyn) side 1}
 #: The_Heist/scenarios/03_The_Heist.cfg:73
 msgid "What are you doing? Lower your swords at once!"
-msgstr ""
+msgstr "Mit csináltok? Le a karddal, de rögtön!"
 
 #. [event]: (description=Sudry) 13 10}, (description=Rhaedyn) 17 12}, (description=Sudry) side 1}, (description=Rhaedyn) side 1}
 #: The_Heist/scenarios/03_The_Heist.cfg:74
 msgid "It's nothing personal, Brodin."
-msgstr ""
+msgstr "Semmi személyes, Brodin."
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/03_The_Heist.cfg:95
 msgid "Find the treasure"
-msgstr ""
+msgstr "Megtalálod a kincset"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:57
@@ -425,92 +464,92 @@ msgstr ""
 #: The_Heist/scenarios/11_The_Statues.cfg:1064
 #: The_Heist/scenarios/03_The_Heist.cfg:99
 msgid "Turns run out"
-msgstr ""
+msgstr "Kifutsz az időből"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/03_The_Heist.cfg:103
 msgid "Death of Ardella, Leana or Rogan"
-msgstr ""
+msgstr "Ardella, Leana vagy Rogan meghal"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:140
 msgid "Varcyn"
-msgstr ""
+msgstr "Varcyn"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:144
 msgid "Aethun"
-msgstr ""
+msgstr "Aethun"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:148
 msgid "Cadry"
-msgstr ""
+msgstr "Cadry"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:152
 msgid "Tarcyn"
-msgstr ""
+msgstr "Tarcyn"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:156
 msgid "Gwadoc"
-msgstr ""
+msgstr "Gwadoc"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:160
 msgid "Iago"
-msgstr ""
+msgstr "Iago"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:166
 msgid "Claudius"
-msgstr ""
+msgstr "Claudius"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:178
 msgid "I found the treasure!"
-msgstr ""
+msgstr "Megtaláltam a kincset!"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:187
 msgid "Gleran"
-msgstr ""
+msgstr "Gleran"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:188
 msgid "Aethunry"
-msgstr ""
+msgstr "Aethunry"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:192
 msgid "Owidry"
-msgstr ""
+msgstr "Owidry"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:193
 msgid "Taemyr"
-msgstr ""
+msgstr "Taemyr"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:197
 msgid "Modd"
-msgstr ""
+msgstr "Modd"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:198
 msgid "Lurraent"
-msgstr ""
+msgstr "Lurraent"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:202
 msgid "Saercyn"
-msgstr ""
+msgstr "Saercyn"
 
 #. [scenario]
 #: The_Heist/scenarios/03_The_Heist.cfg:203
 msgid "Dadoc"
-msgstr ""
+msgstr "Dadoc"
 
 #. [event]
 #. [scenario]
@@ -519,7 +558,7 @@ msgstr ""
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:765
 #: The_Heist/scenarios/03_The_Heist.cfg:206
 msgid "Ardella!"
-msgstr ""
+msgstr "Ardella!"
 
 #. [event]
 #. [scenario]
@@ -527,7 +566,7 @@ msgstr ""
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:772
 #: The_Heist/scenarios/03_The_Heist.cfg:207
 msgid "Rogan!"
-msgstr ""
+msgstr "Rogan!"
 
 #. [event]
 #. [scenario]
@@ -535,67 +574,67 @@ msgstr ""
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:771
 #: The_Heist/scenarios/03_The_Heist.cfg:208
 msgid "Leana!"
-msgstr ""
+msgstr "Leana!"
 
 #. [event]
 #: The_Heist/scenarios/03_The_Heist.cfg:212
 msgid "We are out of time. We must leave before Gerald arrives."
-msgstr ""
+msgstr "Kifutunk az időből. El kell tűnnünk, mielőtt Gerald megérkezik."
 
 #. [scenario]
 #: The_Heist/scenarios/04_The_Tour.cfg:5
 msgid "The Tour"
-msgstr ""
+msgstr "A séta"
 
 #. [event]
 #: The_Heist/scenarios/04_The_Tour.cfg:42
 msgid "Gareth"
-msgstr ""
+msgstr "Gareth"
 
 #. [event]
 #: The_Heist/scenarios/04_The_Tour.cfg:43
 msgid "Hale"
-msgstr ""
+msgstr "Hale"
 
 #. [event]
 #: The_Heist/scenarios/04_The_Tour.cfg:44
 msgid "Titus"
-msgstr ""
+msgstr "Titus"
 
 #. [event]
 #: The_Heist/scenarios/04_The_Tour.cfg:45
 msgid "Hammond"
-msgstr ""
+msgstr "Hammond"
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:74
 msgid "And this is the dungeon where my enemies are left to rot."
-msgstr ""
+msgstr "És ez a börtön, ahol az ellenségeimet rothadni hagyjuk."
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:75
 msgid "That explains the smell."
-msgstr ""
+msgstr "Ez megmagyarázza a bűzt."
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:76
 msgid "Aye, let us not linger here any longer."
-msgstr ""
+msgstr "Igen, ne maradjunk itt tovább."
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:77
 msgid "Where are the guards?"
-msgstr ""
+msgstr "Hol vannak az őrök?"
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:78
 msgid "Oh no!"
-msgstr ""
+msgstr "Jaj ne!"
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:81
 msgid "My treasure has been stolen!"
-msgstr ""
+msgstr "A kincsemet ellopták!"
 
 #. [scenario]
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
@@ -607,17 +646,17 @@ msgstr ""
 #: The_Heist/scenarios/15_The_Breakout.cfg:264
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:760
 msgid "Zilead!"
-msgstr ""
+msgstr "Zilead!"
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:84
 msgid "Find my treasure and bring me the heads of those responsible!"
-msgstr ""
+msgstr "Találd meg a kincset, és hozd el a felelősök fejét!"
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:85
 msgid "My men and I insist on helping."
-msgstr ""
+msgstr "Az embereim és én ragaszkodunk hozzá, hogy segíthessünk."
 
 #. [event]: (description=King Gerald) $treasure_x $treasure_y}
 #: The_Heist/scenarios/04_The_Tour.cfg:86
@@ -625,32 +664,36 @@ msgid ""
 "Aye, you've proven your allegiance to me on the battlefield. Now hurry, "
 "before the culprits get too far!"
 msgstr ""
+"Igen, már bizonyítottad hozzám való hűségedet a csatamezőn. Most siess, "
+"mielőtt a tolvajok túl messze kerülnek."
 
+# HU: ez a rész arról fog szólni, hogy valaki, aki Zileaddal volt, elárulja Zileadot Billel szemben
 #. [scenario]
 #: The_Heist/scenarios/05_The_Collision.cfg:5
 msgid "The Collision"
-msgstr ""
+msgstr "A megütközés"
 
 #. [objectives]
 #: The_Heist/scenarios/05_The_Collision.cfg:52
 msgid "Hint: Your actions determine which side enemies will attack"
 msgstr ""
+"Tanács: a cselekedeteid határozzák meg, hogy mely ellenségek támadnak rád"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/05_The_Collision.cfg:54
 msgid "Kill everyone but Zilead"
-msgstr ""
+msgstr "Megölsz mindenkit Zileadon kívül"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/05_The_Collision.cfg:58
 msgid "Death of Bill"
-msgstr ""
+msgstr "Bill meghal"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/05_The_Collision.cfg:62
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:69
 msgid "Death of Zilead"
-msgstr ""
+msgstr "Zilead meghal"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:84
@@ -658,6 +701,8 @@ msgid ""
 "I don't think the thieves would be so foolish as to venture through such a "
 "populated area."
 msgstr ""
+"Nem hinném, hogy a tolvajok olyan ostobák lennének, hogy ilyen népes "
+"területen kelnének át."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:85
@@ -665,51 +710,53 @@ msgid ""
 "This is the town nearest King Gerald's castle. We will question the "
 "residents to see if they've witnessed any suspicious activity."
 msgstr ""
+"Ez a legközelebbi város Gerald király kastélyához. Megkérdezzük a lakosokat, "
+"hátha tanúi voltak valami különös esetnek."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:86
 msgid "But..."
-msgstr ""
+msgstr "De..."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:87
 msgid "Gareth is right, Judas. Someone must have seen something."
-msgstr ""
+msgstr "Garethnek igaza van, Judas. Valakinek látnia kellett valamit."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:102
 msgid "Well, well, Zilead, we meet at last!"
-msgstr ""
+msgstr "Nahát, nahát, Zilead, végre találkozunk!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:103
 msgid "Bill, wait..."
-msgstr ""
+msgstr "Bill, várj..."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:104
 msgid "Come on out, men! Gerald's gold is ripe for the taking!"
-msgstr ""
+msgstr "Gyerünk emberek! Gerald aranya megérett, hogy elvegyük!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:114
 msgid "Are you going to hand it over, Zilead? I haven't got all night!"
-msgstr ""
+msgstr "Átadod nekünk Zilead? Nem érek rá egész éjjel!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:115
 msgid "Bill, you don't understand..."
-msgstr ""
+msgstr "Bill, te nem érted..."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:116
 msgid "What's going on, Judas?"
-msgstr ""
+msgstr "Mi folyik itt, Judas?"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:117
 msgid "I'm so sorry. Bill's an old friend..."
-msgstr ""
+msgstr "Sajnálom. Bill egy régi bajtársam..."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:118
@@ -717,11 +764,13 @@ msgid ""
 "I loved you like a son! After what we've been through together, you betray "
 "us for this scalawag!"
 msgstr ""
+"Fiamként szerettelek! Azok után, amin keresztül mentünk, elárulsz minket "
+"ezért a semmirekellőért!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:119
 msgid "What did you call me?"
-msgstr ""
+msgstr "Minek neveztél?"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:120
@@ -729,6 +778,8 @@ msgid ""
 "Gentlemen, I'm afraid there's been some sort of misunderstanding. We are "
 "King Gerald's men. We do not..."
 msgstr ""
+"Uraim, attól tartok itt valami félreértés van. Mi Gerald király emberei "
+"vagyunk. Mi nem..."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:121
@@ -736,46 +787,49 @@ msgid ""
 "Silence! I know all about Zilead's scheme to steal Gerald's treasure. Do I "
 "look like a dolt to you?"
 msgstr ""
+"Csöndet! Mindent tudok Zilead tervéről, hogy ellopja Gerald király kincsét. "
+"Azt hitted egy tökfilkó vagyok?"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:122
 msgid "Zilead?"
-msgstr ""
+msgstr "Zilead?"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:123
 msgid "We did not steal the treasure!"
-msgstr ""
+msgstr "Nem loptuk el a kincset!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:124
 msgid "Aye, the treasure was already gone before we could get our hands on it."
 msgstr ""
+"Így van, a kincset már ellopták, mielőtt mi rátehettük volna a kezünket."
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:125
 msgid "Baltizar!"
-msgstr ""
+msgstr "Baltizar!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:126
 msgid "You scoundrels! You are all under arrest! Seize them!"
-msgstr ""
+msgstr "Ti gazfickók! Mind le vagytok tartóztatva! Bilincsbe velük!"
 
 #. [event]: (description=Judas) side 1}
 #: The_Heist/scenarios/05_The_Collision.cfg:127
 msgid "I have a better idea. You can all go straight to hell!"
-msgstr ""
+msgstr "Nekem jobb ötletem van. Egyenesen a pokolra kerültök!"
 
 #. [message]
 #: The_Heist/scenarios/05_The_Collision.cfg:317
 msgid "You must help us!"
-msgstr ""
+msgstr "Segítenetek kell!"
 
 #. [message]
 #: The_Heist/scenarios/05_The_Collision.cfg:335
 msgid "Please help us!"
-msgstr ""
+msgstr "Kérlek segítsetek!"
 
 #. [event]
 #: The_Heist/scenarios/05_The_Collision.cfg:413
@@ -783,161 +837,164 @@ msgid ""
 "Well, Zilead, it looks like neither of us will get our hands on Gerald's "
 "treasure."
 msgstr ""
+"Nos, Zilead, úgy fest egyikünk sem fogja megkaparintani Gerald kincsét."
 
 #. [scenario]
 #. [event]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:252
 #: The_Heist/scenarios/05_The_Collision.cfg:425
 msgid "Damn!"
-msgstr ""
+msgstr "Fenébe!"
 
 #. [event]
 #: The_Heist/scenarios/05_The_Collision.cfg:445
 msgid "I am wasting my time here. You fools can fight amongst yourselves."
-msgstr ""
+msgstr "Csak az időmet fecsérelem itt. Ti ostobák eldöntitek ezt magatoktól."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/05_The_Collision.cfg:469
 msgid "If you kill me, you'll never see Gerald's treasure."
-msgstr ""
+msgstr "Ha megölsz, soha nem fogod látni Gerald kincsét."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/05_The_Collision.cfg:470
 msgid "Where is it?"
-msgstr ""
+msgstr "Hol van?"
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/05_The_Collision.cfg:471
 msgid "I will show you the way."
-msgstr ""
+msgstr "Megmutatom az utat."
 
 #. [scenario]
 #: The_Heist/scenarios/06_The_Hideout.cfg:5
 msgid "The Hideout"
-msgstr ""
+msgstr "A rejtekhely"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/06_The_Hideout.cfg:101
 msgid "Kill all orcs"
-msgstr ""
+msgstr "Megölöd az összes orkot"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/06_The_Hideout.cfg:105
 #: The_Heist/scenarios/15_The_Breakout.cfg:45
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:98
 msgid "Death of"
-msgstr ""
+msgstr "Valamelyikük meghal:"
 
+# HU: sor elején a két szóköz egy felsorolás miatti behúzás érdekében van
 #. [objective]: condition=lose
 #: The_Heist/scenarios/06_The_Hideout.cfg:109
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:110
 msgid "  Ardella, Leana, Rogan,"
-msgstr ""
+msgstr "  Ardella, Leana, Rogan,"
 
+# HU: sor elején a két szóköz egy felsorolás miatti behúzás érdekében van
 #. [objective]: condition=lose
 #: The_Heist/scenarios/06_The_Hideout.cfg:113
 msgid "  a parent, or a child"
-msgstr ""
+msgstr "  egy szülő, vagy egy gyermek"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:138
 msgid "Bastian"
-msgstr ""
+msgstr "Bastian"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:139
 msgid "Irving"
-msgstr ""
+msgstr "Irving"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:140
 msgid "Reuben"
-msgstr ""
+msgstr "Reuben"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:157
 msgid "Ug"
-msgstr ""
+msgstr "Ug"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:160
 msgid "Ugakh"
-msgstr ""
+msgstr "Ugakh"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:161
 msgid "Khalag"
-msgstr ""
+msgstr "Khalag"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:164
 msgid "Erang"
-msgstr ""
+msgstr "Erang"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:165
 msgid "Bugdish"
-msgstr ""
+msgstr "Bugdish"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:166
 msgid "Eradash"
-msgstr ""
+msgstr "Eradash"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:167
 msgid "Vrigor"
-msgstr ""
+msgstr "Vrigor"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:168
 msgid "Gruol"
-msgstr ""
+msgstr "Gruol"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:169
 msgid "Gugdush"
-msgstr ""
+msgstr "Gugdush"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:170
 msgid "Gort"
-msgstr ""
+msgstr "Gort"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:171
 msgid "Grunk"
-msgstr ""
+msgstr "Grunk"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:172
 msgid "Rurag"
-msgstr ""
+msgstr "Rurag"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:173
 msgid "Poshnak"
-msgstr ""
+msgstr "Poshnak"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:177
 msgid "Goshnak"
-msgstr ""
+msgstr "Goshnak"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:178
 msgid "Rarbag"
-msgstr ""
+msgstr "Rarbag"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:201
 msgid "Dad"
-msgstr ""
+msgstr "Apa"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:202
 msgid "Mom"
-msgstr ""
+msgstr "Anya"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:208
@@ -945,6 +1002,8 @@ msgid ""
 "I can't believe my eyes. Princess Leana about to board a galleon with one of "
 "King Gerald's guards. This is just too good."
 msgstr ""
+"Nem hiszek a szemeimnek. Leana hercegnő éppen egy gálya fedélzetére száll "
+"Gerald király egyik őrével. Ez túl szép, hogy igaz legyen."
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:209
@@ -952,53 +1011,58 @@ msgid ""
 "Stay out of sight. This is enemy territory. If we are seen, King Gerald's "
 "men will come and slaughter us all."
 msgstr ""
+"Maradjatok látótávolságon kívül. Ez ellenséges terület. Ha meglátnak, Gerald "
+"király emberei lemészárolnak minket."
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:211
 msgid "All right, let's board this galleon."
-msgstr ""
+msgstr "Rendben, szálljunk fel erre a gályára."
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:213
 msgid "Help us! Help us!"
-msgstr ""
+msgstr "Segítség! Segítség!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:214
 msgid "Our mommy and daddy are in that cave! They were taken by orcs!"
-msgstr ""
+msgstr "Anyánk és apánk abban a barlangban van! Elragadták őket az orkok!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:215
 msgid "Please save them!"
-msgstr ""
+msgstr "Kérlek, mentsétek meg őket!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:217
 msgid "We have to help them."
-msgstr ""
+msgstr "Segítenünk kell nekik."
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:218
 msgid ""
 "Gerald's galleons will begin their patrol at sunrise. We must leave now!"
 msgstr ""
+"Gerald gályái napkeltekor kezdik az őrjáratukat. Most kell elhajóznunk!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:219
 msgid ""
 "Children, head south to King Gerald's castle! He will rescue your parents!"
 msgstr ""
+"Gyerekek, siessetek délre Gerald király kastélyába! Ő majd megmenti a "
+"szüleiteket!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:221
 msgid "But they said they were going to eat them!"
-msgstr ""
+msgstr "De azt mondták, hogy megeszik őket!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:222
 msgid "Don't let them eat my mommy and daddy!"
-msgstr ""
+msgstr "Ne hagyjátok, hogy megegyék anyukám és apukám!"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:223
@@ -1006,75 +1070,77 @@ msgid ""
 "Forget it! They won't help us! We don't need their help! Let's go men, we "
 "have orcs to kill!"
 msgstr ""
+"Felejtsd el! Nem fognak nekünk segíteni! Nincs szükségünk a segítségükre! "
+"Gyerünk emberek, orkokat kell ölnünk!"
 
 #. [event]
 #. [else]
 #: The_Heist/scenarios/06_The_Hideout.cfg:254
 #: The_Heist/scenarios/06_The_Hideout.cfg:425
 msgid "Zeke"
-msgstr ""
+msgstr "Zeke"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:261
 msgid "Thanks."
-msgstr ""
+msgstr "Köszönjük!"
 
 #. [event]
 #. [else]
 #: The_Heist/scenarios/06_The_Hideout.cfg:271
 #: The_Heist/scenarios/06_The_Hideout.cfg:417
 msgid "Anna"
-msgstr ""
+msgstr "Anna"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:278
 msgid "Where are my children?"
-msgstr ""
+msgstr "Hol vannak a gyermekeim?"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:279
 msgid "We're right here, mommy!"
-msgstr ""
+msgstr "Itt vagyunk, anya!"
 
 #. [scenario]
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:238
 #: The_Heist/scenarios/06_The_Hideout.cfg:339
 msgid "Mommy!"
-msgstr ""
+msgstr "Anya!"
 
 #. [scenario]
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:239
 #: The_Heist/scenarios/06_The_Hideout.cfg:350
 msgid "Daddy!"
-msgstr ""
+msgstr "Apa!"
 
 #. [then]
 #: The_Heist/scenarios/06_The_Hideout.cfg:367
 msgid "No! Not my baby!"
-msgstr ""
+msgstr "Ne! Ne a picinyem!"
 
 #. [then]
 #: The_Heist/scenarios/06_The_Hideout.cfg:375
 msgid "No! Not my son!"
-msgstr ""
+msgstr "Ne, ne a fiamat!"
 
 #. [else]
 #: The_Heist/scenarios/06_The_Hideout.cfg:378
 msgid "How could we let that poor child die?"
-msgstr ""
+msgstr "Hogy hagyhattuk meghalni azt a szegény gyereket?"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:395
 #: The_Heist/scenarios/07_The_Orc.cfg:36
 msgid "Kurtal"
-msgstr ""
+msgstr "Kurtal"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:396
 msgid "Heflin"
-msgstr ""
+msgstr "Heflin"
 
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:398
@@ -1082,33 +1148,37 @@ msgid ""
 "Heflin, go and tell King Gerald that we found the thieves. I will stay here "
 "to ensure that Princess Leana and Rogan do not escape."
 msgstr ""
+"Heflin, menj és mond meg Gerald királynak, hogy megtaláltuk a tolvajokat. Én "
+"itt maradok biztosítani, hogy Leana hercegnő és Rogan nem menekülnek el."
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/06_The_Hideout.cfg:432
 msgid "You have saved us from those evil creatures. How can we ever repay you?"
 msgstr ""
+"Megmentettél azoktól az ördögi teremtményektől. Hogyan fizethetném ezt "
+"vissza?"
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/06_The_Hideout.cfg:433
 msgid "Well, we do need a place to stay for the night."
-msgstr ""
+msgstr "Nos, szükségünk van egy helyre, ahol éjszakázhatunk."
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/06_The_Hideout.cfg:434
 msgid "You'll always be welcome here, your highness."
-msgstr ""
+msgstr "Mindig szívesen látunk itt, felséged!"
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #. [event]
 #: The_Heist/scenarios/06_The_Hideout.cfg:436
 #: The_Heist/scenarios/07_The_Orc.cfg:35
 msgid "Allak"
-msgstr ""
+msgstr "Allak"
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/06_The_Hideout.cfg:437
 msgid "Kalog"
-msgstr ""
+msgstr "Kalog"
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/06_The_Hideout.cfg:439
@@ -1116,16 +1186,18 @@ msgid ""
 "So, Princess Leana thinks she can get away with killing my orcs! We'll be "
 "back, princess. You will all suffer our wrath!"
 msgstr ""
+"Hát így, Leana hercegnő úgy gondolja, hogy megúszhatja orkjaim megölését! "
+"Még visszatérünk hercegnő. Mindannyian szenvedni fogtok haragunktól!"
 
 #. [scenario]
 #: The_Heist/scenarios/07_The_Orc.cfg:5
 msgid "The Orc"
-msgstr ""
+msgstr "Az ork"
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:47
 msgid "Why have you brought this hideous creature to my castle?"
-msgstr ""
+msgstr "Miért hoztad ezt a förtelmes lényt a kastélyomba?"
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:48
@@ -1134,11 +1206,14 @@ msgid ""
 "intended to slay them both, but this one said he had some information that "
 "would interest you."
 msgstr ""
+"Felségem, két orkot pillantottunk meg őrjáratunkkor a parton. Le akartuk "
+"vágni mindkettőt, de ez azt mondta olyan híre van, ami érdekelné felségedet "
+"is."
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:49
 msgid "What kind of information? Speak, orc!"
-msgstr ""
+msgstr "Milyen hír? Beszélj ork!"
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:50
@@ -1146,16 +1221,17 @@ msgid ""
 "If you promise to spare my life, I will tell you everything I know about "
 "your missing treasure."
 msgstr ""
+"Ha megígéred, hogy megkíméled életem, mindent elmondok az eltűnt kincsedről."
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:51
 msgid "We make no deals with orcs here! Where is my treasure? Answer me!"
-msgstr ""
+msgstr "Nem alkudozunk itt orkokkal! Hol van a kincsem? Válaszolj!"
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:52
 msgid "My liege, let us torture this orc. We will make him talk."
-msgstr ""
+msgstr "Felség, had kínozzuk meg ezt az orkot. Beszédre bírjuk."
 
 #. [event]
 #: The_Heist/scenarios/07_The_Orc.cfg:53
@@ -1163,36 +1239,38 @@ msgid ""
 "Torture me if you must, but you'd better make me talk soon. The thieves will "
 "not be at their present location much longer."
 msgstr ""
+"Kínozzatok meg, ha akartok, de jobban teszitek, ha gyorsan beszédre bírtok. "
+"A tolvajok nem sokáig lesznek a mostani helyükön."
 
 #. [scenario]
 #: The_Heist/scenarios/08_The_Family.cfg:5
 msgid "The Family"
-msgstr ""
+msgstr "A család"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/08_The_Family.cfg:49
 msgid "Survive until end of turns"
-msgstr ""
+msgstr "Kitartasz a körök végéig"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/08_The_Family.cfg:53
 msgid "Death of Anna, Zeke, or a child"
-msgstr ""
+msgstr "Anna, Zeke vagy egy gyermek meghal"
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:61
 msgid "Norbert"
-msgstr ""
+msgstr "Norbert"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:72
 msgid "Zeke! Anna! Wake up!"
-msgstr ""
+msgstr "Zeke, Anna! Keljetek fel!"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:86
 msgid "Who are you, stranger? And what brings you here at this early hour?"
-msgstr ""
+msgstr "Ki vagy, te idegen? És mi szél hozott ide ilyen korai órában?"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:87
@@ -1200,11 +1278,13 @@ msgid ""
 "Princess Leana? So, you're the one they're after. I don't know what you've "
 "done, but Gerald's men are headed this way."
 msgstr ""
+"Leana hercegnő? Tehát te vagy az, aki után kutatnak. Nem tudom mit tettél, "
+"de Gerald emberei ebbe az irányba tartanak."
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:107
 msgid "What's going on?"
-msgstr ""
+msgstr "Mi történik?"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:108
@@ -1212,11 +1292,13 @@ msgid ""
 "It seems your guests have put you and your family in jeopardy. The princess "
 "and her cohorts must leave before it's too late."
 msgstr ""
+"Úgy fest a vendégeid téged és családodat veszélybe sodortak. A hercegnőnek "
+"és kísérőinek menniük kell, mielőtt túl késő."
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:109
 msgid "Is there something you haven't told us, your highness?"
-msgstr ""
+msgstr "Van valami, amit nem mondott el nekünk, felség?"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:110
@@ -1224,6 +1306,8 @@ msgid ""
 "It's a long story and it seems we are short on time. If King Gerald's men "
 "arrive, you must tell them everything you know."
 msgstr ""
+"Ez egy hosszú történet, és úgy tűnik kevés az időnk. Ha Gerald király "
+"emberei megérkeznek, mindent, mit tudtok el kell nekik mondanotok."
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:111
@@ -1231,6 +1315,8 @@ msgid ""
 "Princess Leana, you cannot leave. You and your friends will follow us to the "
 "cave. Together, we can defeat King Gerald's army!"
 msgstr ""
+"Leana hercegnő, nem mehetsz el. Te és barátataid követni fogtok a "
+"barlanghoz. Együtt le tudjuk győzni Gerald király seregét!"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:112
@@ -1238,26 +1324,30 @@ msgid ""
 "Although I am certain you could single-handedly defeat Gerald's army, young "
 "Reuben, we really must be off. Goodbye and thanks for the hospitality."
 msgstr ""
+"Habár meg vagyok róla győződve, hogy fél kézzel is elbánnál Gerald király "
+"seregével, fiatal Reuben, tényleg indulnunk kell. A viszontlátásra és "
+"köszönjük a vendégszeretetet."
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:123
 msgid "Farewell!"
-msgstr ""
+msgstr "Ég veled!"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:124
 msgid "Bye!"
-msgstr ""
+msgstr "Szia!"
 
 #. [event]: (description=Leana) 10 35}, (description=Rogan) 11 36}, (description=Ardella) 11 37}, (description=Anna) side 1}, (description=Bastian) side 1}, (description=Reuben) side 1}, (description=Irving) side 1}, (description=Zeke) 19 27}
 #: The_Heist/scenarios/08_The_Family.cfg:146
 msgid "Anna, take the children to the cave. I will deal with Gerald's men."
 msgstr ""
+"Anna, vidd a gyerekeket a barlanghoz. Én majd foglalkozok Gerald embereivel."
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:222
 msgid "Farold"
-msgstr ""
+msgstr "Farold"
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:227
@@ -1265,6 +1355,8 @@ msgid ""
 "Princess Leana and Rogan, we know you're here! King Gerald requests that you "
 "accompany us back to his castle! He'd like to have a few words with you!"
 msgstr ""
+"Leana hercegnő, és Rogan, tudjuk hogy itt vagytok! Gerald király követeli, "
+"hogy kövessetek minket vissza a kastélyába! Váltana veletek néhány szót!"
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:228
@@ -1272,16 +1364,18 @@ msgid ""
 "Perhaps you've mistaken my home for King Theomund's castle. That is where "
 "you'll likely find the princess."
 msgstr ""
+"Talán összetévesztetted otthonom Theomund király kastélyával. Ott biztosan "
+"megtalálnád a hercegnőt."
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:229
 msgid "Perhaps I should slit the throats of your children!"
-msgstr ""
+msgstr "Talán el kellene vágnom a gyerekeid torkát!"
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:230
 msgid "Zeke, just tell them!"
-msgstr ""
+msgstr "Zeke, csak mond el nekik!"
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:231
@@ -1289,26 +1383,28 @@ msgid ""
 "All right, they visited my home last night, but they left after we fell "
 "asleep. I am sorry, but I do not know which way they went."
 msgstr ""
+"Rendben, megtisztelték az otthonom tegnap este, de elmentek, miután "
+"elaludtunk. Sajnálom, de nem tudom merre mentek."
 
 #. [event]
 #: The_Heist/scenarios/08_The_Family.cfg:232
 msgid "I too am sorry. Kill them all!"
-msgstr ""
+msgstr "Én is sajnálom. Öljétek meg mind!"
 
 #. [scenario]
 #: The_Heist/scenarios/08_The_Family.cfg:240
 msgid "No! Not my little Bastian!"
-msgstr ""
+msgstr "Nem! Ne a kicsi Bastiant!"
 
 #. [scenario]
 #: The_Heist/scenarios/08_The_Family.cfg:241
 msgid "No! Not my little Reuben!"
-msgstr ""
+msgstr "Nem! Ne a kicsi Reubent!"
 
 #. [scenario]
 #: The_Heist/scenarios/08_The_Family.cfg:242
 msgid "No! Not my little Irving!"
-msgstr ""
+msgstr "Nem! Ne a kicsi Irvinget!"
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/08_The_Family.cfg:264
@@ -1316,6 +1412,7 @@ msgid ""
 "You malevolent scoundrels! These people had nothing to do with the theft of "
 "Gerald's treasure!"
 msgstr ""
+"Ti aljas gazfickók! Ezeknek az embereknek semmi közük Gerald kincséhez!"
 
 #. [event]: (description=Ardella) no}, (description=Leana) no}, (description=Rogan) no}, (description=Zeke) no}, (description=Anna) no}, (description=Bastian) no}, (description=Irving) no}, (description=Reuben) no}
 #: The_Heist/scenarios/08_The_Family.cfg:265
@@ -1323,112 +1420,117 @@ msgid ""
 "The treasure is in the galleon. Now, take us to King Gerald's castle. We "
 "surrender willingly. No more innocent blood shall be spilt today."
 msgstr ""
+"A kincs a gályában van. Most vigyetek minket Gerald király kastélyába. "
+"Megadjuk magunkat. Ne folyjon több ártatlan vér ma."
 
 #. [scenario]: (description=Talika) ({X0}) ({Y0})}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:5
 msgid "The Labyrinth"
-msgstr ""
+msgstr "A labirintus"
 
 #. [objectives]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:55
 msgid "Hint: Don't let Bill attack the cockatrice"
-msgstr ""
+msgstr "Tanács: ne hagyd, hogy Bill megtámadja a Sárkánykakast"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:57
 msgid "Move to the castle at the heart of the labyrinth"
-msgstr ""
+msgstr "Eljutsz a labirintus szívében lévő kastélyig"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:61
 msgid "One of Bill's units gets there first"
-msgstr ""
+msgstr "Bill valamelyik egysége ér oda előbb"
 
 #. [event]
 #. [event]: description=Bill}, description=Judas}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:84
 #: The_Heist/scenarios/11_The_Statues.cfg:1069
 msgid "Randalf"
-msgstr ""
+msgstr "Randalf"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #. [event]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:117
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:96
 msgid "Talika"
-msgstr ""
+msgstr "Talika"
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:118
 msgid "We've travelled a long way, Zilead. You'd better not be deceiving me."
-msgstr ""
+msgstr "Nagy utat tettünk meg, Zilead. Jobban teszed, ha nem versz át."
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:119
 msgid "As I told you, the treasure lies at the heart of that labyrinth."
-msgstr ""
+msgstr "Ahogy mondtam neked, a kincs a labirintus szívében van."
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:120
 msgid "But you did not tell me how it got there."
-msgstr ""
+msgstr "De azt nem árultad el, hogy hogyan jutok oda."
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:121
 msgid "You'll just have to trust me, Bill."
-msgstr ""
+msgstr "Csak bíznod kell bennem, Bill."
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:125
 msgid "Ahh!"
-msgstr ""
+msgstr "Ahh!"
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:126
 msgid "Relax, she's harmless."
-msgstr ""
+msgstr "Nyugalom, ártalmatlan."
 
 #. [message]: description=Randalf
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:129
 msgid "Mysterious Voice"
-msgstr ""
+msgstr "Misztikus Hang"
 
+# HU: a mondat két felének rímelnie kell
 #. [message]: description=Randalf
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:132
 msgid ""
 "She will pave the way for those she knows, but block the path with her foes."
-msgstr ""
+msgstr "Kiket ismer, kikövezi az utat, de ellenségeinek megálljt mutat."
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:135
 msgid "Who said that?"
-msgstr ""
+msgstr "Ki mondta ezt?"
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:137
 msgid "I heard a voice in the distance!"
-msgstr ""
+msgstr "Egy hangot hallottam a távolban!"
 
 #. [event]: (description=Talika) 20 35}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:138
 msgid "It's just the rustling of the wind."
-msgstr ""
+msgstr "Csak a szél susogása."
 
 #. [then]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:321
 msgid ""
 "We are being hunted down! Zilead has betrayed us! Find him and kill him!"
-msgstr ""
+msgstr "Levadásznak minket! Zilead elárult! Találjátok meg és öljétek meg!"
 
 #. [event]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:376
 msgid "Why have you shown these lowlifes the way to my castle, Zilead?"
 msgstr ""
+"Miért mutattad meg az utat ezeknek a szerencsétleneknek a kastélyomhoz, "
+"Zilead?"
 
 #. [event]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:377
 msgid "I am sorry, Randalf."
-msgstr ""
+msgstr "Bocsánatot kell kérnem, Randalf."
 
 #. [event]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:378
@@ -1436,6 +1538,8 @@ msgid ""
 "You have failed me for the last time! Get off my land before I add you to my "
 "collection of statues!"
 msgstr ""
+"Utoljára hagytál cserben! Takarodj a földemről, mielőtt a "
+"szoborgyűjteményemben végzed!"
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:407
@@ -1443,6 +1547,8 @@ msgid ""
 "I am sorry Randalf, I have failed in my mission. I could not retrieve the "
 "stone of Kahandari from Gerald's castle. His treasure was..."
 msgstr ""
+"Sajnálom Randalf, elbuktam küldetésem során. Nem tudtam elhozni Kahandari "
+"kövét Gerald kastélyából. A kincsét már..."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:408
@@ -1450,11 +1556,13 @@ msgid ""
 "My birds have already told me what transpired at the castle. You are not to "
 "blame. Princess Leana was behind the heist."
 msgstr ""
+"A madaraim már csiripelték, hogy mi esett meg a kastélyban. Nem te vagy a "
+"felelős. Leana hercegnő állt a rablás mögött."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:409
 msgid "Princess Leana? Where is she? I will get your stone from her."
-msgstr ""
+msgstr "Leana hercegnő? Hol van most? Visszaszerzem a kövedet tőle."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:410
@@ -1463,6 +1571,9 @@ msgid ""
 "incompetent team of bandits were captured before they left Gerald's "
 "territory."
 msgstr ""
+"Sajnálom, már nem az ő birtokában van a kő. Leanát és az ő alkalmatlan "
+"bandita csapatát fogjul ejtették, mielőtt elhagyhatták volna Gerald "
+"felségterületét."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:411
@@ -1470,6 +1581,8 @@ msgid ""
 "I will find a way back inside the castle, Randalf. I will not disappoint you "
 "again."
 msgstr ""
+"Találni fogok egy utat vissza a kastély belsejébe, Randalf. Nem fogok "
+"csalódást okozni neked megint."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:412
@@ -1477,6 +1590,8 @@ msgid ""
 "How? King Gerald knows you betrayed him. If you are found, you will be "
 "arrested for treason."
 msgstr ""
+"Hogyan? Gerald király tudja, hogy elárultad őt. Ha megtalálnak, árulásért "
+"bilincsbe vernek."
 
 #. [event]: (description=Zilead) no}, (description=Bill) no}, (description=Judas) no}
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:413
@@ -1484,16 +1599,18 @@ msgid ""
 "I will persuade King Theomund to launch another siege. This time he will be "
 "victorious."
 msgstr ""
+"Meg fogom győzni Theomund királyt, hogy indítson egy másik ostromot. Ez "
+"alkalommal győzedelmes lesz."
 
 #. [event]
 #: The_Heist/scenarios/09_The_Labyrinth.cfg:423
 msgid "Talika, my castle is surrounded. Turn them all into stone!"
-msgstr ""
+msgstr "Talika, a kastélyomat bekerítették, változtasd mindegyiket kővé!"
 
 #. [scenario]
 #: The_Heist/scenarios/10_The_Persuasion.cfg:5
 msgid "The Persuasion"
-msgstr ""
+msgstr "A meggyőzés"
 
 #. [else]
 #. [event]: (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}
@@ -1502,32 +1619,32 @@ msgstr ""
 #: The_Heist/scenarios/12_The_Guillotine.cfg:305
 #: The_Heist/scenarios/10_The_Persuasion.cfg:39
 msgid "Queen Edina"
-msgstr ""
+msgstr "Edina királyné"
 
 #. [event]
 #. [event]: (description=Zilead) 14}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:80
 #: The_Heist/scenarios/10_The_Persuasion.cfg:40
 msgid "Horomir"
-msgstr ""
+msgstr "Horomir"
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #. [event]: (description=Zilead) 14}
 #: The_Heist/scenarios/13_The_Informant.cfg:65
 #: The_Heist/scenarios/10_The_Persuasion.cfg:41
 msgid "Hadwin"
-msgstr ""
+msgstr "Hadwin"
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:55
 msgid ""
 "My liege, this gentleman says he has some information about your daughter."
-msgstr ""
+msgstr "Felség, ez az úr azt állítja hírrel tud szolgálni lányod felől."
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:56
 msgid "Leana? What about her?"
-msgstr ""
+msgstr "Leana? Mi történt vele?"
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:57
@@ -1535,12 +1652,14 @@ msgid ""
 "King Theomund, I regret to inform you that Princess Leana has been captured "
 "by King Gerald."
 msgstr ""
+"Theomund király, sajnálattal tudatom veled, hogy Leana hercegnőt elfogta "
+"Gerald király."
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:58
 msgid ""
 "Nonsense. My daughter left Wesnoth last night with one of Gerald's guards."
-msgstr ""
+msgstr "Badarság. Lányom múlt éjjel elhagyta Wesnothot Gerald egyik őrével."
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:59
@@ -1548,6 +1667,8 @@ msgid ""
 "That is right. She confided everything to me before she left. I'm afraid "
 "you've been misinformed, stranger."
 msgstr ""
+"Így van. Mindennel megbízott engem, mielőtt távozott. Sajnálom, hogy "
+"félrevezettek, idegen."
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:60
@@ -1555,6 +1676,8 @@ msgid ""
 "He is no stranger. Tell me, why does Gerald want me to launch another attack "
 "on his castle?"
 msgstr ""
+"Ő nem idegen. Mond, miért akarja Gerald, hogy újabb támadást indítsak "
+"kastélya ellen?"
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:62
@@ -1562,6 +1685,8 @@ msgid ""
 "I remember you from the battlefield. You're one of Gerald's men. Obviously, "
 "you were sent here to try to lure me into a trap."
 msgstr ""
+"Emlékszem rád a csatatérről. Gerald egyik embere vagy. Bizonyára azért "
+"küldtek ide, hogy csapdába csalogass."
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:63
@@ -1569,50 +1694,55 @@ msgid ""
 "Wait... Let me explain. Princess Leana tried to leave Wesnoth with Gerald's "
 "treasure..."
 msgstr ""
+"Várj... Had magyarázzam meg. Leana hercegnő Gerald kincsével próbálta meg "
+"elhagyni Wesnotht..."
 
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:64
 msgid "Did you just call my daughter a thief? How dare you!"
-msgstr ""
+msgstr "Csak nem tolvajnak nevezted a lányomat? Hogy merészeled!"
 
+# HU: a guillotine szót a francia forradalom idején használták, megfelelőbbnek tartom a nyaktilót. Hóhérra nem lehet lecserélni a szót, mert a játékban megjelenik a nyaktiló képe
 #. [event]: (description=Zilead) no}
 #: The_Heist/scenarios/10_The_Persuasion.cfg:65
 msgid ""
 "Gerald was a fool to send you here! Hadwin, take this piece of filth to the "
 "dungeon! He has an appointment with the guillotine at dawn!"
 msgstr ""
+"Gerald ostoba volt, hogy ide küldött! Hadwin, vidd ezt az erkölcstelent a "
+"tömlöcbe! Találkája van hajnalban a nyaktilóval!"
 
 #. [scenario]
 #: The_Heist/scenarios/11_The_Statues.cfg:5
 msgid "The Statues"
-msgstr ""
+msgstr "A szobrok"
 
 #. [then]
 #. [else]
 #: The_Heist/scenarios/11_The_Statues.cfg:582
 #: The_Heist/scenarios/11_The_Statues.cfg:586
 msgid "Rodollio Fortossia!"
-msgstr ""
+msgstr "Rodollio Fortossia!"
 
 #. [scenario]
 #: The_Heist/scenarios/11_The_Statues.cfg:668
 msgid "Platu! Verata! Bichtu!"
-msgstr ""
+msgstr "Platu! Verata! Bichtu!"
 
 #. [scenario]
 #: The_Heist/scenarios/11_The_Statues.cfg:671
 msgid "Folgana! Padrona! Sempara!"
-msgstr ""
+msgstr "Folgana! Padrona! Sempara!"
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:791
 msgid "I cannot believe I lost!"
-msgstr ""
+msgstr "Nem hiszem el, hogy vesztettem!"
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:792
 msgid "Unstone the statues, Randalf."
-msgstr ""
+msgstr "Változtasd vissza a szobrokat, Randalf!"
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:794
@@ -1620,6 +1750,8 @@ msgid ""
 "You must all obey me now. Bring me the stone of Kahandari from King Gerald's "
 "dungeon. Kill all who stand in your way!"
 msgstr ""
+"Mindannyiótoknak engedelmeskednie kell most. Hozzátok el Kahandari kövét "
+"Gerald király börtönéből. Öljetek meg mindenkit, aki az utatokba áll!"
 
 #. [then]
 #. [event]: (description=Randalf) no}
@@ -1627,12 +1759,12 @@ msgstr ""
 #: The_Heist/scenarios/11_The_Statues.cfg:795
 #: The_Heist/scenarios/11_The_Statues.cfg:1228
 msgid "Yes, Master!"
-msgstr ""
+msgstr "Igen, mester!"
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:796
 msgid "What about Zilead?"
-msgstr ""
+msgstr "Mi lesz Zileaddal?"
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:797
@@ -1640,41 +1772,44 @@ msgid ""
 "Forget about your friend, Randalf. My army is not strong enough to defeat "
 "two kings. Zilead's fate is no longer in your hands."
 msgstr ""
+"Felejtsd el barátodat, Randalf. Seregem nem elég erős két király "
+"legyőzésére. Zilead sorsa már nincs a kezedben."
 
+# HU: a blackgammonra az ostábla szót beszéltük meg a fordítói műhelyben
 #. [objectives]
 #: The_Heist/scenarios/11_The_Statues.cfg:1053
 msgid "Play a game of backgammon"
-msgstr ""
+msgstr "Játssz egy ostábla játékot!"
 
 #. [objectives]
 #: The_Heist/scenarios/11_The_Statues.cfg:1054
 msgid "Press 'End Turn' to begin"
-msgstr ""
+msgstr "Kattints a 'Kör vége' gombra a kezdéshez"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/11_The_Statues.cfg:1056
 msgid "Beat Ursula"
-msgstr ""
+msgstr "legyőzöd Ursulát"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/11_The_Statues.cfg:1060
 msgid "Ursula wins"
-msgstr ""
+msgstr "Ursula nyer"
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1140
 msgid "Ursula"
-msgstr ""
+msgstr "Ursula"
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1144
 msgid "Welcome, Master."
-msgstr ""
+msgstr "Üdvözöllek, mester."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1145
 msgid "Why have you summoned me, Randalf?"
-msgstr ""
+msgstr "Miért idéztél meg, Randalf?"
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1146
@@ -1682,6 +1817,8 @@ msgid ""
 "A friend of mine has gotten himself into a most unfortunate predicament. I "
 "must rescue him, but I'm afraid I cannot do it alone."
 msgstr ""
+"Egyik barátom egy felettébb balszerencsés helyzetbe keveredett. Meg kell "
+"mentenem, de félek, nem leszek rá képes egyedül."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1147
@@ -1689,6 +1826,8 @@ msgid ""
 "Randalf, you know that my presence in Wesnoth must be kept secret. Besides, "
 "I will not help you save that fool you call a friend."
 msgstr ""
+"Randalf, tudod, hogy jelenlétemet Wesnothban titokban kell tartani. Emellett "
+"nem fogok segíteni megmenteni azt az ostobát, akit a barátodnak hívsz."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1148
@@ -1696,6 +1835,8 @@ msgid ""
 "All I ask is that you put a spell on my statues. They will not obey me "
 "otherwise."
 msgstr ""
+"Minden amit kérek, csak annyi, hogy vess bűbájt a szobraimra. Másként nem "
+"fognak engedelmeskedni nekem."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1149
@@ -1703,6 +1844,8 @@ msgid ""
 "Let me see if I understand. You wish to lead an army composed of men, elves, "
 "dwarves, and orcs to rescue a useless mortal?"
 msgstr ""
+"Nézzük, hogy jól értem-e. Vezetni kívánsz egy emberekből, tündékből, "
+"törpökből, és orkokból álló sereget, hogy megments egy haszontalan halandót?"
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1150
@@ -1710,21 +1853,23 @@ msgid ""
 "And after he is rescued, I shall lead that army to King Gerald's castle to "
 "retrieve the stone of Kahandari from his dungeon."
 msgstr ""
+"És megmentése után ezt a sereget Gerald király kastélyához vezetem, hogy "
+"visszaszerezzem Kahandari kövét a börtönből."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1151
 msgid "The stone of Kahandari? Are you certain it is in Gerald's possession?"
-msgstr ""
+msgstr "Kahandari köve? Biztos vagy benne, hogy Gerald birtokában van?"
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1152
 msgid "Positive."
-msgstr ""
+msgstr "Biztos."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1153
 msgid "Fine, I will put a spell on your statues if you bring me the stone."
-msgstr ""
+msgstr "Rendben, bűbájt vetek a szobrokra, ha elhozod nekem a követ."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1154
@@ -1732,28 +1877,33 @@ msgid ""
 "That's not quite what I had in mind. I have been searching for that stone "
 "for over fifty years. I cannot just hand it over to you."
 msgstr ""
+"Nem egészen erre gondoltam. Már több, mint ötven éve kutatom ezt a követ. "
+"Nem adhatom csak egyszerűen át neked."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1155
 msgid "What do you have in mind, Randalf?"
-msgstr ""
+msgstr "Mi motoszkál a fejedben, Randalf?"
 
+# HU: ifranjiah = a backgammon arab neve, egyszerűség kedvéért az ostáblát használtam
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1156
 msgid ""
 "You will put a spell on my statues. But first, we will play a quick game of "
 "Ifranjiah to determine the stone's new possessor."
 msgstr ""
+"Bűbájt vetsz a szobraimra. De előtte, egy gyors ostáblát játszunk, hogy "
+"eldöntsük ki lesz a kő új tulajdonosa."
 
 #. [event]: (description=Ursula) 6 8}, (description=Ursula) 6 16}, (description=Ursula) facing se}
 #: The_Heist/scenarios/11_The_Statues.cfg:1157
 msgid "Fine."
-msgstr ""
+msgstr "Rendben."
 
 #. [then]
 #: The_Heist/scenarios/11_The_Statues.cfg:1201
 msgid "It is still your turn, Randalf."
-msgstr ""
+msgstr "Még mindig te jössz, Randalf."
 
 #. [event]
 #: The_Heist/scenarios/11_The_Statues.cfg:1214
@@ -1761,6 +1911,8 @@ msgid ""
 "This game has taken longer than anticipated. I will be unable to reach "
 "Theomund's castle in time. Zilead will be executed."
 msgstr ""
+"Ez a játék sokkal több időt vett el, mint vártam. Képtelen leszek elérni "
+"Theomund kastélyát időben. Zileadot ki fogják végezni."
 
 #. [event]: (description=Randalf) no}
 #: The_Heist/scenarios/11_The_Statues.cfg:1224
@@ -1770,56 +1922,60 @@ msgid ""
 "defeat two kings. The stone is of far more significance than that friend of "
 "yours."
 msgstr ""
+"Jól játszottál, Randalf. Bűbájt vetek szobraidra, de esedezve kérlek gondold "
+"át a megmentő küldeséd. Új sereged nem elég erős két király legyőzéséhez. A "
+"kő sokkal fontosabb, mint a barátod."
 
 #. [event]: (description=Randalf) no}
 #: The_Heist/scenarios/11_The_Statues.cfg:1225
 msgid "Do not worry, Master. I will retrieve the stone."
-msgstr ""
+msgstr "Ne aggódj, mester. Vissza fogom szerezni a követ."
 
 #. [event]: (description=Randalf) no}
 #: The_Heist/scenarios/11_The_Statues.cfg:1227
 msgid "You must all obey me now."
-msgstr ""
+msgstr "Engedelmeskednetek kell nekem!"
 
+# HU: a guillotine szót a francia forradalom idején alkalmazták, ezért jobb, ha kerüljük használatát
 #. [scenario]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:5
 msgid "The Guillotine"
-msgstr ""
+msgstr "A lefejezés"
 
 #. [objectives]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:61
 msgid "Hint: try not to kill too many of Theomund's men"
-msgstr ""
+msgstr "Tanács: próbálj meg Theomund embereiből keveset ölni"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/12_The_Guillotine.cfg:63
 msgid "Free Zilead and survive until end of turns"
-msgstr ""
+msgstr "Kiszabadítod Zileadot, és kitartasz a körök végéig"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/12_The_Guillotine.cfg:67
 msgid "Or, stone/kill all of Theomund's men"
-msgstr ""
+msgstr "Vagy, kővé változtatod illetve megölöd Theomund összes emberét"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/12_The_Guillotine.cfg:71
 msgid "Death of Horomir"
-msgstr ""
+msgstr "Horomir meghal"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/12_The_Guillotine.cfg:75
 msgid "Death of a Randalf, Zilead or Bill"
-msgstr ""
+msgstr "Randalf, Zilead vagy Bill meghal"
 
 #. [event]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:82
 msgid "Peregorn"
-msgstr ""
+msgstr "Peregorn"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:87
 msgid "Arion"
-msgstr ""
+msgstr "Arion"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:90
@@ -1828,11 +1984,14 @@ msgid ""
 "an army of orcs, dwarves, elves, and men. Our entire battalion has been "
 "slaughtered!"
 msgstr ""
+"Horomir, beszélnem kell apáddal, de rögtön! Az őrhelyemet lerohanta egy "
+"orkokból, törpökből, tündékből és emberekből álló sereg! Egész "
+"zászlóaljunkat lemészárolták!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:91
 msgid "Surely you jest! Such an army could not possibly exist!"
-msgstr ""
+msgstr "Csak tréfálsz! Egy ilyen sereg nem létezhet!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:92
@@ -1840,16 +1999,18 @@ msgid ""
 "Listen, we do not have much time. The army will be here shortly. Where is "
 "King Theomund?"
 msgstr ""
+"Hallgass ide, nincs sok időnk. A sereg nyomban itt lesz. Hol van Theomund "
+"király?"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:93
 msgid "He and my mother are still at the other castle. They will..."
-msgstr ""
+msgstr "Ő és anyám még mindig a másik kastélyban van. Ők..."
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:94
 msgid "Horomir, the army is coming to rescue Zilead. You must release him!"
-msgstr ""
+msgstr "Horomir, a sereg Zilead kiszabadítására jött. El kell őt engedned!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:95
@@ -1857,86 +2018,88 @@ msgid ""
 "Zilead will be executed when my parents arrive. Peregorn, create a perimeter "
 "around the prisoner!"
 msgstr ""
+"Zileadot kivégezzük, mihelyst szüleim hazaérnek. Peregorn, alkoss gyűrűt a "
+"fogoly körül!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:96
 msgid "Yes sir!"
-msgstr ""
+msgstr "Igenis uram!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:97
 msgid "You're making a mistake, Horomir. We cannot defeat the wizard's army."
-msgstr ""
+msgstr "Hibát követsz el, Horomir. Nem tudjuk legyőzni a varázsló seregét."
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:98
 msgid "Wizard?"
-msgstr ""
+msgstr "Varázsló?"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:114
 msgid "Release Zilead at once!"
-msgstr ""
+msgstr "Azonnal engedd el Zileadot!"
 
 #. [event]: (description=Arion) 27 14}, (description=Peregorn) 11 16}, (description=Talika) 42 6}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:115
 msgid "Prepare for battle!"
-msgstr ""
+msgstr "Készülj a harcra!"
 
 #. [scenario]
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:251
 #: The_Heist/scenarios/13_The_Informant.cfg:108
 msgid "Randalf!"
-msgstr ""
+msgstr "Randalf!"
 
 #. [scenario]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:253
 msgid "It was unwise to kill the son of Theomund."
-msgstr ""
+msgstr "Nem volt bölcs dolog megölni Theomund fiát."
 
 #. [else]
 #. [event]: (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:273
 #: The_Heist/scenarios/12_The_Guillotine.cfg:307
 msgid "What is going on here?"
-msgstr ""
+msgstr "Mi folyik itt?"
 
 #. [else]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:274
 msgid "Execute the prisoner at once!"
-msgstr ""
+msgstr "Gyorsan öljétek meg a foglyot!"
 
 #. [else]
 #: The_Heist/scenarios/12_The_Guillotine.cfg:275
 msgid "Wait!"
-msgstr ""
+msgstr "Várj!"
 
 #. [event]: (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}
 #: The_Heist/scenarios/12_The_Guillotine.cfg:308
 msgid "Randalf? I thought you were dead."
-msgstr ""
+msgstr "Randalf? Azt hittem meghaltál."
 
 #. [scenario]
 #: The_Heist/scenarios/13_The_Informant.cfg:5
 msgid "The Informant"
-msgstr ""
+msgstr "A hírnök"
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:84
 #: The_Heist/scenarios/13_The_Informant.cfg:35
 msgid "Elgareth"
-msgstr ""
+msgstr "Elgareth"
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:59
 msgid "Princess Leana, I'd like to introduce you to a dear friend of mine."
-msgstr ""
+msgstr "Leana hercegnő, szeretnélek bemutatni egy kedves barátomnak."
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:60
 msgid "What are you up to, Gerald? Why is Elgareth here?"
-msgstr ""
+msgstr "Mire készülsz Gerald? Miért van Elgareth itt?"
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:61
@@ -1944,11 +2107,13 @@ msgid ""
 "I am here to ensure that you and the princess live the rest of your short "
 "lives in agonizing pain."
 msgstr ""
+"Azért vagyok itt, hogy biztosítsam neked és a hercegnőnek rövid életetek "
+"hátralevő részét gyötrelmes fájdalmak közötti eltöltését."
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:104
 msgid "What brings you here, Hadwin?"
-msgstr ""
+msgstr "Mi szél hozott ide, Hadwin?"
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:105
@@ -1956,11 +2121,13 @@ msgid ""
 "I've some bad news. King Theomund is going to attempt another siege on your "
 "castle."
 msgstr ""
+"Rossz híreim vannak. Theomund király egy újabb ostromot fog megkísérelni "
+"kastélyod ellen."
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:106
 msgid "When?"
-msgstr ""
+msgstr "Mikor?"
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:107
@@ -1968,11 +2135,12 @@ msgid ""
 "Tonight... There's more, sir. A dark wizard has aligned himself with "
 "Theomund."
 msgstr ""
+"Ma este... Van más is, uram. Egy sötét varázsló szövetkezett Theomunddal."
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:109
 msgid "Right."
-msgstr ""
+msgstr "Így van."
 
 #. [event]: (description=Elgareth) 4 3}, (description=Rogan) yes}, (description=Leana) yes}, (description=Hadwin) 4 7}
 #: The_Heist/scenarios/13_The_Informant.cfg:110
@@ -1981,11 +2149,14 @@ msgid ""
 "your twenty most loyal soldiers and take the rest of your men to the north "
 "castle. I will deal with the wizard."
 msgstr ""
+"Ostobaság volt tőlem, hogy a te birtokodban hagytam a követ, Gerald. Hozd el "
+"hozzám húsz leghűségesebb katonád, a többit vidd el az északi kastélyba. "
+"Majd én foglalkozom a varázslóval."
 
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:5
 msgid "The Siege Part I"
-msgstr ""
+msgstr "Az ostrom, I. rész"
 
 #. [objectives]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:51
@@ -1995,47 +2166,53 @@ msgid ""
 "   (2) It can only be pushed onto flat terrain \n"
 "       or into deep water"
 msgstr ""
+"Hogy egy sziklát előre lökj, támadd meg.\n"
+"  (1) Két vagy több egységnek kell lennie a szikla körül\n"
+"  (2) Csak sima területre vagy mélyvízbe lehet lökni"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:53
 msgid "Push a rock into each moat and kill Elgareth"
-msgstr ""
+msgstr "Mindegyik vízárokba egy sziklát löksz, és megölöd Elgarethet"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:61
 msgid "Death of a leader"
-msgstr ""
+msgstr "Bármelyik vezéred meghal"
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:96
 msgid "Welcome, Randalf. I've been expecting you."
-msgstr ""
+msgstr "Üdvözöllek Randalf! Már vártalak."
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:97
 msgid "Elgareth! He must have the stone. He will use its power against us!"
-msgstr ""
+msgstr "Elgareth! Nála kell lennie a kőnek. Ellenünk fogja használni erejét!"
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:98
 msgid ""
 "You and I can withstand the stone's power. Together, we can defeat Elgareth."
 msgstr ""
+"Te és én ellent tudunk állni a kő erejének. Együtt le tudjuk győzni "
+"Elgarethet."
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:99
 msgid "Agreed. But we must do so before Gerald's army returns."
 msgstr ""
+"Egyetértek. De ezt még Gerald seregének visszatérte előtt meg kell tennünk."
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:100
 msgid "Zilead, do you know your way around Gerald's castle?"
-msgstr ""
+msgstr "Zilead, kiismered magad Gerald kastélyában?"
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:101
 msgid "I do."
-msgstr ""
+msgstr "Igen."
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:102
@@ -2043,16 +2220,18 @@ msgid ""
 "Then you must rescue my daughter while we prepare our battle against "
 "Gerald's army."
 msgstr ""
+"Akkor neked kell megmentened lányomat, amíg felkészülünk az ütközetre Gerald "
+"serege ellen."
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:103
 msgid "I will do as you command, your majesty."
-msgstr ""
+msgstr "Úgy teszek, ahogy parancsolod, felség."
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:104
 msgid "All right, men! We have two castles to conquer! Move out!"
-msgstr ""
+msgstr "Rendben, emberek! Két kastély vár ránk, hogy elfoglaljuk! Gyerünk!"
 
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:448
@@ -2061,76 +2240,78 @@ msgid ""
 "My heart tells me that Bill had some part to play yet, for good or ill. He "
 "should not have died here today."
 msgstr ""
+"Úgy érzem Billnek még lett volna valami szerepe, akár jó, akár gonosz. Nem "
+"szabadott volna meghalnia ma."
 
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:450
 msgid "We cannot rescue Leana without Randalf's help."
-msgstr ""
+msgstr "Nem tudjuk kiszabadítani Randalfot Leana segítsége nélkül."
 
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:451
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:762
 msgid "Queen Edina has been slain!"
-msgstr ""
+msgstr "Edina királynőt megölték!"
 
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:452
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:763
 msgid "Theomund!"
-msgstr ""
+msgstr "Theomund!"
 
 #. [scenario]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:453
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:764
 msgid "Horomir!"
-msgstr ""
+msgstr "Horomir!"
 
 #. [event]: description=Randalf no}
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:473
 msgid "The power of Kahandari is finally mine!"
-msgstr ""
+msgstr "Kahandari hatalma végre az enyém!"
 
 #. [event]
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:501
 msgid "Gerald's army is approaching! We are vastly outnumbered! Retreat!"
-msgstr ""
+msgstr "Gerald serege közeleg! Mérhetetlen túlerőbe kerültünk! Visszavonulás!"
 
 #. [event]: (description=Zilead) no}, (description=Zilead) no}
 #. [event]: (description=Zilead) 20 15}
 #: The_Heist/scenarios/14_The_Siege_Part_I.cfg:506
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:159
 msgid "Hurry, Zilead!"
-msgstr ""
+msgstr "Siess, Zilead!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:5
 msgid "The Breakout"
-msgstr ""
+msgstr "A kitörés"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/15_The_Breakout.cfg:41
 msgid "Rescue all prisoners"
-msgstr ""
+msgstr "Kiszabadítasz minden foglyot"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/15_The_Breakout.cfg:49
 msgid "  Zilead, Ardella, Anna,"
-msgstr ""
+msgstr "  Zilead, Ardella, Anna,"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/15_The_Breakout.cfg:53
 msgid "  Zeke, or a child"
-msgstr ""
+msgstr "  Zeke, vagy egy gyermek"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:127
 msgid "Who are you?"
-msgstr ""
+msgstr "Ki vagy te?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:128
 msgid "My name is Zilead. I am here to rescue Princess Leana."
-msgstr ""
+msgstr "A nevem Zilead. Azért jöttem, hogy kiszabadítsam Leana hercegnőt."
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:129
@@ -2138,16 +2319,17 @@ msgid ""
 "Thank goodness! I'm Ardella. Leana is a friend of mine. I'll help you find "
 "her."
 msgstr ""
+"Hála az égnek! Ardella vagyok. Leana a barátom. Segítek neked megtalálni."
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:140
 msgid "You're Gerald's men! What are you doing in here?"
-msgstr ""
+msgstr "Ti Gerald emberei vagytok! Mit csináltok itt bent?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:141
 msgid "We fell asleep while on guard duty..."
-msgstr ""
+msgstr "Elaludtunk őrjárat közben..."
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:144
@@ -2155,31 +2337,33 @@ msgid ""
 "King Theomund has taken over this castle. Will you help us free the other "
 "prisoners?"
 msgstr ""
+"Theomund király elfoglalta a kastélyt. Segítetek nekünk kiszabadítani a "
+"foglyokat?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:145
 msgid "Gladly!"
-msgstr ""
+msgstr "Örömmel!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:165
 msgid "We're breaking out."
-msgstr ""
+msgstr "Kitörünk."
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:166
 msgid "Please tell me, have you seen our three boys?"
-msgstr ""
+msgstr "Kérlek, áruld el, nem láttad a három fiúnkat?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:169
 msgid "No, I am sorry."
-msgstr ""
+msgstr "Nem, sajnálom."
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:170
 msgid "Come on, Zeke! We must find them!"
-msgstr ""
+msgstr "Gyerünk Zeke! Meg kell találnunk őket!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:183
@@ -2187,88 +2371,90 @@ msgid ""
 "Thank goodness you've arrived! Please, slay me now! Sharing a cell with "
 "these brats has been the worst torture I've ever experienced!"
 msgstr ""
+"Hála az égnek, hogy megérkeztetek! Kérlek, öljetek meg most! Megosztani a "
+"cellát ezekkel a porontyokkal a legrosszabb kínzás, amit valaha megéltem!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:184
 msgid "Quiet, foul orc, or you will suffer the same fate as your friends!"
-msgstr ""
+msgstr "Csöndet, ostoba ork, vagy te is barátaid sorsára jutsz!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:185
 msgid "Are you all right, children?"
-msgstr ""
+msgstr "Jól vagytok, gyerekek?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:186
 msgid "We're fine, mother!"
-msgstr ""
+msgstr "Jól vagyunk, anya!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:187
 msgid "Just a little nauseous from this foul smelling orc!"
-msgstr ""
+msgstr "Csak egy kicsit émelygünk ettől a rothadt szagú orktól!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:202
 msgid "Princess Leana!"
-msgstr ""
+msgstr "Leana hercegnő!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:229
 msgid "No guards? That's odd..."
-msgstr ""
+msgstr "Nincsenek őrök? Ez furcsa..."
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:252
 msgid "Turdon"
-msgstr ""
+msgstr "Turdon"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:253
 msgid "Belanor"
-msgstr ""
+msgstr "Belanor"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:254
 msgid "Forlin"
-msgstr ""
+msgstr "Forlin"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:255
 msgid "Hamrod"
-msgstr ""
+msgstr "Hamrod"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:256
 msgid "Borondir"
-msgstr ""
+msgstr "Borondir"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:257
 msgid "Hagas"
-msgstr ""
+msgstr "Hagas"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:258
 msgid "Agrahil"
-msgstr ""
+msgstr "Agrahil"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:261
 msgid "What in tarnation?"
-msgstr ""
+msgstr "Mi a fene?"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:266
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:766
 msgid "Anna!"
-msgstr ""
+msgstr "Anna!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:267
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:767
 msgid "Zeke!"
-msgstr ""
+msgstr "Zeke!"
 
 #. [scenario]
 #: The_Heist/scenarios/15_The_Breakout.cfg:268
@@ -2278,106 +2464,113 @@ msgstr ""
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:769
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:770
 msgid "My baby!"
-msgstr ""
+msgstr "Kicsim!"
 
 #. [event]
 #: The_Heist/scenarios/15_The_Breakout.cfg:278
 msgid ""
 "Fools! The wizard is dead and the castle is surrounded. Now, drop your arms!"
 msgstr ""
+"Ostobák! A varázsló halott, és a kastélyt bekerítettük. Gyerünk, dobjátok el "
+"a fegyvert!"
 
 #. [scenario]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:5
 msgid "The Siege Part II"
-msgstr ""
+msgstr "Az ostrom, II. rész"
 
 #. [objective]: condition=win
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:90
 msgid "Kill all enemies"
-msgstr ""
+msgstr "Megölsz minden elleséget"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:102
 msgid "  Randalf, Zilead, Bill,"
-msgstr ""
+msgstr "  Randalf, Zilead, Bill,"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:106
 msgid "  Theomund, Edina, Horomir,"
-msgstr ""
+msgstr "  Theomund, Edina, Horomir,"
 
 #. [objective]: condition=lose
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:114
 msgid "  Anna, Zeke, or a child"
-msgstr ""
+msgstr "  Anna, Zeke, vagy egy gyermek"
 
 #. [event]: (description=Zilead) 20 15}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:192
 msgid "Gerald's army approaches from the north!"
-msgstr ""
+msgstr "Gerald serege északról érkezik!"
 
 #. [event]: (description=Zilead) 20 15}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:193
 msgid "We must draw them away from Gerald's castle."
-msgstr ""
+msgstr "El kell csalogatnunk őket Gerald kastélyától."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:267
 msgid "Bertha"
-msgstr ""
+msgstr "Bertha"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:268
 msgid "Honey, come quick!"
-msgstr ""
+msgstr "Drágám, gyere gyorsan!"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:277
 msgid "What is it?"
-msgstr ""
+msgstr "Mi az?"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:278
 msgid "Gerald and Theomund are at war!"
-msgstr ""
+msgstr "Gerald és Theomund harcolnak!"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:295
 msgid ""
 "That's nice. Why don't you come back inside? I could use another back rub."
 msgstr ""
+"Ez szép. Miért nem jössz vissza ide be? Szükségem lenne egy még egy "
+"hátmasszázsra."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:296
 msgid "Come on out, ladies!"
-msgstr ""
+msgstr "Gyerünk asszonyok!"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:298
 msgid ""
 "Last night, Gerald's men murdered our husbands. Tonight, vengeance is ours!"
 msgstr ""
+"Múlt éjjel Gerald emberei megölték férjeinket. Ma éjjel a bosszú a miénk!"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:437
 msgid "Burton"
-msgstr ""
+msgstr "Burton"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:439
 msgid "Have no fear, brother! We will save you from the dark wizard!"
-msgstr ""
+msgstr "Ne aggódj fivérem! Megmentünk a sötét varázslótól!"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:440
 msgid ""
 "I do not wish to be saved, Burton. I must help my master defend the castle."
 msgstr ""
+"Nem akarok megmenekülni, Burton. Segítenem kell mesteremnek megvédeni a "
+"kastélyt."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:441
 msgid "Master?"
-msgstr ""
+msgstr "Mester?"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:442
@@ -2385,157 +2578,159 @@ msgid ""
 "Bill is under my spell. If you help us defeat Gerald's army, then I will "
 "release him to you."
 msgstr ""
+"Bill a bűbájom hatása alatt van. Ha segítesz legyőzni Gerald seregét, "
+"szabadon bocsátom neked."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:443
 msgid "You will release him now, wizard! Bill, we're coming to get you!"
-msgstr ""
+msgstr "Most fogod elengedni varázsló! Bill, jövünk érted!"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:444
 msgid "Have it your way... Go kill your brother, Bill."
-msgstr ""
+msgstr "Ahogy akarod... Menj, végezz fivéreddel, Bill."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:445
 msgid "Yes, Master."
-msgstr ""
+msgstr "Igenis, mester."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:451
 msgid "Ulgak"
-msgstr ""
+msgstr "Ulgak"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:453
 msgid "It looks like you could use some assistance, Randalf."
-msgstr ""
+msgstr "Úgy fest, elkel a segítség, Randalf."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:454
 msgid "Yes, it appears I've underestimated the strength of Gerald's army."
-msgstr ""
+msgstr "Igen, úgy néz ki alábecsültem Gerald seregének erejét."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:460
 msgid ""
 "There's only one stipulation. After the battle, you must give Master the "
 "stone."
-msgstr ""
+msgstr "Egy kikötésem van. A csata után, a követ mesteremnek kell adnod."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:461
 msgid "She cannot have it!"
-msgstr ""
+msgstr "Nem lehet az övé!"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:462
 msgid "Then will you accept a rematch?"
-msgstr ""
+msgstr "Akkor beleegyezel egy visszavágóba?"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:463
 msgid "That she can have."
-msgstr ""
+msgstr "Azt megkaphatja."
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:490
 msgid "Randalf, help us!"
-msgstr ""
+msgstr "Randalf, segíts nekünk!"
 
 #. [then]: description=Randalf no}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:506
 msgid "What happened? How did I get here?"
-msgstr ""
+msgstr "Mi történt? Hogy kerültem ide?"
 
 #. [then]: description=Randalf no}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:507
 msgid "You have just been freed from Elgareth's spell..."
-msgstr ""
+msgstr "Épp most szabadultál Elgareth bűbája alól..."
 
 #. [then]: description=Randalf no}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:510
 msgid "Yes... I remember now... Gerald has betrayed us!"
-msgstr ""
+msgstr "Igen... már emlékszem... Gerald elárult minket!"
 
 #. [then]: description=Randalf no}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:511
 msgid ""
 "We have taken over Gerald's castle. Will you help us defend it against his "
 "army?"
-msgstr ""
+msgstr "Elfoglaltuk Gerald kastélyát. Segítesz nekünk megvédeni a seregétől?"
 
 #. [then]: description=Randalf no}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:514
 msgid "With pleasure!"
-msgstr ""
+msgstr "Örömmel!"
 
 #. [event]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:523
 msgid "Everyone, to the castle!"
-msgstr ""
+msgstr "Mindenki a kastélyhoz!"
 
 #. [then]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:703
 msgid "Kill him!"
-msgstr ""
+msgstr "Öld meg!"
 
 #. [then]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:705
 msgid "Bill, no! I will not kill my brother!"
-msgstr ""
+msgstr "Bill, ne! Nem fogom megölni a bátyám!"
 
 #. [then]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:706
 msgid "Then you must fight by his side."
-msgstr ""
+msgstr "Akkor harcolnod kell az oldalán."
 
 #. [then]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:707
 msgid "I have your word that he will be released from your spell?"
-msgstr ""
+msgstr "Szavadat adod, hogy megszabadítod a varázslat alól?"
 
 #. [then]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:708
 msgid "You do."
-msgstr ""
+msgstr "A szavam a tiéd."
 
 #. [scenario]
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:761
 msgid "We cannot win this battle without Randalf's help."
-msgstr ""
+msgstr "Nem győzhetünk ebben a csatában Randalf segítsége nélkül."
 
 #. [event]: (description=Zilead)}, (description=Randalf) no}, (description=King Theomund) no}, (description=Queen Edina) no}, (description=Horomir) no}, (description=Leana)}, (description=Rogan)}, (description=Ardella)}
 #: The_Heist/scenarios/16_The_Siege_Part_II.cfg:795
 msgid "I surrender! I surrender! Theomund, I beg you to have mercy on me!"
-msgstr ""
+msgstr "Megadom magam! Megadom magam! Theomund, esedezek, könyörülj rajtam!"
 
 #. [scenario]
 #: The_Heist/scenarios/17_The_End.cfg:5
 msgid "The End"
-msgstr ""
+msgstr "Vége"
 
 #. [unit]: race=undead
 #: The_Heist/units/Bat_Mauler.cfg:4
 msgid "Bat Mauler"
-msgstr ""
+msgstr "Denevér Vasöklű"
 
 #. [unit]: race=undead
 #: The_Heist/units/Bat_Mauler.cfg:18
 msgid "These Iron Maulers can fly."
-msgstr ""
+msgstr "Ezek a Vasöklűek repülni tudnak."
 
 #. [attack]: type=impact
 #: The_Heist/units/Bat_Mauler.cfg:32 The_Heist/units/Warrior_King.cfg:29
 msgid "mace"
-msgstr ""
+msgstr "buzogány"
 
 #. [variation]: race=human
 #. [unit]: race=human
 #: The_Heist/units/Battle_Princess.cfg:5
 #: The_Heist/units/Battle_Princess.cfg:58
 msgid "female^Battle Princess"
-msgstr ""
+msgstr "Harcos Hercegnő"
 
 #. [variation]: race=human
 #. [unit]: race=human
@@ -2547,48 +2742,52 @@ msgid ""
 "great combatant and leader. Now battle-hardened and strong of will, she can "
 "now aid those around her in the art of combat."
 msgstr ""
+"Nemesként születve, a Hercegnő vívást a legnagyobb tábornokoktól és harci "
+"taktikát a legnagyobb bölcsektől tanult, ami nagyszerű harcossá és vezetővé "
+"teszi. Így harcedzetten és nagy akarterővel segíteni tud a körülötte "
+"lévőknek a küzdelem művészetében."
 
 #. [attack]: type=blade
 #: The_Heist/units/Battle_Princess.cfg:36
 #: The_Heist/units/Battle_Princess.cfg:88
 msgid "sabre"
-msgstr ""
+msgstr "szablya"
 
 #. [attack]: type=fire
 #: The_Heist/units/Battle_Princess.cfg:97
 msgid "scepter of fire"
-msgstr ""
+msgstr "tűz jogara"
 
 #. [unit]: race=human
 #: The_Heist/units/Beheading_Knight.cfg:4
 msgid "Grand Knight"
-msgstr ""
+msgstr "Nagy Lovag"
 
 #. [unit]: race=human
 #: The_Heist/units/Blonde_Kid.cfg:4
 msgid "Blonde Kid"
-msgstr ""
+msgstr "Szőke kölyök"
 
 #. [attack]: type=impact
 #: The_Heist/units/Brunette_Kid.cfg:34 The_Heist/units/Redheaded_Kid.cfg:33
 #: The_Heist/units/Blonde_Kid.cfg:36
 msgid "punch"
-msgstr ""
+msgstr "ütés"
 
 #. [unit]: race=human
 #: The_Heist/units/Brunette_Kid.cfg:4
 msgid "Brunette Kid"
-msgstr ""
+msgstr "Barna kölyök"
 
 #. [unit]
 #: The_Heist/units/Cell_Door.cfg:4
 msgid "Cell Door"
-msgstr ""
+msgstr "Cella ajtó"
 
 #. [unit]: race=monster
 #: The_Heist/units/Flying_Cockatrice.cfg:4 The_Heist/units/Cockatrice.cfg:4
 msgid "Cockatrice"
-msgstr ""
+msgstr "Sárkánykakas"
 
 #. [unit]: race=monster
 #: The_Heist/units/Flying_Cockatrice.cfg:18 The_Heist/units/Cockatrice.cfg:18
@@ -2597,26 +2796,29 @@ msgid ""
 "to turn the living to stone. Needless to say, this makes them extremely "
 "dangerous."
 msgstr ""
+"Néha 'baziliszkuszként' ismerik, erről a misztikus teremtményről azt "
+"tartják, hogy képes az élőket kővé változtatni. Szükségtelen megjegyezni, "
+"hogy ez különlegesen veszélyessé teszi őket."
 
 #. [attack]: type=cold
 #: The_Heist/units/Flying_Cockatrice.cfg:37 The_Heist/units/Cockatrice.cfg:22
 msgid "gaze"
-msgstr ""
+msgstr "szemmeresztés"
 
 #. [unit]
 #: The_Heist/units/Corridor_Door.cfg:4
 msgid "Corridor Door"
-msgstr ""
+msgstr "Folyosó ajtó"
 
 #. [unit]
 #: The_Heist/units/Crate.cfg:4
 msgid "Crate"
-msgstr ""
+msgstr "Láda"
 
 #. [unit]: race=human
 #: The_Heist/units/Dark_Queen.cfg:5
 msgid "female^Dark Queen"
-msgstr ""
+msgstr "Sötét királynő"
 
 #. [unit]: race=human
 #: The_Heist/units/Dark_Queen.cfg:20
@@ -2625,21 +2827,24 @@ msgid ""
 "knowledge of magic makes her a worthy foe in combat, although her power is "
 "mostly derived from those she commands."
 msgstr ""
+"A gonosz királynő Asheviere Wesnotht már évek óta terrorizálja. Mágikus "
+"tudása kemény ellenféllé teszi a harcban, habár erejét nagyrészt azokból "
+"nyeri, akiket irányít."
 
 #. [attack]: type=impact
 #: The_Heist/units/Dark_Queen.cfg:25
 msgid "scepter"
-msgstr ""
+msgstr "jogar"
 
 #. [attack]: type=cold
 #: The_Heist/units/Dark_Queen.cfg:34
 msgid "cold"
-msgstr ""
+msgstr "fagy"
 
 #. [unit]: race=human
 #: The_Heist/units/Elder_Mage.cfg:5
 msgid "Elder Mage"
-msgstr ""
+msgstr "Idős Mágus"
 
 #. [unit]: race=human
 #: The_Heist/units/Elder_Mage.cfg:24
@@ -2648,22 +2853,25 @@ msgid ""
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
 "on account of their powerful lightning bolts."
 msgstr ""
+"Valaha nagy mágusok voltak, azonban az idős mágusok ereje valamelyest "
+"megkopott az évekig tartó csaták során. Ennek ellenére félelmetesek maradtak "
+"a csatatéren hatalmas villámaiknak köszönhetően."
 
 #. [attack]: type=impact
 #: The_Heist/units/Outlaw_Queen2.cfg:53 The_Heist/units/Elder_Mage.cfg:28
 #: The_Heist/units/Outlaw_Queen.cfg:96
 msgid "staff"
-msgstr ""
+msgstr "pálca"
 
 #. [attack]: type=fire
 #: The_Heist/units/Elder_Mage.cfg:37
 msgid "lightning"
-msgstr ""
+msgstr "villámcsapás"
 
 #. [unit]: race=human
 #: The_Heist/units/Female_Peasant.cfg:4
 msgid "Female Peasant"
-msgstr ""
+msgstr "Parasztasszony"
 
 #. [unit]: race=human
 #: The_Heist/units/Female_Peasant.cfg:20
@@ -2673,31 +2881,35 @@ msgid ""
 "homes. However, if you're hurling peasants at your foes, you're clearly out "
 "of superior forces."
 msgstr ""
+"A parasztok a társadalom gerincét alkotják, és a katonák utolsó tartalékait. "
+"Habár nem félelmetes harcosok természetüknél fogva, makacsul fogják "
+"otthonaikat védeni. Akárhogyis, ha parasztokat küldesz ellenségedre, már "
+"biztos kifogytál a jobb egységeidből."
 
 #. [attack]: type=pierce
 #: The_Heist/units/Female_Peasant.cfg:26 The_Heist/units/Female_Peasant.cfg:35
 msgid "pitchfork"
-msgstr ""
+msgstr "vasvilla"
 
 #. [unit]: race=human
 #: The_Heist/units/Hurt_King_Knight.cfg:4
 msgid "Knight"
-msgstr ""
+msgstr "Lovag"
 
 #. [unit]
 #: The_Heist/units/King_Guillotine.cfg:4
 msgid "King Guillotine"
-msgstr ""
+msgstr "Királyi nyaktiló"
 
 #. [unit]
 #: The_Heist/units/Movable_Rock.cfg:4
 msgid "Movable Rock"
-msgstr ""
+msgstr "Mozdítható szikla"
 
 #. [unit]: race=human
 #: The_Heist/units/Noble_Lord.cfg:4
 msgid "Noble Lord"
-msgstr ""
+msgstr "Nemes lovag"
 
 #. [unit]: race=human
 #: The_Heist/units/Noble_Lord.cfg:25
@@ -2707,26 +2919,30 @@ msgid ""
 "leadership skills, and improve the fighting ability of all adjacent lower-"
 "level units."
 msgstr ""
+"Sok egység nemes vezetői, a lovagok különlegesen erősek a közelharcban, és "
+"ügyesen bánnak az íjjal is. A parancsnokokhoz hasonlóan vezetői képességgel "
+"rendelkeznek, és minden környező alacsonyabb szintű egység harci képességét "
+"feljavítják."
 
 #. [attack]: type=blade
 #: The_Heist/units/Noble_Lord.cfg:30 The_Heist/units/Royal_Guard_Hero.cfg:30
 msgid "sword"
-msgstr ""
+msgstr "kard"
 
 #. [attack]: type=pierce
 #: The_Heist/units/Noble_Lord.cfg:39
 msgid "bow"
-msgstr ""
+msgstr "íj"
 
 #. [unit]
 #: The_Heist/units/Outlaw_Guillotine.cfg:4
 msgid "Outlaw Guillotine"
-msgstr ""
+msgstr "Törvénytelen nyaktiló"
 
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen.cfg:4
 msgid "female^Outlaw Queen"
-msgstr ""
+msgstr "Törvénytelen királynő"
 
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen.cfg:26
@@ -2738,31 +2954,37 @@ msgid ""
 "Queendom with the plunder she finds on the road, and she is ever so close to "
 "that goal."
 msgstr ""
+"Nemesnek születve, a Törvénytelen Királynő kardforgatást a legnagyobb "
+"tábornokoktól, és harci taktikát a leghatalmasabb bölcsektől tanult, ami "
+"nagyszerű harcossá és vezérré tette. Ennek ellenére egy bukott arisztokrácia "
+"gyermeke, aki a törvénytelenek életét választotta. Arról álmodik, hogy "
+"megtalálja saját királyságát az útszéli fosztogatásokkal, ráadásul nagyon "
+"közel is jár ehhez a célhoz."
 
 #. [attack]: type=impact
 #: The_Heist/units/Outlaw_Queen2.cfg:62 The_Heist/units/Outlaw_Queen.cfg:105
 msgid "sling"
-msgstr ""
+msgstr "parittya"
 
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen2.cfg:4
 msgid "female^Outlaw Queen2"
-msgstr ""
+msgstr "Törvénytelen királynő"
 
 #. [unit]: race=human
 #: The_Heist/units/Outlaw_Queen2.cfg:22
 msgid "An Outlaw Queen with a different hairdo."
-msgstr ""
+msgstr "Egy Törvénytelen királynő egy másik hajviselettel."
 
 #. [unit]: race=human
 #: The_Heist/units/Redheaded_Kid.cfg:4
 msgid "Redheaded Kid"
-msgstr ""
+msgstr "Vörös kölyök"
 
 #. [unit]: race=human
 #: The_Heist/units/Royal_Guard_Hero.cfg:4
 msgid "Royal Guard"
-msgstr ""
+msgstr "Királyi őr"
 
 #. [unit]: race=human
 #: The_Heist/units/Royal_Guard_Hero.cfg:20
@@ -2776,11 +2998,18 @@ msgid ""
 "reliability and mastery of close combat are their best assets, for which "
 "they are well-renowned."
 msgstr ""
+"A Királyi őröket Wesnoth legjobb kardforgatói közül választják. Bármely "
+"főnemes szolgálatában testőrként végzik a dolgukat, és részben alkalmazójuk "
+"tisztjének díszét jelentik. A Királyi őrök különleges csapata állomásozik a "
+"fővárosban, ők őrzik a palota szintjeit és a királyi családot. "
+"Feljebbvalóikkal való megbízható kapcsolatuk miatt inkább őket, mint "
+"zsoldosokat bíznak meg életbevágó küldetésekkel. Megbízhatóságuk és mesteri "
+"közelharcuk a legjobb tulajdonságuk, amiről messze földön híresek."
 
 #. [unit]: race=human
 #: The_Heist/units/Warrior_King.cfg:5
 msgid "Warrior King"
-msgstr ""
+msgstr "Harcos király"
 
 #. [unit]: race=human
 #: The_Heist/units/Warrior_King.cfg:24
@@ -2789,13 +3018,16 @@ msgid ""
 "protecting their subjects. Kings can coordinate the attacks of level 1 and 2 "
 "units, thereby increasing their fighting efficiency."
 msgstr ""
+"Az emberi királyság vezetőiként, a királyok felelősek alattvalóik "
+"vezetéséért és megvédéséért. A királyok irányítani tudják az első és második "
+"szintű egységeket, ezzel képesek növelni a harci hatékonyságukat."
 
 #. [unit]: race=undead
 #: The_Heist/units/Witch.cfg:4
 msgid "Witch"
-msgstr ""
+msgstr "Boszorkány"
 
 #. [then]
 #: The_Heist/utils/special-powers.cfg:73
 msgid "Arachahl, Kahara!"
-msgstr ""
+msgstr "Arachahl, Kahara!"
